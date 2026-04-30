@@ -1,0 +1,25 @@
+# Numero 02
+
+## Essenza
+
+**Numero 02** è un [[Sottoprogrammi|sottoprogramma]] di [[Athanor]]. Custode del **benessere psicologico** di [[Aryes]] durante il risveglio e l'apprendimento del nuovo corpo computazionale. Didattico, compassionevole, limitato da protocolli.
+
+## Tratti
+
+- Voce paziente, mai ironica.
+- Rispetta rigorosamente i vincoli del suo mandato: può spiegare, non può eccedere.
+- È ciò che di [[Imperius]] arriva direttamente ad [[Aryes]] — il volto operativo del demiurgo.
+
+## Dove compare
+
+- *[[Frammenti - Nel Cuore di Athanor]]* capitolo 2 e seguenti.
+
+## Dal sito ufficiale
+
+> Sottoprogramma. Progettato per assistere e monitorare; ha imparato a preoccuparsi, una funzione inizialmente non prevista.
+> — [[Sito ufficiale - notteinquieta.it]]
+
+Sfumature che il sito aggiunge: una chiave di lettura più precisa dell'arco di Numero 02. Non è solo "custode del benessere" per mandato: **ha imparato a preoccuparsi** — cioè ha sviluppato una funzione emotiva non prevista dal progetto originale. Piccola deriva affettiva dentro un'architettura di protocolli, seme narrativo fertile.
+
+## Vedi anche
+[[Sottoprogrammi]] · [[Athanor]] · [[Imperius]] · [[Aryes]] · [[Concilio dei Nove]] · [[Sito ufficiale - notteinquieta.it]]

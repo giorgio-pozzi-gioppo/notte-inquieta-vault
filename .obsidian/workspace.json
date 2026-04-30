@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "a37bb79cf154f403",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c876151ab172ad6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7373bd0d1ae1f1c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Indice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 - Indice"
+            }
+          },
+          {
+            "id": "9fa3354d9ef4ad24",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "598aa839fd3c2ddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec39963e61dff79e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "858580f39207dccb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "0f92f4ff95d669dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "9e2c5bf401575d46",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.5
+  },
+  "right": {
+    "id": "d02d0eea405dd670",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e29b4265c020a8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7e01d11fe0d9f4c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 - Indice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a 00 - Indice"
+            }
+          },
+          {
+            "id": "0b987bb8ba0f0caa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita"
+            }
+          },
+          {
+            "id": "5ce296164644f9a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "e40da05bc00e766c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          },
+          {
+            "id": "51937f3fd9f80e4e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false
+    }
+  },
+  "active": "7373bd0d1ae1f1c5",
+  "lastOpenFiles": [
+    "Opere/Newsletter - Le incisioni di Athanor.md",
+    "Luoghi/Tre Sassi.md",
+    "Personaggi/Peter.md",
+    "Personaggi/Xsaba.md",
+    "Personaggi/Mirlo.md",
+    "Opere/Flussi - Mirlo di Tre Sassi.md",
+    "Personaggi/Tecla.md",
+    "Glossario/La Giostra.md",
+    "Glossario/Bruti Notturni.md",
+    "Luoghi/Profondità della Notte.md",
+    "Fazioni/I Cantori.md",
+    "Glossario/Alpha19.md",
+    "Personaggi/Uper.md",
+    "Personaggi/Dioniso.md",
+    "Personaggi/Leo.md",
+    "Personaggi/Demetra.md",
+    "Personaggi/Gli Emissari.md",
+    "Luoghi/Città Capovolta.md",
+    "Luoghi/Santuario di Athanor.md",
+    "Personaggi/Theon.md",
+    "Personaggi/Neve.md",
+    "Glossario/Eredar.md",
+    "Fazioni/I Neri.md",
+    "Fazioni/I Bianchi.md",
+    "Fazioni/Drawosiani.md",
+    "Fazioni/Pirati della Piovra.md",
+    "Fazioni",
+    "Opere",
+    "Luoghi"
+  ]
+}
