@@ -2,6 +2,7 @@
 
 ## Panoramica
 
+- [[00 - Collaboratori AI]] — istruzioni operative per modelli AI
 - [[01 - Il Mondo]] — cosmologia, piani, regole
 - [[02 - Tono e Voce]] — registro, ritmo, sinestesia
 - [[03 - Temi]] — memoria, maschera, impeto, tempo

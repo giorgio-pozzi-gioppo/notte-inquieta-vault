@@ -2,11 +2,11 @@
 
 ## Forma
 
-**Ciclo di 7 capitoli**. Versione 2026. Narrazione introspettiva-tecnologica.
+**Ciclo di 8 capitoli** (7 narrativi + 1 frammento di log). Versione 2026. Narrazione introspettiva-tecnologica.
 
 ## Sinossi
 
-[[Aryes]], guerriero del [[Continuum]] ferito mortalmente da [[Sototh]], viene salvato da [[Imperius]]: la coscienza è **traslata** nell'architettura computazionale di [[Athanor]]. I sette capitoli raccontano risveglio, apprendimento del nuovo corpo, esplorazione della sfera e presentazione al [[Concilio dei Nove]].
+[[Aryes]], guerriero del [[Continuum]] ferito mortalmente da [[Sototh]], viene salvato da [[Imperius]]: la coscienza è **traslata** nell'architettura computazionale di [[Athanor]]. I sette capitoli narrativi raccontano risveglio, apprendimento del nuovo corpo, esplorazione della sfera e presentazione al [[Concilio dei Nove]]. Il **Frammento A** è un log di sistema corrotto: la voce è quella di Athanor durante l'operazione di recupero del corpo di Aryes.
 
 ## Capitoli
 
@@ -17,6 +17,7 @@
 5. Il laboratorio in profondità
 6. Le aree riservate del laboratorio
 7. Il Concilio dei Nove
+8. **Frammento A — Log corrotto recuperato** *(voce di Athanor durante il recupero di Aryes)*
 
 ## Temi
 

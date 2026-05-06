@@ -46,9 +46,15 @@ Aryes è l'**araldo di [[Diana]]**. Dalla sua posizione dentro [[Athanor]] può 
 - *[[Racconti intrecciati - Diradando l'oblio]]* cap. 10 *Cambio di passo* — parla attraverso Yari, confronta Sototh
 - Risonanze e ipotesi nel canone degli [[Ispar]] e degli [[Ythiano|Ythiani]]
 
+## Anatomia — la chimera
+
+Il **Frammento A** di *Nel Cuore di Athanor* (log di sistema di Athanor durante il recupero) rivela che Aryes ha una fisiologia del tutto anomala: *"L'anatomia del soggetto non rispetta le specifiche previste... Il soggetto è una chimera. Più resistente del previsto, ma con una fisiologia non documentata."* I sistemi di Athanor rilevano diversi tipi di DNA e strutture impreviste, e devono riprogrammare l'intervento di salvataggio. La priorità viene data al salvataggio dell'encefalo.
+
+Questa rivelazione rende canonico ciò che era solo ipotesi: Aryes non è un Ispar nella norma. La sua natura biologica è composita e non corrisponde ad alcun archivio conosciuto.
+
 ## Voci e ipotesi
 
-Circola — fra chi legge tra le righe — l'ipotesi che Aryes non sia un [[Ispar|Isparaleth]] *puro* ma un [[Ythiano]]: un Ispar entrato in contatto con "altro". L'autore non conferma. Resta come lettura a margine, fertile ma non canonica.
+Circola — fra chi legge tra le righe — l'ipotesi che Aryes non sia un [[Ispar|Isparaleth]] *puro* ma un [[Ythiano]]: un Ispar entrato in contatto con "altro". Il Frammento A conferma l'anomalia biologica ma non la nomina: l'autore lascia aperta l'interpretazione. Resta lettura fertile ma non completamente canonizzata.
 
 ## Vedi anche
 [[Ispar]] · [[Ythiano]] · [[Mare delle Monadi]] · [[Athanor]] · [[Imperius]] · [[Numero 02]] · [[Concilio dei Nove]] · [[Continuum]] · [[Sototh]] · [[Memoria]] · [[Sito ufficiale - notteinquieta.it]]
