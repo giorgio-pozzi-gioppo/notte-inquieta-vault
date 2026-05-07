@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Collaboratori Umani.md",
+                "file": "00 - Indice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Collaboratori Umani"
+              "title": "00 - Indice"
             }
           },
           {
@@ -31,7 +31,8 @@
               "title": "Vista grafo"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Collaboratori Umani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a 00 - Collaboratori Umani"
+              "title": "Riferimenti"
             }
           },
           {
@@ -190,12 +190,12 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "7373bd0d1ae1f1c5",
+  "active": "9fa3354d9ef4ad24",
   "lastOpenFiles": [
-    "00 - Manifesto.md",
-    "00 - Collaboratori AI.md",
     "00 - Indice.md",
+    "00 - Manifesto.md",
     "00 - Collaboratori Umani.md",
+    "00 - Collaboratori AI.md",
     "Glossario/Coro degli Spettri.md",
     "Opere/Teatro - Prigioniera a Detha.md",
     "index.md",
