@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Indice.md",
+                "file": "00 - Collaboratori Umani.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Indice"
+              "title": "00 - Collaboratori Umani"
             }
           },
           {
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Indice.md",
+                "file": "00 - Collaboratori Umani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a 00 - Indice"
+              "title": "Riferimenti a 00 - Collaboratori Umani"
             }
           },
           {
@@ -192,7 +192,10 @@
   },
   "active": "7373bd0d1ae1f1c5",
   "lastOpenFiles": [
+    "00 - Manifesto.md",
     "00 - Collaboratori AI.md",
+    "00 - Indice.md",
+    "00 - Collaboratori Umani.md",
     "Glossario/Coro degli Spettri.md",
     "Opere/Teatro - Prigioniera a Detha.md",
     "index.md",
@@ -215,9 +218,6 @@
     "Personaggi/Gli Emissari.md",
     "Luoghi/Città Capovolta.md",
     "Luoghi/Santuario di Athanor.md",
-    "Personaggi/Theon.md",
-    "Personaggi/Neve.md",
-    "Glossario/Eredar.md",
     "Fazioni",
     "Opere",
     "Luoghi"
