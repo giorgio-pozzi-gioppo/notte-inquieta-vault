@@ -10,6 +10,9 @@ Non è una scheda narrativa interna alla saga, ma un punto di orientamento pubbl
 
 - Versione Workers: <https://mappa.robadigioppo.workers.dev/>
 - Versione GitHub Pages: <https://giorgio-pozzi-gioppo.github.io/notteinquieta-mappa/>
+- Archivio di recupero: <https://archive.org/details/notteinquieta-mappa>
+
+Se la mappa delle risorse non dovesse essere più disponibile agli indirizzi principali, può essere scaricata e ricostruita a partire dall'archivio pubblicato su Internet Archive.
 
 ## Uso
 
