@@ -14,7 +14,7 @@ Un **caos** non specificato ha disperso gli abitanti di Tre Sassi. [[Mirlo]] si 
 
 ## Dove compare
 
-- *[[Flussi - Mirlo di Tre Sassi]]* cap. 0 *Lo spazio delle monadi* — luogo di origine del protagonista
+- *[[Flussi - Mirlo di Tre Sassi]]* cap. 0 *Lo spazio delle [[Monadi|monadi]]* — luogo di origine del protagonista
 
 ## Vedi anche
 

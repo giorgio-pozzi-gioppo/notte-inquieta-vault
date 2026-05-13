@@ -1,6 +1,6 @@
 # Pozione violacea
 
-Droga dell'oblio. Strumento farmacologico del potere di [[Sototh]] — colora di viola ciò che tocca e cancella la [[Memoria|memoria]].
+Droga dell'[[Oblio|oblio]]. Strumento farmacologico del potere di [[Sototh]] — colora di viola ciò che tocca e cancella la [[Memoria|memoria]].
 
 Con la pozione violacea [[Sototh]] seduce e addormenta [[Diana]], imprigionandola nel sonno-coma di [[Detha]]. È l'arma di Sototh contro la pulsione creativa: non la distrugge, la sospende.
 

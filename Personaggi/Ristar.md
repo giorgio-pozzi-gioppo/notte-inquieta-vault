@@ -13,7 +13,7 @@ Capelli **ricci e corvini** con **riflessi violacei** sulle guance scure. Occhi 
 
 ## Arco
 
-Ad Agata è l'**Eletta del Tramonto**: l'ultima della sua casata in grado di ricevere l'investitura come Avatar — un ruolo che la vincolerà alla Sala dei Cristalli, prosciugandola come ha fatto con suo fratello [[Theon]]. Rifiuta, scappa grazie all'aiuto della vecchia serva Jaan e di [[Zira]], combatte [[Xabras]] nei sotterranei del castello, perde di nuovo i poteri con la distruzione della runa.
+Ad Agata è l'**Eletta del Tramonto**: l'ultima della sua casata in grado di ricevere l'investitura come Avatar — un ruolo che la vincolerà alla Sala dei [[Cristalli|Cristalli]], prosciugandola come ha fatto con suo fratello [[Theon]]. Rifiuta, scappa grazie all'aiuto della vecchia serva Jaan e di [[Zira]], combatte [[Xabras]] nei sotterranei del castello, perde di nuovo i poteri con la distruzione della runa.
 
 Viene recuperata dal [[Continuum]] e portata a [[Ythia]], dove incontra [[Nymeria]] per caso in strada — con una sensazione condivisa di conoscersi già. Attende il benvenuto ufficiale di [[Icore]].
 

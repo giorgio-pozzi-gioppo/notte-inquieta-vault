@@ -10,7 +10,7 @@ Giovane, corpo snello con muscolatura tesa e potente. Pelle **bianchissima**, oc
 
 ## Arco
 
-Ad Agata, lavora al fianco del padre di [[Ristar]] e dell'Ordine dei Drawosiani per portare a termine il **rituale del Legame** — che consuma l'energia della casata per alimentare le forze di Sototh. Quando Ristar riesce a recuperare i suoi poteri grazie alla runa del Continuum, Xabras interviene personalmente: aggira il combattimento diretto e **distrugge la runa** con un colpo preciso, privandola nuovamente dei poteri. È un avversario che non combatte per vincere in senso brutale — ragiona.
+Ad Agata, lavora al fianco del padre di [[Ristar]] e dell'Ordine dei Drawosiani per portare a termine il **rituale del Legame** — che consuma l'energia della casata per alimentare le forze di Sototh. Quando Ristar riesce a recuperare i suoi poteri grazie alla runa del [[Continuum|Continuum]], Xabras interviene personalmente: aggira il combattimento diretto e **distrugge la runa** con un colpo preciso, privandola nuovamente dei poteri. È un avversario che non combatte per vincere in senso brutale — ragiona.
 
 È un personaggio destinato a tornare, con una presenza narrativa rilevante.
 

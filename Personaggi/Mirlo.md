@@ -17,7 +17,7 @@ La sua storia è tutta di scoperta: non conosce il mondo, i pirati, Athanor, gli
 
 ## Dove compare
 
-- *[[Flussi - Mirlo di Tre Sassi]]* cap. 0 *Lo spazio delle monadi* (narratore)
+- *[[Flussi - Mirlo di Tre Sassi]]* cap. 0 *Lo spazio delle [[Monadi|monadi]]* (narratore)
 
 ## Vedi anche
 

@@ -26,7 +26,7 @@ Stampa su canvas con risvolto su telaio in nero. Tiratura limitata.
 | Hope | 29,7×21 cm | 2014 |
 | Icore | 100×70 cm | 2014 |
 | Il risveglio di Diana | 160×100 cm | 2014 |
-| La curiosità di Iceb *(ex Iceb)* | 42×29,7 cm | 2014 |
+| La curiosità di [[Iceb|Iceb]] *(ex Iceb)* | 42×29,7 cm | 2014 |
 | La fortezza di Detha | 160×100 cm | 2014 |
 | Lotta degli Dei | 150×100 cm | 2014 |
 | Magia per Icore | 150×100 cm | 2014 |

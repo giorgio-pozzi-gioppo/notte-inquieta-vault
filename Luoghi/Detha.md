@@ -9,7 +9,7 @@ Fortezza volante sospesa fra le [[Monadi]], ai margini dello spazio. **Due torri
 
 ## Atmosfera
 
-Isola nel buio dove "tutto scorre più lentamente". Mare di stelle intorno. Distanza incolmabile tra il tempo del mondo e quello della torre.
+Isola nel buio dove "tutto scorre più lentamente". [[Mare di Stelle|Mare di stelle]] intorno. Distanza incolmabile tra il tempo del mondo e quello della torre.
 
 ## Abitanti e presenze
 

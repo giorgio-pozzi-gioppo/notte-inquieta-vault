@@ -20,7 +20,7 @@ Il mondo si spezza in Monadi; nasce il **Mare delle Monadi** (→ [[Mare delle M
 
 → [[Frattura]]
 
-## 4. La Giostra
+## 4. [[La Giostra|La Giostra]]
 
 Il caos dilaga tra le [[Monadi]]. Grande guerra con [[Sototh]]. Gli Ispar scoprono altri mondi e stringono alleanze.
 

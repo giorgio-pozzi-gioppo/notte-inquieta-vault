@@ -5,6 +5,7 @@
 ## Coordinate
 
 - **Sito principale:** <https://www.notteinquieta.it/>
+- **Mappa della Notte Inquieta:** <https://mappa.robadigioppo.workers.dev/> e <https://giorgio-pozzi-gioppo.github.io/notteinquieta-mappa/>
 - **Autore:** Giorgio Pozzi (in arte *Gioppo*)
 - **Sito di pittura:** <https://www.gioppo.it>
 - **Contatto:** postadigioppo@gmail.com
@@ -34,15 +35,17 @@ Nella home è ora presente una sezione dedicata ai comprimari, con titolo e tagl
 | Personaggio | Titolo | Tagline |
 |---|---|---|
 | [[Yinnead]] | Il druido dei felini di Athanor | Il gattaro che cerca un futuro luminoso per la sua gente. |
-| [[Ristar]] | La maga del fuoco di Agata | Porta fiamme che scaldano… e fiamme che divorano. |
+| [[Ristar]] | La maga del fuoco di [[Agata|Agata]] | Porta fiamme che scaldano… e fiamme che divorano. |
 | [[Nymeria]] | L'arciera del tramonto | Le sue frecce arcane raggiungono sempre il bersaglio, anche se non esiste. |
 | [[Sharon]] | La sacerdotessa delle fate | Custodisce segreti leggeri come polvere… e altrettanto pericolosi. |
-| [[Calypso (donna alata)\|Calypso]] | La strega degli uccelli | Un'alleata pericolosa in un gioco mortale mai finito. |
+| [[Calypso (donna alata)|Calypso]] | La strega degli uccelli | Un'alleata pericolosa in un gioco mortale mai finito. |
 | [[Dafne]] | La testimone | Vede ciò che accade… e ciò che il mondo cerca di dimenticare. |
 
 ## Piattaforme di distribuzione
 
 Il progetto è distribuito su più piattaforme: **Medium, Tumblr, AO3, Substack, Instagram**. La cronologia sul sito è il "registro ufficiale" degli eventi, aggiornato in tempo reale dall'autore. La newsletter è su **Substack**.
+
+La [[Mappa della Notte Inquieta]] raccoglie gli accessi alle risorse disponibili per lettori e collaboratori.
 
 ## Archivi dedicati
 

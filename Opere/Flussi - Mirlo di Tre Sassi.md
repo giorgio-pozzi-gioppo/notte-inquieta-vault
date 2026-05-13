@@ -14,7 +14,7 @@ Avanza a balzi di roccia in roccia nel silenzio assoluto, senza acqua né cibo, 
 
 | N. | Titolo | Stato |
 |---|---|---|
-| 0 | *Lo spazio delle monadi* | Completo (v1, 2026) |
+| 0 | *Lo spazio delle [[Monadi|monadi]]* | Completo (v1, 2026) |
 
 ## Personaggi
 
@@ -24,4 +24,4 @@ Avanza a balzi di roccia in roccia nel silenzio assoluto, senza acqua né cibo, 
 
 ## Vedi anche
 
-[[Tre Sassi]] · [[Mare delle Monadi]] · [[Athanor]] · [[Flussi]]
+[[Tre Sassi]] · [[Mare delle Monadi]] · [[Athanor]] · [[Flussi temporali|Flussi]]

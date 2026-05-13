@@ -4,7 +4,7 @@
 
 **Uper** è un [[Ispar]] che nell'era del palazzo viveva nel Cortile insieme agli altri. Compare nei ricordi di [[Gisèl]] (cap. 10) mentre guarda perplesso la scena caotica — [[Aryes]], [[Leo]] e [[Demetra]] che scorrazzano tra le rose.
 
-Nel presente della saga vive con **[[Demy]]** come suo gatto — senza che nessuno dei due sappia (ancora) cosa sia davvero.
+Nel presente della saga vive con **[[Demetra|Demy]]** come suo gatto — senza che nessuno dei due sappia (ancora) cosa sia davvero.
 
 ## Arco futuro
 
@@ -23,4 +23,4 @@ Con il **risveglio di [[Diana]]**, Uper scoprirà di essere un Ispar. Questo arc
 
 ## Vedi anche
 
-[[Ispar]] · [[Demy]] · [[Diana]] · [[Aryes]] · [[Leo]] · [[Dioniso]] · [[Demetra]]
+[[Ispar]] · [[Demetra|Demy]] · [[Diana]] · [[Aryes]] · [[Leo]] · [[Dioniso]] · [[Demetra]]

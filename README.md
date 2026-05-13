@@ -15,7 +15,7 @@ Vault di riferimento della saga di **Giorgio Pozzi**. Contiene mondo, personaggi
 ### Cartelle
 
 - **Lessico/** — le 12 voci canoniche ontologiche (il cuore poetico della saga). Cfr. [[Lessico]].
-- **Glossario/** — termini tecnici e narrativi ricorrenti che non sono nel Lessico (Monadi, Crisalide, Sparkle, [[Continuum|Continuum]], rune dorate, pozione violacea, ecc.).
+- **Glossario/** — termini tecnici e narrativi ricorrenti che non sono nel Lessico (Monadi, [[Crisalide|Crisalide]], Sparkle, [[Continuum|Continuum]], rune dorate, pozione violacea, ecc.).
 - **Personaggi/** — divinità, personaggi, forze, creature.
 - **Luoghi/** — regioni, piani, architetture, non-luoghi.
 - **Opere/** — mappa dei testi esistenti (teatro, frammenti, racconti intrecciati, romanzi).

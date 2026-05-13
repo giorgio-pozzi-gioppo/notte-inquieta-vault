@@ -12,7 +12,7 @@ I Neri sono un livello di difesa che la maggior parte degli abitanti del mondo d
 
 ## La storia non raccontata
 
-Perché i Neri hanno lasciato la capitale? Cosa li ha spinti verso gli anfratti? Questo è un territorio narrativo aperto — potenzialmente uno dei segreti più antichi del mondo, risalente a un'era precedente alla [[Frattura]] o addirittura a [[L'Innesto]].
+Perché i Neri hanno lasciato la capitale? Cosa li ha spinti verso gli anfratti? Questo è un territorio narrativo aperto — potenzialmente uno dei segreti più antichi del mondo, risalente a un'era precedente alla [[Frattura]] o addirittura a [[07 - Cronologia delle Ere#1. L'Innesto|L'Innesto]].
 
 ## Vedi anche
 

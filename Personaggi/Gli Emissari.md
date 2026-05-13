@@ -11,7 +11,7 @@ Si proclamano inviati da **"la divinità che avete dovuto dimenticare"** — ovv
 I due hanno forme radicalmente diverse:
 
 - **Il costrutto felino**: composto di **dense fiamme annodate**, rosso come [[Icore]] ma dall'aspetto più luminoso e vitale. Agile, atletico. Porta nel fisico la qualità ignea del fuoco creativo.
-- **Il costrutto umanoide**: **risplende di luce**. Combatte con eleganza usando una **lunga alabarda con un estremo biforcuto**. Ricorda i figure di certe monadi infette, ma trasformato.
+- **Il costrutto umanoide**: **risplende di luce**. Combatte con eleganza usando una **lunga alabarda con un estremo biforcuto**. Ricorda i figure di certe [[Monadi|monadi]] infette, ma trasformato.
 
 ## Ruolo
 

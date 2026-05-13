@@ -1,6 +1,6 @@
 # Demetra
 
-> Conosciuta anche come **[[Demy]]** nell'era di *[[Romanzi - Schegge di Tenebra]]*. Stesso personaggio, due nomi per due epoche diverse.
+> Conosciuta anche come **[[Demetra|Demy]]** nell'era di *[[Romanzi - Schegge di Tenebra]]*. Stesso personaggio, due nomi per due epoche diverse.
 
 ## Essenza
 

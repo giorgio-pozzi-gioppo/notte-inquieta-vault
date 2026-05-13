@@ -4,7 +4,7 @@ Esempi **verbatim** dal canone letto.
 
 ## Incipit
 
-**Lessico**
+**[[Lessico|Lessico]]**
 > Queste voci non definiscono. Restano. Sono ciò che emerge quando il mondo si lascia dire senza spiegarsi.
 
 ***Dialogo col derelitto*, Atto I** ([[Antarius]] in azione)

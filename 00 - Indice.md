@@ -17,6 +17,7 @@
 ## Fonti canoniche
 
 - [[Sito ufficiale - notteinquieta.it]] — dati estratti dal sito, registro "in tempo reale"
+- [[Mappa della Notte Inquieta]] — elenco delle risorse disponibili per lettori e collaboratori
 
 ## Lessico (canone ontologico)
 

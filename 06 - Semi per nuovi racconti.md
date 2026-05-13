@@ -30,7 +30,7 @@ Il [[Lessico]] le dedica una voce piena ("centro del mondo, amica lontana, nuovo
 A oriente del [[Solco Azzurro]]. Abitanti? Spiriti, [[Ispar]] originari, voci di una memoria comune? Mai esplorata nel letto.
 
 ## 10. Piccoli punti di vista
-Uno dei personaggi minori come narratore di un evento grande. Cambia scala: la saga cosmica vista dal pappagallo di [[Nymeria]] ([[Calypso (pappagallo)]]), o dall'interno della maschera di [[Sam]] — Sototh che finge di essere il marito di Diana, visto dall'unico punto di vista che non può mentire a se stesso.
+Uno dei personaggi minori come narratore di un evento grande. Cambia scala: la saga cosmica vista dal pappagallo di [[Nymeria]] ([[Calypso (pappagallo)]]), o dall'interno della maschera di [[Sam]] — [[Sototh|Sototh]] che finge di essere il marito di Diana, visto dall'unico punto di vista che non può mentire a se stesso.
 
 ## Vedi anche
 [[00 - Indice]] · [[03 - Temi]]

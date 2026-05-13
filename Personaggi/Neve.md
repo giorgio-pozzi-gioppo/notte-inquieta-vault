@@ -12,7 +12,7 @@ Pelo **chiaro con sfumature rosate**. Carattere **molto dolce** — la dolcezza 
 
 ## Ruolo
 
-Non è una guerriera né una stratega: è un punto fermo. In un mondo dove tutto cambia e le monadi cadono, Neve è la costante — il primo volto amico che i recuperati vedono a Ythia.
+Non è una guerriera né una stratega: è un punto fermo. In un mondo dove tutto cambia e le [[Monadi|monadi]] cadono, Neve è la costante — il primo volto amico che i recuperati vedono a Ythia.
 
 ## Dove compare
 

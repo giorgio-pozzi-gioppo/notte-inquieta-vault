@@ -11,7 +11,7 @@
 
 Gigantesca **sfera fluttuante** con motori gravitazionali. Fucina biotech di [[Imperius]]. Corpo-macchina, **senziente**, capace di ospitare coscienze altrui.
 
-La home page del sito lo presenta anche come **centro comune** attorno a cui ruotano monadi silenziose. Una città vive appesa ad Athanor: incrocio di culture, razze e provenienze lontane.
+La home page del sito lo presenta anche come **centro comune** attorno a cui ruotano [[Monadi|monadi]] silenziose. Una città vive appesa ad Athanor: incrocio di culture, razze e provenienze lontane.
 
 ## Struttura interna
 

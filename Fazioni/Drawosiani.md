@@ -6,7 +6,7 @@ I **Drawosiani** sono gli umani di [[Agata]] che operano al servizio di [[Sototh
 
 ## Come operano
 
-Gestiscono il **rituale del Legame** — la cerimonia che consacra un membro della casata regnante come **Avatar di Agata**, vincolandolo alla Sala dei Cristalli e prosciugandone l'energia vitale a vantaggio dell'Ordine. Questo meccanismo trasforma la stirpe al potere in una risorsa consumabile. Il popolo di Agata è tenuto all'oscuro della corruzione tramite leggi, propaganda e controllo della memoria storica.
+Gestiscono il **rituale del Legame** — la cerimonia che consacra un membro della casata regnante come **Avatar di Agata**, vincolandolo alla Sala dei [[Cristalli|Cristalli]] e prosciugandone l'energia vitale a vantaggio dell'Ordine. Questo meccanismo trasforma la stirpe al potere in una risorsa consumabile. Il popolo di Agata è tenuto all'oscuro della corruzione tramite leggi, propaganda e controllo della memoria storica.
 
 La collusione con Sototh non è necessariamente ideologica: può essere il risultato di un patto — come quello stipulato dal padre di [[Ristar]] dopo la morte della moglie — o di una corruzione progressiva, o di un'infestazione diretta.
 

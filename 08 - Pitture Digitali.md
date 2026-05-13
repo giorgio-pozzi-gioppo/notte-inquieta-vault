@@ -11,7 +11,7 @@ Le raccolte presenti nell'archivio:
 23 opere. Stampa su canvas con risvolto su telaio in nero. Tiratura limitata.
 Personaggi, creature, luoghi e visioni cosmiche. La raccolta più ampia: copre gran parte del bestiario e del pantheon di Notte Inquieta, dalle figure guerriere ai frammenti di divinità.
 
-Opere: Ado · Aryes · Awareness *(ex Cristallo)* · Baloon · Bianco · Calypso · Dash · Deuterium · Emissario · Hope · Icore · Il risveglio di Diana · La curiosità di Iceb *(ex Iceb)* · La fortezza di Detha · Lotta degli Dei · Magia per Icore · Nero *(ex Lunare)* · Nistra del magma · Simbionte · Sparkle · Strega · Varco · Zadworx
+Opere: Ado · [[Aryes|Aryes]] · Awareness *(ex Cristallo)* · Baloon · Bianco · Calypso · Dash · Deuterium · Emissario · Hope · Icore · Il risveglio di Diana · La curiosità di Iceb *(ex Iceb)* · La fortezza di Detha · Lotta degli Dei · Magia per Icore · Nero *(ex Lunare)* · Nistra del magma · Simbionte · Sparkle · Strega · Varco · Zadworx
 
 ## Tempo del Sogno (2017)
 

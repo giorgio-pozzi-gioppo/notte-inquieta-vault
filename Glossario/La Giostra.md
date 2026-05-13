@@ -10,7 +10,7 @@
 
 - **Creature dall'esterno** della Crisalide irrompono nel suo spazio
 - **Mille fazioni** dei dintorni si scontrano tra loro
-- Il conflitto si estende ad altri **cristalli** oltre alla Crisalide protagonista
+- Il conflitto si estende ad altri **[[Cristalli|cristalli]]** oltre alla Crisalide protagonista
 
 Non è una guerra tra due schieramenti definiti: è il caos di un'era in cui i confini tra interno ed esterno, tra abitatori della Crisalide e creature esterne, si rompono su più fronti contemporaneamente.
 

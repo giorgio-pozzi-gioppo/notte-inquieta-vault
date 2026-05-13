@@ -2,7 +2,7 @@
 
 ## Essenza
 
-I **Pirati della Piovra** sono l'**élite** dell'esercito pirata di [[Sototh]] — i più potenti tra le sue forze di conquista. Si distinguono dai pirati ordinari per capacità e composizione: al nucleo umanoide si aggiungono spesso [[Iskaroth]] integrati nei ranghi per aumentarne la potenza in combattimento. Il nome deriva dall'associazione con le **[[Piovre Volanti]]** — creature da guerra colossali che Sototh schiera nei momenti in cui è particolarmente determinato a vincere — e ribadisce il senso di élite: come le Piovre sono più potenti del nemico comune, i Pirati della Piovra lo sono tra i pirati.
+I **Pirati della Piovra** sono l'**élite** dell'esercito pirata di [[Sototh]] — i più potenti tra le sue forze di conquista. Si distinguono dai pirati ordinari per capacità e composizione: al nucleo umanoide si aggiungono spesso [[Iskaroth]] integrati nei ranghi per aumentarne la potenza in combattimento. Il nome deriva dall'associazione con le **[[Pirati della Piovra#Le Piovre Volanti|Piovre Volanti]]** — creature da guerra colossali che Sototh schiera nei momenti in cui è particolarmente determinato a vincere — e ribadisce il senso di élite: come le Piovre sono più potenti del nemico comune, i Pirati della Piovra lo sono tra i pirati.
 
 ## Struttura
 

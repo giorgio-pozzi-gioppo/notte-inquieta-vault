@@ -6,7 +6,7 @@
 
 ## Come è morto
 
-Theon è stato consumato dal **rituale del Legame** dei [[Drawosiani]]: il cerimoniale che lega un membro della casata alla Sala dei Cristalli di Agata come Avatar, prosciugandone l'energia vitale a vantaggio delle forze che controllano la città. La versione ufficiale racconta di un "ripensamento dell'ultimo momento" — che Theon avrebbe accettato spontaneamente il sacrificio. La vecchia Jaan, serva di palazzo, afferma che non era così: era una punizione, non una scelta.
+Theon è stato consumato dal **rituale del Legame** dei [[Drawosiani]]: il cerimoniale che lega un membro della casata alla Sala dei [[Cristalli|Cristalli]] di Agata come Avatar, prosciugandone l'energia vitale a vantaggio delle forze che controllano la città. La versione ufficiale racconta di un "ripensamento dell'ultimo momento" — che Theon avrebbe accettato spontaneamente il sacrificio. La vecchia Jaan, serva di palazzo, afferma che non era così: era una punizione, non una scelta.
 
 ## Peso narrativo
 

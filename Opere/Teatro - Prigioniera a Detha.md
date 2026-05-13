@@ -26,7 +26,7 @@ Il Coro degli Spettri si agita fuori dai vetri — Diana li sente e risponde anc
 - Sototh non è un carceriere passionale: è **metodico, clinico**. Parla di "protocollo", "analisi", "stato stabile". La prigionia di Diana è per lui un esperimento da monitorare.
 - Diana mantiene connessione con la vita anche sedatissima: le piante crescono attorno a lei spontaneamente. *"Ha bisogno di far crescere le piante attorno a sé, ne ha bisogno come del respiro."*
 - L'**Eco di Nimorion** è udibile solo da Sototh — coerente con la sua origine dal contatto involontario tra i due.
-- Il Coro degli Spettri non è composto da Ispar: sono luci spontanee, voci esterne al Mare delle Monadi.
+- Il Coro degli Spettri non è composto da Ispar: sono luci spontanee, voci esterne al Mare delle [[Monadi|Monadi]].
 
 ## Capitoli
 

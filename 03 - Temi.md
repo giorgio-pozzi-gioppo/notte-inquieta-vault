@@ -1,6 +1,6 @@
 # Temi
 
-## [[Memoria|Memoria]] vs. Oblio
+## [[Memoria|Memoria]] vs. [[Oblio|Oblio]]
 
 [[Diana]] cade in oblio chimico ([[Pozione violacea]]). [[Antarius]] scopre di essere eco di memoria. [[Aryes]] perde il corpo ma salva la coscienza. Il titolo *[[Racconti intrecciati - Diradando l'oblio|Diradando l'oblio]]* sintetizza la missione: **diradare**, non cancellare. La memoria è sia strumento di controllo (Sototh droga) sia di liberazione (i frammenti di [[Chrono]] sopravvivono).
 

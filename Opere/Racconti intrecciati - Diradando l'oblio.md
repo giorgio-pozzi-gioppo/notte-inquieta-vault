@@ -17,7 +17,7 @@ La raccolta segue più linee narrative che convergono verso la liberazione di [[
 3. **Le stanze di Chrono** — [[Yadon]] visita la [[Clessidra del Mana]] distrutta, incontra il frammento di [[Chrono]].
 4. **Gisèl della Notte Inquieta** — [[Nymeria]] durante l'**invasione demoniaca**; salvata da [[Gisèl]].
 
-I capitoli successivi (5, 5b, 5c, 6, 6b–e, 7–10) ampliano prospettive e introducono ulteriori figure (**Ristar del Fuoco**, **Yinnead del Sogno**, **[[Icore|Icore]]**, **Zira**, ecc.) — non ancora ritratte come pagine dedicate perché lette solo di sfuggita.
+I capitoli successivi (5, 5b, 5c, 6, 6b–e, 7–10) ampliano prospettive e introducono ulteriori figure (**[[Ristar|Ristar]] del Fuoco**, **Yinnead del Sogno**, **[[Icore|Icore]]**, **Zira**, ecc.) — non ancora ritratte come pagine dedicate perché lette solo di sfuggita.
 
 ## Architettura
 

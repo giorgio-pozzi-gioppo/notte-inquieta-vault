@@ -33,7 +33,7 @@ Altre forze gravitano intorno: [[Chrono]] custode del tempo, [[Imperius]] artefi
 
 ## Regole del mondo
 
-- **Il tempo non è lineare.** [[Chrono]] lo custodisce, [[Sototh]] lo distorce. Esistono "flussi temporali", "linee del tempo", modifiche della cronologia. La narrazione della saga è spesso *simultanea* (più scene accadono in strati diversi).
+- **Il tempo non è lineare.** [[Chrono]] lo custodisce, [[Sototh]] lo distorce. Esistono "[[Flussi temporali|flussi temporali]]", "linee del tempo", modifiche della cronologia. La narrazione della saga è spesso *simultanea* (più scene accadono in strati diversi).
 - **La memoria è fragile e farmacologicamente attaccabile.** Diana è addormentata con una pozione violacea che cancella il ricordo. L'oblio è uno strumento di potere — diradarlo è un'impresa (vedi [[Racconti intrecciati - Diradando l'oblio]]).
 - **Le identità sono fluide.** Nimorion ha molteplici maschere. Antarius scopre di non essere umano ma "costrutto di memoria incarnata". Aryes traslata dalla carne al computo di Athanor.
 - **Gli specchi di ossidiana sono portali** fra regioni e stati di essere.

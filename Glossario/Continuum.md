@@ -24,7 +24,7 @@ Il **[[Concilio dei Nove]]** è il suo organo deliberativo più alto.
 
 ## Membri noti
 
-- [[Icore]] — gran maestro del Santuario, custode di Athanor e stratega
+- [[Icore]] — gran maestro del Santuario, custode di [[Athanor|Athanor]] e stratega
 - [[Nibiru]] — reggente di Ythia, chimera di due stirpi di Ispar
 - [[Nyala]] — guerriera della prima generazione, tramite tra Icore e Gisèl
 - [[Gisèl]] — costruttore di varchi fra Monadi, spesso fuori sede

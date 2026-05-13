@@ -13,7 +13,7 @@ Entità nate spontaneamente nel [[Mare di Stelle]], prive di vincolo, senza stor
 
 Vivono per la sola pulsione della realizzazione: diventare ciò che possono essere. Non servono, non appartengono, non ereditano.
 
-Nella home page vengono presentati come creature leggere e luminose che **cantano nel cuore delle monadi**. Il canto li avvicina al registro di custodia, compagnia e memoria: una presenza fragile e immortale che tiene viva la speranza.
+Nella home page vengono presentati come creature leggere e luminose che **cantano nel cuore delle monadi**. Il canto li avvicina al registro di custodia, compagnia e [[Memoria|memoria]]: una presenza fragile e immortale che tiene viva la speranza.
 
 ## Forme
 
