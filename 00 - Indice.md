@@ -12,7 +12,7 @@
 - [[05 - Incipit e Chiusure]] — esempi verbatim
 - [[06 - Semi per nuovi racconti]] — direzioni fertili
 - [[07 - Cronologia delle Ere]] — registro canonico delle 8 ere
-- [[08 - Pitture Digitali]] — le due raccolte visive dell'universo
+- [[08 - Pitture Digitali]] — raccolte visive dell'universo
 
 ## Fonti canoniche
 
@@ -103,3 +103,8 @@ In scrittura (dal sito):
 
 - [[Pitture - Visioni e Leggende]] — 23 opere: personaggi, creature, visioni cosmiche
 - [[Pitture - Tempo del Sogno]] — 5 opere: scene intorno al sonno di [[Diana]]
+
+## Newsletter
+
+- [[Newsletter - Le incisioni di Athanor]] — nota 00
+- [[Newsletter - Trasmissioni da Athanor]] — nota 01, ritorno di [[Nimorion]] a [[Detha]]

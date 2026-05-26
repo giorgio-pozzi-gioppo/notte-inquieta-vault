@@ -24,8 +24,8 @@ Opere: Il risveglio di Diana · La fortezza di Detha · Lotta degli Dei · Magia
 
 ---
 
-Le immagini si trovano in:
-`~/Desktop/Laboratorio/Riferimento interno/Notte Inquieta/Opere/`
+Il riferimento operativo aggiornato per i materiali visivi è:
+`~/Desktop/Laboratorio/GitHub/notte-inquieta/Pitture/`
 
 ## Vedi anche
 [[01 - Il Mondo]] · [[Diana]] · [[Detha]] · [[Icore]] · [[Sharon]] · [[Sparkle]] · [[Zadworx]]
