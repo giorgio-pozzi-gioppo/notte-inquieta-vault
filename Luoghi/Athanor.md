@@ -18,6 +18,7 @@ La home page del sito lo presenta anche come **centro comune** attorno a cui ruo
 - Camere di risveglio e cura.
 - Laboratori di ricostruzione.
 - **Aree riservate** (livelli proibiti, sottoprogrammi-specialisti).
+- Deposito dei droni, dove sono conservati corpi robotici, droni di recupero danneggiati e parti di backup del [[Zadworx|Guardiano]].
 - Sala del [[Concilio dei Nove]].
 - **Menù mentali di navigazione** — chi abita Athanor impara a muoversi con la volontà.
 
@@ -25,5 +26,15 @@ La home page del sito lo presenta anche come **centro comune** attorno a cui ruo
 
 Accoglie [[Aryes]] morente, ne traspone la coscienza nell'architettura computazionale. Athanor non è semplice spazio: è **corpo alternativo**, prolungamento demiurgico di [[Imperius]].
 
+## Difese e movimento
+
+Athanor dispone di sistemi difensivi avanzati. Può inoltre viaggiare molto velocemente tra i [[Cristalli]], dettaglio che diventa rilevante quando Aryes teme che [[Sototh]] possa rintracciarlo e completare il lavoro.
+
+## Ricerca e recupero
+
+I laboratori di Athanor studiano materiali recuperati dal nemico di Aryes. Gli esperimenti non sono privi di rischio: nel frammento **Infusione** un incidente viene contenuto espellendo il problema per precauzione.
+
+Il recupero fisico di Aryes è stato compiuto da droni specializzati nel movimento aereo, poi danneggiati e conservati nel deposito. Il nuovo corpo organico di Aryes resta un progetto complesso; nel frattempo Athanor gli fornisce un corpo robotico temporaneo.
+
 ## Vedi anche
-[[Lessico]] · [[Imperius]] · [[Aryes]] · [[Concilio dei Nove]] · [[Sottoprogrammi]] · [[Numero 02]]
+[[Lessico]] · [[Imperius]] · [[Aryes]] · [[Concilio dei Nove]] · [[Sottoprogrammi]] · [[Numero 02]] · [[Zadworx]] · [[Cristalli]] · [[Sototh]]

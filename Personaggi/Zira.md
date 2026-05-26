@@ -24,8 +24,8 @@ La sua storia personale non è ancora stata narrata. Il fatto che non abbia form
 
 ## Dove compare
 
-- *[[Racconti intrecciati - Diradando l'oblio]]* cap. 5 *Un destino strappato* (protagonista accanto a Ristar)
-- *[[Racconti intrecciati - Diradando l'oblio]]* cap. 6b *Incroci a Ythia* (presenza esterna, osservatrice)
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 9 *Un destino strappato* (protagonista accanto a Ristar)
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 13 *Incroci a Ythia* (presenza esterna, osservatrice)
 
 ## Vedi anche
 

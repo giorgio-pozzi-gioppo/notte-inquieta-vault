@@ -6,7 +6,7 @@
 
 ## Arco
 
-Nel capitolo 4 di *[[Racconti intrecciati - Diradando l'oblio]]* Nymeria è coinvolta in un'**invasione demoniaca** — probabilmente originata da [[Krot]]. Viene salvata nel momento critico da [[Gisèl]], costruttore di varchi fra le [[Monadi]], che la porta via dal fronte aperto. Scende "una notte senza fine".
+Nell'ep. 7 di *[[Racconti intrecciati - Diradando l'oblio]]* Nymeria è coinvolta in un'**invasione demoniaca** — probabilmente originata da [[Krot]]. Viene salvata nel momento critico da [[Gisèl]], costruttore di varchi fra le [[Monadi]], che la porta via dal fronte aperto. Scende "una notte senza fine".
 
 ## Tratti
 
@@ -16,7 +16,7 @@ Nel capitolo 4 di *[[Racconti intrecciati - Diradando l'oblio]]* Nymeria è coin
 
 ## Dove compare
 
-- *[[Racconti intrecciati - Diradando l'oblio]]* capitolo 4 e seguenti.
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 7 e seguenti.
 
 ## Dal sito ufficiale
 

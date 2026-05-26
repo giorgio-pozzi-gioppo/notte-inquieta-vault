@@ -2,7 +2,7 @@
 
 ## Essenza
 
-**Uper** è un [[Ispar]] che nell'era del palazzo viveva nel Cortile insieme agli altri. Compare nei ricordi di [[Gisèl]] (cap. 10) mentre guarda perplesso la scena caotica — [[Aryes]], [[Leo]] e [[Demetra]] che scorrazzano tra le rose.
+**Uper** è un [[Ispar]] che nell'era del palazzo viveva nel Cortile insieme agli altri. Compare nei ricordi di [[Gisèl]] (ep. 20) mentre guarda perplesso la scena caotica — [[Aryes]], [[Leo]] e [[Demetra]] che scorrazzano tra le rose.
 
 Nel presente della saga vive con **[[Demetra|Demy]]** come suo gatto — senza che nessuno dei due sappia (ancora) cosa sia davvero.
 
@@ -18,7 +18,7 @@ Con il **risveglio di [[Diana]]**, Uper scoprirà di essere un Ispar. Questo arc
 
 ## Dove compare
 
-- *[[Racconti intrecciati - Diradando l'oblio]]* cap. 10 *Cambio di passo* — visione di Gisèl: nel Cortile del palazzo
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 20 *Cambio di passo* — visione di Gisèl: nel Cortile del palazzo
 - *[[Romanzi - Schegge di Tenebra]]* *(in arrivo — arco principale)*
 
 ## Vedi anche

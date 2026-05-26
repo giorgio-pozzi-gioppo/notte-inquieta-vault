@@ -12,9 +12,11 @@ Anche sopita dalla [[Pozione violacea|pozione violacea]], [[Diana]] li sente e r
 
 [[Sototh]] lo registra come dato di monitoraggio: "c'è un contatto di qualche tipo".
 
+Negli atti finali di *[[Teatro - Prigioniera a Detha]]*, il Coro diventa anche forza di pressione: protesta quando Sototh tenta di prelevare un campione da Diana e minaccia di chiamare gli Ispar, riconoscendo quel gesto come rottura del patto.
+
 ## Dove compare
 
-- *[[Teatro - Prigioniera a Detha]]* — Atto I (presenza scenica e vocale)
+- *[[Teatro - Prigioniera a Detha]]* — presenza scenica e vocale nei tre atti
 
 ## Vedi anche
 

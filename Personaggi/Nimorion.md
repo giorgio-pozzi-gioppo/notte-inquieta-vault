@@ -23,6 +23,7 @@ Nimorion non compie una missione lineare: visita, osserva, sussurra, complica.
 
 - È **l'evocato** di [[Antarius]] nel *[[Teatro - Dialogo col derelitto]]*, dove interroga il vecchio finché questi scopre di non essere ciò che pensava.
 - È **il coro e la spina** in *[[Teatro - All'Ombra di Detha]]*, dove media il conflitto fra [[Sototh]] e il ricordo di [[Diana]].
+- In *[[Teatro - Prigioniera a Detha]]* compare come **Eco** udibile solo da Sototh: una voce minima ma incisiva che lo provoca sul suo interesse per Diana.
 
 Ama entrambi i suoi "genitori involontari" e li batte in astuzia.
 
@@ -37,6 +38,7 @@ Ama entrambi i suoi "genitori involontari" e li batte in astuzia.
 
 - *[[Teatro - Dialogo col derelitto]]* (protagonista evocato)
 - *[[Teatro - All'Ombra di Detha]]* (coro e attore)
+- *[[Teatro - Prigioniera a Detha]]* (Eco udibile solo da Sototh)
 
 ## Dal sito ufficiale
 

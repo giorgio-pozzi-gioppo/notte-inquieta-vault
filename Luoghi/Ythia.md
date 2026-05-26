@@ -13,7 +13,7 @@ Città, centro civile, capitale del [[Continuum]]. Abitata dagli [[Sparkle]]. Al
 
 ## Vulnerabilità
 
-Subisce (o subirà) **invasione demoniaca** — vedi capitolo 4 di *[[Racconti intrecciati - Diradando l'oblio]]*. Il [[Continuum]] è minacciato dal crollo, probabilmente dall'avanzata da [[Krot]].
+Subisce (o subirà) **invasione demoniaca** — vedi ep. 7 di *[[Racconti intrecciati - Diradando l'oblio]]*. Il [[Continuum]] è minacciato dal crollo, probabilmente dall'avanzata da [[Krot]].
 
 ## Vedi anche
 [[Lessico]] · [[Ythiano]] · [[Continuum]] · [[Sparkle]] · [[Clessidra del Mana]] · [[Krot]]

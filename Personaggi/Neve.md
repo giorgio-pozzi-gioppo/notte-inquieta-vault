@@ -16,7 +16,7 @@ Non è una guerriera né una stratega: è un punto fermo. In un mondo dove tutto
 
 ## Dove compare
 
-- *[[Racconti intrecciati - Diradando l'oblio]]* cap. 6b *Incroci a Ythia* (citata da [[Ristar]])
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 13 *Incroci a Ythia* (citata da [[Ristar]])
 
 ## Vedi anche
 

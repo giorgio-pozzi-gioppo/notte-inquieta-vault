@@ -20,7 +20,7 @@ Il suo ruolo di futura inviata diplomatica suggerisce che il suo popolo — non 
 
 ## Dove compare
 
-- *[[Racconti intrecciati - Diradando l'oblio]]* cap. 6b *Incroci a Ythia*
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 13 *Incroci a Ythia*
 
 ## Vedi anche
 

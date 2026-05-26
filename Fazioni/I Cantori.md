@@ -12,7 +12,7 @@ Operatori remoti e silenziosi della capacità bellica del [[Continuum]]. Guidano
 
 ## Dove compare
 
-- *[[Racconti intrecciati - Diradando l'oblio]]* cap. 7 *I sotterranei proibiti* e seguenti — operatori di [[Alpha19]]
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 17 *I sotterranei proibiti* e seguenti — operatori di [[Alpha19]]
 
 ## Vedi anche
 

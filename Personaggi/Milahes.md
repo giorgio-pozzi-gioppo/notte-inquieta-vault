@@ -18,7 +18,7 @@ Episodico nell'arco narrativo attuale. Funziona come punto di contatto tra [[Ris
 
 ## Dove compare
 
-- *[[Racconti intrecciati - Diradando l'oblio]]* cap. 6b *Incroci a Ythia*
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 13 *Incroci a Ythia*
 
 ## Vedi anche
 

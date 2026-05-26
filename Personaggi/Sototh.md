@@ -21,6 +21,8 @@ Sototh ha sedotto [[Diana]] — sostiene di amarla, "fingono di odiarsi" — e l
 
 [[Nimorion]] è nato dal contatto involontario fra lui e [[Diana]] — Sototh non lo ha voluto, né progettato, ma ne riconosce l'esistenza pur negando di esserne il padrone. Si traveste personalmente da marito di Diana — sotto il nome di copertura [[Sam]] — somministrandole la [[Pozione violacea]] di propria mano per mantenerne il sonno. Non delega: l'inganno è una prossimità che sceglie di tenere per sé.
 
+In *[[Teatro - Prigioniera a Detha]]* la sua prigionia di Diana appare come osservazione clinica: parla di protocolli, stati stabili, campioni e sedazione. Tenta di prelevare un capello da Diana, ma si ferma quando lei e il [[Coro degli Spettri]] gli ricordano il patto. Il limite non nasce da pietà: nasce da convenienza, calcolo e vincolo.
+
 Cerca la **"gloria finale"**: l'assorbimento totale. Il suo progetto è meccanico — non vuole distruggere il mondo, vuole possederlo.
 
 ## Relazioni
@@ -33,6 +35,7 @@ Cerca la **"gloria finale"**: l'assorbimento totale. Il suo progetto è meccanic
 ## Dove compare
 
 - *[[Teatro - All'Ombra di Detha]]* (deuteragonista cosmico)
+- *[[Teatro - Prigioniera a Detha]]* (carceriere clinico di Diana)
 - Presenza incombente in *[[Racconti intrecciati - Diradando l'oblio]]*
 
 ## Dal sito ufficiale

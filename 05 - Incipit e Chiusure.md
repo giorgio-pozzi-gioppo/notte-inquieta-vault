@@ -10,7 +10,7 @@ Esempi **verbatim** dal canone letto.
 ***Dialogo col derelitto*, Atto I** ([[Antarius]] in azione)
 > Calore, cenere, silenzio. Tutto è secondo le istruzioni. Ora il nome.
 
-***Dormi mia Signora*** ([[Diana]] in [[Detha]])
+***In cima alla torre di Detha*** ([[Diana]] in [[Detha]])
 > Nel mare di stelle, splendeva una luce solitaria. Il suo bagliore illuminava lo spazio circostante, creando una distanza incolmabile tra il tempo del mondo e quello della torre, un'isola nel buio dove tutto scorreva più lentamente.
 
 ***Brusco risveglio*** ([[Aryes]] in [[Athanor]])

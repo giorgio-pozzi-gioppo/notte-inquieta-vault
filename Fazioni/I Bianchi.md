@@ -18,7 +18,7 @@ L'ospitalità dei Bianchi ha una reputazione che va oltre la sicurezza: il loro 
 
 ## Dove compaiono
 
-- *[[Racconti intrecciati - Diradando l'oblio]]* cap. 6 *Gli indizi dal passato* e cap. 6b *Incroci a Ythia*
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 12 *Gli indizi dal passato* e ep. 13 *Incroci a Ythia*
 
 ## Vedi anche
 

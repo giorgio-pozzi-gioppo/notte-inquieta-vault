@@ -13,7 +13,7 @@ Comprimario. Druido dei felini legato ad [[Athanor]]. La sua magia è **accompag
 
 ## Dove compare
 
-- [[Racconti intrecciati - Diradando l'oblio]], nel segmento *Yinnead del Sogno*
+- [[Racconti intrecciati - Diradando l'oblio]], nel segmento *In viaggio verso la capitale*
 - Registro del [[Sito ufficiale - notteinquieta.it]]
 
 ## Vedi anche

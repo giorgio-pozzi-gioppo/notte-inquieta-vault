@@ -19,7 +19,7 @@ Pelo **rosso**, armatura speciale — equipaggiamento che lo distingue dagli alt
 
 ## Dove compare
 
-- *[[Racconti intrecciati - Diradando l'oblio]]* cap. 6 *Gli indizi dal passato* (citato da Icore)
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 12 *Gli indizi dal passato* (citato da Icore)
 
 ## Vedi anche
 

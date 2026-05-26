@@ -12,7 +12,7 @@ Predatori coordinati. Il numero tre sembra strutturale al loro modo di cacciare 
 
 ## Dove compare
 
-- *[[Racconti intrecciati - Diradando l'oblio]]* cap. 7 *I sotterranei proibiti*
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 17 *I sotterranei proibiti*
 
 ## Vedi anche
 

@@ -22,8 +22,8 @@ Reggente di [[Ythia]] per delega del Concilio. Formalmente convoca le riunioni d
 
 ## Dove compare
 
-- *[[Racconti intrecciati - Diradando l'oblio]]* cap. 6 *Gli indizi dal passato* (citata da Icore e da Zira)
-- *[[Racconti intrecciati - Diradando l'oblio]]* cap. 6b *Incroci a Ythia* (citata da Zira)
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 12 *Gli indizi dal passato* (citata da Icore e da Zira)
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 13 *Incroci a Ythia* (citata da Zira)
 
 ## Vedi anche
 

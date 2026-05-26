@@ -6,7 +6,7 @@
 
 ## Arco
 
-Salva [[Nymeria]] durante l'invasione demoniaca nel capitolo 4 di *[[Racconti intrecciati - Diradando l'oblio]]*. È figura di passaggio — apre porte, traghetta chi non può più restare dov'era.
+Salva [[Nymeria]] durante l'invasione demoniaca nell'ep. 7 di *[[Racconti intrecciati - Diradando l'oblio]]*. È figura di passaggio — apre porte, traghetta chi non può più restare dov'era.
 
 ## Tratti
 
@@ -20,7 +20,7 @@ Salva [[Nymeria]] durante l'invasione demoniaca nel capitolo 4 di *[[Racconti in
 
 ## Dove compare
 
-- *[[Racconti intrecciati - Diradando l'oblio]]* capitolo 4 e seguenti.
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 7 e seguenti.
 
 ## Vedi anche
 [[Nymeria]] · [[Monadi]] · [[Specchi di ossidiana]] · [[Continuum]]

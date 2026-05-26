@@ -26,8 +26,8 @@ Frequenta il piccolo cortile degli Ispar con naturalezza, tenendo i cuccioli in 
 ## Dove compare
 
 - *[[Romanzi - Schegge di Tenebra]]* *(in arrivo — come Demy)*
-- *[[Racconti intrecciati - Diradando l'oblio]]* cap. 9 *Il patto infranto* — flashback: dà il nome a Oz
-- *[[Racconti intrecciati - Diradando l'oblio]]* cap. 10 *Cambio di passo* — visione di Gisèl: corre ridendo tra le rose con Aryes e Leo
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 19 *il patto infranto* — flashback: dà il nome a Oz
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 20 *Cambio di passo* — visione di Gisèl: corre ridendo tra le rose con Aryes e Leo
 
 ## Vedi anche
 

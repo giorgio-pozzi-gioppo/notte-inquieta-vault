@@ -22,7 +22,7 @@ Alpha19 rappresenta il momento in cui il passato dimenticato torna a essere una 
 
 ## Dove compare
 
-- *[[Racconti intrecciati - Diradando l'oblio]]* cap. 7 *I sotterranei proibiti* (prima menzione/apparizione)
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 17 *I sotterranei proibiti* (prima menzione/apparizione)
 
 ## Vedi anche
 

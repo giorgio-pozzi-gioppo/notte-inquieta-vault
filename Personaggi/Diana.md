@@ -19,9 +19,11 @@ Diana è stata sedotta (o rapita — il confine è parte del tema) da [[Sototh]]
 
 Nel ciclo breve *[[Frammenti - Il Sogno di una Dea]]* (quattro variazioni scritte fra 2014 e 2016), Diana è vista dormire, sognare, abitare l'incubo — osservata da [[Chrono]], dagli spettri, da chi la ama e da chi la bracca.
 
+In *[[Teatro - Prigioniera a Detha]]* il sonno non la rende passiva: parla, resiste, sente [[Athanor]] come promessa lontana e richiama Sototh ai limiti del patto. Il suo risveglio resta sospeso, ma non annullato.
+
 ## Relazioni
 
-- [[Sototh]]: amante-carceriere. Sototh dice che "fingono di odiarsi". Patto ambiguo che la tiene legata. Nel cap. 10 emerge che Sototh ha infranto per primo questo patto.
+- [[Sototh]]: amante-carceriere. Sototh dice che "fingono di odiarsi". Patto ambiguo che la tiene legata. Nell'ep. 20 emerge che Sototh ha infranto per primo questo patto.
 - [[Aryes]]: il suo araldo. Dimora dentro [[Athanor]] e agisce in suo nome nel mondo.
 - [[Chrono]]: vincolo di protezione; lo Sparkle custode del tempo veglia su di lei.
 - [[Nimorion]]: non creato da Diana, ma emerso da un contatto non governato fra Diana e [[Sototh]]. Figlio involontario che si è auto-plasmato.
@@ -32,9 +34,10 @@ Nel ciclo breve *[[Frammenti - Il Sogno di una Dea]]* (quattro variazioni scritt
 ## Dove compare
 
 - *[[Frammenti - Il Sogno di una Dea]]* (protagonista)
-- *[[Racconti intrecciati - Diradando l'oblio]]* cap. 1 *Dormi mia Signora*
+- *[[Teatro - Prigioniera a Detha]]* (prigioniera sedata ma resistente)
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 1 *In cima alla torre di Detha*
 - Evocata come causa del conflitto in *[[Teatro - All'Ombra di Detha]]*
-- *[[Racconti intrecciati - Diradando l'oblio]]* cap. 10 *Cambio di passo* — citata come "la divinità che avete dovuto dimenticare"
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 20 *Cambio di passo* — citata come "la divinità che avete dovuto dimenticare"
 
 ## Dal sito ufficiale
 

@@ -16,7 +16,7 @@ Collaborano con i [[Pirati della Piovra]] quando serve manodopera o potere di co
 
 ## Dove compaiono
 
-- *[[Racconti intrecciati - Diradando l'oblio]]* cap. 5 *Un destino strappato* — antagonisti principali nell'arco di [[Ristar]]
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 9 *Un destino strappato* — antagonisti principali nell'arco di [[Ristar]]
 
 ## Vedi anche
 

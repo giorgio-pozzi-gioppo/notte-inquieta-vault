@@ -10,7 +10,7 @@ Quattro frammenti onirici ruotano intorno a [[Diana]] dormiente nella fortezza d
 
 ## Testi
 
-- *Dormi mia Signora* (2014)
+- *In cima alla torre di Detha* (2014)
 - *Il riposo di Diana* (2014)
 - *Il sogno di Diana* (2015)
 - *L'incubo di Diana* (2016)

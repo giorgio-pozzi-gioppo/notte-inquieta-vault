@@ -8,7 +8,7 @@ Il nome gli viene in **onore di [[Calypso (donna alata)]]**, umanoide e strega d
 
 ## Dove compare
 
-- *[[Racconti intrecciati - Diradando l'oblio]]* capitolo 4 e seguenti, come compagno di [[Nymeria]].
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 7 e seguenti, come compagno di [[Nymeria]].
 
 ## Vedi anche
 

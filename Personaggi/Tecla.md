@@ -2,7 +2,7 @@
 
 ## Essenza
 
-**Tecla** è una giovane **scrutatrice** dal pelo violaceo, formata da [[Icore]]. Viene uccisa da [[Sototh]] durante lo scontro al Senato nel cap. 9 — la sua morte è una delle perdite più pesanti dell'escalation, e misura concretamente la minaccia di Sototh.
+**Tecla** è una giovane **scrutatrice** dal pelo violaceo, formata da [[Icore]]. Viene uccisa da [[Sototh]] durante lo scontro al Senato nell'ep. 19 — la sua morte è una delle perdite più pesanti dell'escalation, e misura concretamente la minaccia di Sototh.
 
 ## Aspetto
 
@@ -15,7 +15,7 @@ Pelo violaceo. Giovane.
 
 ## Dove compare
 
-- *[[Racconti intrecciati - Diradando l'oblio]]* cap. 9 *Il patto infranto* (morte)
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 19 *il patto infranto* (morte)
 
 ## Vedi anche
 

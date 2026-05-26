@@ -20,7 +20,7 @@ Non ancora esplorato direttamente in scena. È amico di [[Nyala]], che lo cerca 
 
 ## Dove compare
 
-- *[[Racconti intrecciati - Diradando l'oblio]]* cap. 6 *Gli indizi dal passato* (citato da Nyala)
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 12 *Gli indizi dal passato* (citato da Nyala)
 
 ## Vedi anche
 

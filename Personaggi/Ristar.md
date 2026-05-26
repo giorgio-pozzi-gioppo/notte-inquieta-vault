@@ -33,8 +33,9 @@ Maga del fuoco. Il suo incantesimo più potente è la **"fiera dagli occhi di fu
 
 ## Dove compare
 
-- *[[Racconti intrecciati - Diradando l'oblio]]* cap. 5 *Un destino strappato* (protagonista)
-- *[[Racconti intrecciati - Diradando l'oblio]]* cap. 6b *Incroci a Ythia* (a Ythia con Nymeria)
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 9 *Un destino strappato* (fuga da Agata con Zira)
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 10 *Il ritorno del fuoco* (protagonista)
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 13 *Incroci a Ythia* (a Ythia con Nymeria)
 - *[[Romanzi - Il Sole di Agata]]* *(in scrittura — protagonista)*
 
 ## Vedi anche

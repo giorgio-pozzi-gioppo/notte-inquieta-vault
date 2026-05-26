@@ -20,7 +20,7 @@ Nyala agisce come tramite informale tra [[Icore]] e [[Gisèl]], che diserta le r
 
 ## Dove compare
 
-- *[[Racconti intrecciati - Diradando l'oblio]]* cap. 6 *Gli indizi dal passato* (scena al Santuario con Icore)
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 12 *Gli indizi dal passato* (scena al Santuario con Icore)
 
 ## Vedi anche
 

@@ -22,7 +22,7 @@ Ad Agata, lavora al fianco del padre di [[Ristar]] e dell'Ordine dei Drawosiani 
 
 ## Dove compare
 
-- *[[Racconti intrecciati - Diradando l'oblio]]* cap. 5 *Un destino strappato* (antagonista nella fuga di Ristar)
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 9 *Un destino strappato* (antagonista nella fuga di Ristar)
 
 ## Vedi anche
 
