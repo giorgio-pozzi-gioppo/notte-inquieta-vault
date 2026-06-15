@@ -17,6 +17,13 @@ Il Continuum governa da [[Ythia]], la sua capitale. Il potere è condiviso tra [
 
 Il **[[Concilio dei Nove]]** è il suo organo deliberativo più alto.
 
+## Economia
+
+Nel Continuum circolano due monete molto diffuse:
+
+- **[[Sole Posticcio]]** — moneta con una stella stilizzata in rilievo, usata soprattutto dalle classi abbienti.
+- **[[Sole Inverso]]** — moneta di valore inferiore, con la stessa stella del Sole Posticcio ma scavata come foro; più leggera, pratica e meno costosa da produrre, è usata soprattutto dai mercanti di tutto il [[Mare delle Monadi]].
+
 ## Fazioni interne
 
 - [[I Bianchi]] — corpo di polizia umano della Città Alta di Ythia
@@ -37,4 +44,4 @@ Il **[[Concilio dei Nove]]** è il suo organo deliberativo più alto.
 - [[Serena]] — paladina umana, futura inviata diplomatica del suo popolo
 
 ## Vedi anche
-[[Ispar]] · [[Sparkle]] · [[Ythia]] · [[Mare delle Monadi]] · [[Frattura]] · [[Nibiru]] · [[Pirati della Piovra]] · [[Senato dei Saggi]] · [[I Bianchi]] · [[01 - Il Mondo]] · [[Sito ufficiale - notteinquieta.it]]
+[[Ispar]] · [[Sparkle]] · [[Ythia]] · [[Mare delle Monadi]] · [[Frattura]] · [[Nibiru]] · [[Pirati della Piovra]] · [[Senato dei Saggi]] · [[I Bianchi]] · [[Sole Posticcio]] · [[Sole Inverso]] · [[01 - Il Mondo]] · [[Sito ufficiale - notteinquieta.it]]
