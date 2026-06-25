@@ -11,7 +11,7 @@ In lui si muove una forza antica: la **memoria di un mondo che ha scelto di non 
 
 La home page lo colloca esplicitamente come **l'eroe** della saga: non perché risolva tutto, ma perché porta in sé una memoria più grande della propria biografia.
 
-## Arco (in *[[Frammenti - Nel Cuore di Athanor]]*, 10 frammenti)
+## Arco (in *[[Frammenti - Nel Cuore di Athanor]]*, 13 frammenti pubblicati)
 
 1. **Brusco risveglio** — Aryes si risveglia in un laboratorio di Athanor, confuso. Capisce di essere altrove.
 2. **La voce nella mente** — [[Numero 02]] gli parla: è un sottoprogramma, lo guida.
@@ -23,6 +23,9 @@ La home page lo colloca esplicitamente come **l'eroe** della saga: non perché r
 8. **Frammento A — Log corrotto recuperato** — Athanor registra il recupero del suo corpo e rivela l'anomalia biologica della chimera.
 9. **Zadworx** — vede il corpo temporaneo assemblato con parti di backup del Guardiano e il corpo ufficiale di Zadworx.
 10. **Infusione** — viene immerso nel corpo robotico temporaneo, calibra movimento e tatto, e torna a una prima forma di presenza incarnata.
+11. **Primi passi nel laboratorio** — percorre le zone consentite, scopre passaggi interditti, pensa all'esperimento fallito espulso da Athanor e subisce uno sgancio improvviso dal robot.
+12. **Niente di particolare** — vive la noia dell'attesa, dubita della reale trasparenza di Athanor, nota l'assenza di Imperius e ottiene la promessa di accesso agli esperimenti.
+13. **Il primo esperimento** — osserva dietro un vetro di sicurezza un test sull'Ombra di Sototh e reagisce con frustrazione: l'esperimento non gli basta a colmare l'attesa.
 
 ## Tratti
 
@@ -60,7 +63,9 @@ Questa rivelazione rende canonico ciò che era solo ipotesi: Aryes non è un Isp
 
 Nei frammenti **Zadworx** e **Infusione**, Aryes ottiene un corpo robotico provvisorio assemblato in fretta con parti di backup del [[Zadworx|Guardiano]]. Prima lo osserva tramite una nuova telecamera nel deposito dei droni, poi vi viene collegato progressivamente: testa, arti, movimento e infine tatto. Il corpo vero resta un progetto più lento e problematico; quello temporaneo gli restituisce intanto una forma di azione nel laboratorio.
 
-Durante questa fase Aryes apprende anche che Athanor conserva droni di recupero danneggiati e studia materiali lasciati da [[Sototh]], con rischi sperimentali non del tutto chiariti.
+Nei frammenti 11-13 il corpo provvisorio passa dalla promessa all'uso quotidiano. Aryes cammina nei corridoi, costruisce una mappa mentale delle zone autorizzate e di quelle proibite, occupa una stanza pensata per dargli una normalità simbolica e sperimenta anche un problema di connessione che lo sgancia di colpo dal robot. Il movimento restituito non elimina la prigionia: la rende più concreta.
+
+Durante questa fase Aryes apprende anche che Athanor conserva droni di recupero danneggiati e studia materiali lasciati da [[Sototh]], con rischi sperimentali non del tutto chiariti. L'esperimento sull'Ombra rafforza la sua impazienza: vedere i test non basta, e l'assenza di [[Imperius]] diventa per lui un sospetto sempre più ingombrante.
 
 ## Voci e ipotesi
 

@@ -19,6 +19,8 @@ La home page del sito lo presenta anche come **centro comune** attorno a cui ruo
 - Laboratori di ricostruzione.
 - **Aree riservate** (livelli proibiti, sottoprogrammi-specialisti).
 - Deposito dei droni, dove sono conservati corpi robotici, droni di recupero danneggiati e parti di backup del [[Zadworx|Guardiano]].
+- Stanza di Aryes, affacciata sul corridoio e sulla Sala controllo, preparata per rendere sostenibile la permanenza nel corpo provvisorio.
+- Laboratori sperimentali osservabili solo dietro vetro di sicurezza.
 - Sala del [[Concilio dei Nove]].
 - **Menù mentali di navigazione** — chi abita Athanor impara a muoversi con la volontà.
 
@@ -33,6 +35,8 @@ Athanor dispone di sistemi difensivi avanzati. Può inoltre viaggiare molto velo
 ## Ricerca e recupero
 
 I laboratori di Athanor studiano materiali recuperati dal nemico di Aryes. Gli esperimenti non sono privi di rischio: nel frammento **Infusione** un incidente viene contenuto espellendo il problema per precauzione.
+
+Nel frammento **Il primo esperimento**, Aryes osserva un test sull'Ombra di [[Sototh]]. L'Ombra viene trattata come un organismo o materiale attivo, attratto dal metallo e capace di fondersi con esso. Athanor la isola tramite sistemi di contenimento e campi magnetici, ma il rischio resta parte del lavoro.
 
 Il recupero fisico di Aryes è stato compiuto da droni specializzati nel movimento aereo, poi danneggiati e conservati nel deposito. Il nuovo corpo organico di Aryes resta un progetto complesso; nel frattempo Athanor gli fornisce un corpo robotico temporaneo.
 

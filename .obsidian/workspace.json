@@ -25,10 +25,14 @@
             "id": "9fa3354d9ef4ad24",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "Opere/Frammenti - Nel Cuore di Athanor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Frammenti - Nel Cuore di Athanor"
             }
           }
         ],
@@ -124,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Opere/Frammenti - Nel Cuore di Athanor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita"
+              "title": "Collegamenti in uscita da Frammenti - Nel Cuore di Athanor"
             }
           },
           {
