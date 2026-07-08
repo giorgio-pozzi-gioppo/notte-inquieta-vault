@@ -5,7 +5,7 @@
 ## Coordinate
 
 - **Sito principale:** <https://www.notteinquieta.it/>
-- **Mappa della Notte Inquieta:** <https://mappa.robadigioppo.workers.dev/> e <https://giorgio-pozzi-gioppo.github.io/notteinquieta-mappa/>
+- **Mappa della Notte Inquieta:** <https://mappa.robadigioppo.workers.dev/>, <https://giorgio-pozzi-gioppo.github.io/notteinquieta-mappa/> e mirror europeo <https://gioppo.codeberg.page/notteinquieta-mappa/>
 - **Autore:** Giorgio Pozzi (in arte *Gioppo*)
 - **Sito di pittura:** <https://www.gioppo.it>
 - **Contatto:** postadigioppo@gmail.com
@@ -43,9 +43,11 @@ Nella home è ora presente una sezione dedicata ai comprimari, con titolo e tagl
 
 ## Piattaforme di distribuzione
 
-Il progetto è distribuito su più piattaforme: **Medium, Tumblr, AO3, Substack, Instagram**. La cronologia sul sito è il "registro ufficiale" degli eventi, aggiornato in tempo reale dall'autore. La newsletter è su **Substack**.
+Il progetto è distribuito su più piattaforme: **Medium, Tumblr, AO3, Substack, Instagram**. La cronologia sul sito è il "registro ufficiale" degli eventi, aggiornato in tempo reale dall'autore. La newsletter è su **Substack** e contiene testi narrativi esclusivi della saga, riservati a chi la segue: le prime note compongono un incipit parallelo con contenuti canonici.
 
 La [[Mappa della Notte Inquieta]] raccoglie gli accessi alle risorse disponibili per lettori e collaboratori.
+
+Il blog del sito ospita anche articoli a margine sulle scelte del progetto: piattaforme diverse per contenuti diversi, uso di [[Blog - Scelte e strumenti della saga|Obsidian, GitHub, Internet Archive, IPFS e Fediverso]], licenza Creative Commons Attribution Non Commercial e gestione dei mondi grandi e stratificati.
 
 ## Archivi dedicati
 
@@ -58,9 +60,12 @@ Il sito avverte esplicitamente: *"non tutto è corretto, non tutto è completo, 
 
 Il blog post più recente (*Appunti da un mondo in costruzione*, 19 aprile 2026) segna un momento di svolta: il progetto ha smesso di essere "qualcosa che sto scrivendo" per diventare "qualcosa che mi sta succedendo".
 
+Gli articoli raccolti in [[Blog - Scelte e strumenti della saga]] esplicitano una fase successiva: Notte Inquieta viene trattata come ecosistema creativo, archivio vivo e progetto resiliente, non soltanto come raccolta di testi pubblicati.
+
 ## Vedi anche
 
 - [[00 - Indice]]
 - [[07 - Cronologia delle Ere]]
 - [[01 - Il Mondo]]
 - [[Lessico]]
+- [[Blog - Scelte e strumenti della saga]]

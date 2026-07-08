@@ -33,6 +33,7 @@ Non cercare una lettura lineare.
 Puoi iniziare da:
 
 - [[00 - Indice]]
+- [[Mappa della Notte Inquieta]] — accesso pubblico alle risorse, utile per lettori e futuri curiosi
 - [[01 - Il Mondo]]
 - [[03 - Temi]]
 - [[07 - Cronologia delle Ere]]
@@ -65,6 +66,12 @@ Per la struttura ufficiale dei testi e delle pubblicazioni,
 consulta anche il repository principale:
 
 👉 [https://github.com/giorgio-pozzi-gioppo/notte-inquieta.git]
+
+Per orientarti tra sito, letture, archivi, mirror e risorse pubbliche, parti dalla [[Mappa della Notte Inquieta]]:
+
+- <https://mappa.robadigioppo.workers.dev/>
+- <https://giorgio-pozzi-gioppo.github.io/notteinquieta-mappa/>
+- <https://gioppo.codeberg.page/notteinquieta-mappa/>
 
 ---
 

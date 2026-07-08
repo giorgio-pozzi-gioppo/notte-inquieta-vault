@@ -4,6 +4,8 @@ Assemblea dei [[Sottoprogrammi]] principali di [[Athanor]], sotto [[Imperius]]. 
 
 Il capitolo 7 di *[[Frammenti - Nel Cuore di Athanor]]* si chiama appunto *Il Concilio dei Nove* e mostra l'assemblea in opera: nove voci-programma che deliberano, valutano, integrano.
 
+Nel frammento **Blocco temporaneo**, [[Numero 02]] lo convoca per discutere il deterioramento psicologico di [[Aryes]]. Poco dopo, durante un allarme di massimo livello causato da tentativi di hacking dall'esterno, il Concilio risulta compromesso e Athanor subisce danni ingenti.
+
 Membro noto: [[Numero 02]] — custode del benessere psicologico di [[Aryes]].
 
 ## Vedi anche

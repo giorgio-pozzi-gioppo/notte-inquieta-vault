@@ -16,6 +16,8 @@ Custodisce la [[Clessidra del Mana]], il tempio al vertice della capitale Sparkl
 
 I pezzi di Chrono restano sparsi; un frammento, in forma di **cucciolo metallico**, viene ritrovato da [[Yadon]] nel tempio distrutto. Porta un messaggio breve e decisivo: *"[[Detha]] è la chiave."*
 
+*[[Newsletter - L'incedere del tempo]]* aggiunge che la Clessidra custodiva lunghi artefatti dorati capaci di smistare le linee temporali. Gli Ispar della stirpe di Chrono tenevano in ordine quel luogo, ora ridotto a rovina silenziosa.
+
 ## Relazioni
 
 - [[Diana]]: vincolato dal giuramento di protezione.
@@ -28,6 +30,7 @@ I pezzi di Chrono restano sparsi; un frammento, in forma di **cucciolo metallico
 
 - *[[Frammenti - Il Sogno di una Dea]]* (vegliante)
 - *[[Racconti intrecciati - Diradando l'oblio]]* (uccisione e frammentazione)
+- *[[Newsletter - L'incedere del tempo]]* (artefatti e rovine della Clessidra)
 
 ## Vedi anche
-[[Sparkle]] · [[Continuum]] · [[Clessidra del Mana]] · [[Flussi temporali]] · [[Deuterium]] · [[Iceb]] · [[Yadon]]
+[[Sparkle]] · [[Continuum]] · [[Clessidra del Mana]] · [[Flussi temporali]] · [[Deuterium]] · [[Iceb]] · [[Yadon]] · [[Newsletter - L'incedere del tempo]]

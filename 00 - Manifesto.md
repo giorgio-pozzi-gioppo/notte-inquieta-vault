@@ -45,6 +45,10 @@ La struttura sorgente del progetto e di questo vault sono ospitate su GitHub.
 
 Per una visione complessiva del progetto:
 
+https://mappa.robadigioppo.workers.dev/
+
 https://giorgio-pozzi-gioppo.github.io/notteinquieta-mappa/
+
+https://gioppo.codeberg.page/notteinquieta-mappa/
 
 Giorgio Pozzi (Gioppo)

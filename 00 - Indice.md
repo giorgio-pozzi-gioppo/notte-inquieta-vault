@@ -18,6 +18,7 @@
 
 - [[Sito ufficiale - notteinquieta.it]] — dati estratti dal sito, registro "in tempo reale"
 - [[Mappa della Notte Inquieta]] — elenco delle risorse disponibili per lettori e collaboratori
+- [[Blog - Scelte e strumenti della saga]] — articoli a margine su poetica, strumenti, archiviazione e distribuzione
 
 ## Lessico (canone ontologico)
 
@@ -108,3 +109,10 @@ In scrittura (dal sito):
 
 - [[Newsletter - Le incisioni di Athanor]] — nota 00
 - [[Newsletter - Trasmissioni da Athanor]] — nota 01, ritorno di [[Nimorion]] a [[Detha]]
+- [[Newsletter - Reperti da Athanor]] — nota 02, reperti del Tempio di [[Athanor]] e memoria contro [[Oblio]]
+- [[Newsletter - Uno sguardo lontano]] — nota 03, primo sguardo sul [[Mare di Stelle]]
+- [[Newsletter - L'incedere del tempo]] — nota 04, ritorno alle rovine della [[Clessidra del Mana]]
+
+## Blog e apparati
+
+- [[Blog - Scelte e strumenti della saga]] — riflessioni pubbliche su piattaforme, archivi, licenza, vault e resilienza del progetto

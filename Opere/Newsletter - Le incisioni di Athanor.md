@@ -2,7 +2,7 @@
 
 ## Forma
 
-Prima **Newsletter** artistica della saga. Voce in seconda persona — una voce esterna e consapevole che osserva [[Icore]] senza che lui lo sappia. Tono contemplativo, quasi oraculare. Chiude con il tagline di collegamento a *[[Racconti intrecciati - Diradando l'oblio]]*.
+Prima **Newsletter** artistica della saga. Voce in seconda persona — una voce esterna e consapevole che osserva [[Icore]] senza che lui lo sappia. Tono contemplativo, quasi oraculare. Chiude con il tagline di collegamento a *[[Racconti intrecciati - Diradando l'oblio]]*. Fa parte dell'incipit esclusivo composto dalle note Substack.
 
 **Data:** 30 aprile 2026
 

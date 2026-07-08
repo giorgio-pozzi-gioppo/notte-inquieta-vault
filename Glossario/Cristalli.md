@@ -11,8 +11,10 @@ I **cristalli** sono le strutture che flottano nel [[Mare di Stelle]] — ognuno
 
 La home page precisa che la rete dei cristalli si addensa dove cambia la densità del mezzo nel [[Mare di Stelle]]. Ogni cristallo contiene un mondo e ogni mondo un segreto: il cristallo non è quindi solo contenitore, ma soglia narrativa.
 
+*[[Newsletter - Uno sguardo lontano]]* mostra i cristalli dall'esterno: una distesa collegata da lunghi filamenti. Un immenso aracnide cosmico li sfiora e li collega con bava collosa, suggerendo che parte della rete possa essere tessuta o mantenuta da creature del Mare di Stelle.
+
 Il [[Giardino del Mezzo]] è coperto di cristalli, ed è la zona del Mare di Stelle dove due aree a densità diversa si toccano — un luogo di soglia nel cosmo esterno.
 
 ## Vedi anche
 
-[[Mare di Stelle]] · [[Giardino del Mezzo]] · [[Flussi temporali]] · [[Crisalide|Crisalide (cristallo protagonista)]] · [[Sito ufficiale - notteinquieta.it]]
+[[Mare di Stelle]] · [[Giardino del Mezzo]] · [[Flussi temporali]] · [[Crisalide|Crisalide (cristallo protagonista)]] · [[Newsletter - Uno sguardo lontano]] · [[Sito ufficiale - notteinquieta.it]]

@@ -18,6 +18,10 @@ Da qui Chrono vegliava sul tempo, sui flussi, e su [[Diana]]. La convergenza nat
 
 [[Yadon]] visita le rovine e trova un **cucciolo metallico** — frammento superstite di Chrono — che porta il messaggio: *"[[Detha]] è la chiave."*
 
+In *[[Newsletter - L'incedere del tempo]]* le rovine appaiono immerse in una nebbia blu cobalto. Il liquido esotico del tempo è sparso ovunque, il vetro principale è ridotto a schegge minuscole, nessun monitoraggio è attivo e nessuna forma di vita è rimasta. La nota ricorda anche gli artefatti dorati che smistavano le linee temporali e gli Ispar della stirpe di [[Chrono]] che tenevano in ordine il luogo.
+
+Il testo lega il nuovo rischio temporale alla [[Frattura]]: l'ultima volta che il tempo si attorcigliò su se stesso, il mondo dovette affrontarla. La perdita di direzione del tempo diventa quindi minaccia politica e cosmologica: qualcuno potrebbe imporgli una direzione a scapito degli altri.
+
 ## Vedi anche
 
-[[Chrono]] · [[Sparkle]] · [[Flussi temporali]] · [[Sototh]] · [[Deuterium]] · [[Yadon]] · [[Diana]] · [[Detha]]
+[[Chrono]] · [[Sparkle]] · [[Flussi temporali]] · [[Sototh]] · [[Deuterium]] · [[Yadon]] · [[Diana]] · [[Detha]] · [[Newsletter - L'incedere del tempo]]

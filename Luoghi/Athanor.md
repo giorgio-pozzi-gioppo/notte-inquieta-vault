@@ -32,13 +32,19 @@ Accoglie [[Aryes]] morente, ne traspone la coscienza nell'architettura computazi
 
 Athanor dispone di sistemi difensivi avanzati. Può inoltre viaggiare molto velocemente tra i [[Cristalli]], dettaglio che diventa rilevante quando Aryes teme che [[Sototh]] possa rintracciarlo e completare il lavoro.
 
+## Superficie e accesso
+
+*[[Newsletter - Reperti da Athanor]]* conferma che nel [[Santuario di Athanor|Tempio di Athanor]] sono conservati reperti provenienti dalla superficie esterna della sfera: frammenti bianchi e lucidi dell'involucro e almeno una chiave circolare di pannello, forse di primo livello. La stessa nota ribadisce quanto sia difficile entrare davvero in Athanor dall'esterno: un precedente tentativo avrebbe richiesto la distruzione dell'artefatto per aprirne le porte.
+
 ## Ricerca e recupero
 
 I laboratori di Athanor studiano materiali recuperati dal nemico di Aryes. Gli esperimenti non sono privi di rischio: nel frammento **Infusione** un incidente viene contenuto espellendo il problema per precauzione.
 
 Nel frammento **Il primo esperimento**, Aryes osserva un test sull'Ombra di [[Sototh]]. L'Ombra viene trattata come un organismo o materiale attivo, attratto dal metallo e capace di fondersi con esso. Athanor la isola tramite sistemi di contenimento e campi magnetici, ma il rischio resta parte del lavoro.
 
+Nel frammento **Blocco temporaneo**, i laboratori risultano sospesi durante un allarme rosso: esperimenti fermi, droni assenti, liquido viola agitato nelle aperture, sistemi centrali non responsivi e reparti bloccati in attesa di feedback. L'attacco arriva dall'esterno sotto forma di tentativi di hacking e compromette anche il [[Concilio dei Nove]].
+
 Il recupero fisico di Aryes è stato compiuto da droni specializzati nel movimento aereo, poi danneggiati e conservati nel deposito. Il nuovo corpo organico di Aryes resta un progetto complesso; nel frattempo Athanor gli fornisce un corpo robotico temporaneo.
 
 ## Vedi anche
-[[Lessico]] · [[Imperius]] · [[Aryes]] · [[Concilio dei Nove]] · [[Sottoprogrammi]] · [[Numero 02]] · [[Zadworx]] · [[Cristalli]] · [[Sototh]]
+[[Lessico]] · [[Imperius]] · [[Aryes]] · [[Concilio dei Nove]] · [[Sottoprogrammi]] · [[Numero 02]] · [[Zadworx]] · [[Cristalli]] · [[Sototh]] · [[Newsletter - Reperti da Athanor]]

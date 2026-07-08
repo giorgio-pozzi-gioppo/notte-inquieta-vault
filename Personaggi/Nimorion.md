@@ -24,6 +24,7 @@ Nimorion non compie una missione lineare: visita, osserva, sussurra, complica.
 - È **l'evocato** di [[Antarius]] nel *[[Teatro - Dialogo col derelitto]]*, dove interroga il vecchio finché questi scopre di non essere ciò che pensava.
 - È **il coro e la spina** in *[[Teatro - All'Ombra di Detha]]*, dove media il conflitto fra [[Sototh]] e il ricordo di [[Diana]].
 - In *[[Teatro - Prigioniera a Detha]]* compare come **Eco** udibile solo da Sototh: una voce minima ma incisiva che lo provoca sul suo interesse per Diana.
+- In *[[Newsletter - Trasmissioni da Athanor]]* torna a [[Detha]] e attraversa la torre del tempo, seguito da piccole maschere impalpabili.
 
 Ama entrambi i suoi "genitori involontari" e li batte in astuzia.
 
@@ -39,6 +40,7 @@ Ama entrambi i suoi "genitori involontari" e li batte in astuzia.
 - *[[Teatro - Dialogo col derelitto]]* (protagonista evocato)
 - *[[Teatro - All'Ombra di Detha]]* (coro e attore)
 - *[[Teatro - Prigioniera a Detha]]* (Eco udibile solo da Sototh)
+- *[[Newsletter - Trasmissioni da Athanor]]* (ritorno a Detha)
 
 ## Dal sito ufficiale
 
@@ -48,4 +50,4 @@ Ama entrambi i suoi "genitori involontari" e li batte in astuzia.
 **Provenienza sconosciuta** è la formulazione giusta: il sito non specifica l'origine, e la vaghezza è canonica. Il distacco di Nimorion — ridere di ciò che gli altri temono — non è indifferenza ma sopravvivenza cosmica: chi non appartiene a nessuno non può essere colpito dove gli altri vengono colpiti.
 
 ## Vedi anche
-[[Lessico]] · [[Diana]] · [[Sototh]] · [[Antarius]] · [[Rune dorate]] · [[03 - Temi]] · [[Sito ufficiale - notteinquieta.it]]
+[[Lessico]] · [[Diana]] · [[Sototh]] · [[Antarius]] · [[Detha]] · [[Rune dorate]] · [[03 - Temi]] · [[Sito ufficiale - notteinquieta.it]]

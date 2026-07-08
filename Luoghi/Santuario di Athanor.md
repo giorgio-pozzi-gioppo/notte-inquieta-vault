@@ -16,6 +16,12 @@ Non è solo un luogo di contemplazione: è il posto in cui la mente più acuta d
 
 [[Icore]] non può uscire dal Santuario: è confinato lì per ragioni di sicurezza legate alla sua natura.
 
+## Magazzino dei reperti
+
+In *[[Newsletter - Reperti da Athanor]]* compare un magazzino notturno del Tempio di Athanor, ricco di reperti e informazioni. I tavoli sono etichettati, i reperti catalogati, perfino le copie delle copie hanno una collocazione precisa.
+
+Fra gli oggetti citati: frammenti dell'involucro esterno di [[Athanor]] e una chiave circolare di pannello, forse di primo livello. Il magazzino rende concreta una funzione ulteriore del Santuario: conservare oggetti come antidoto parziale all'[[Oblio]].
+
 ## Vedi anche
 
-[[Ythia]] · [[Athanor]] · [[Icore]] · [[Ispar]] · [[Senato dei Saggi]] · [[Continuum]]
+[[Ythia]] · [[Athanor]] · [[Icore]] · [[Ispar]] · [[Senato dei Saggi]] · [[Continuum]] · [[Newsletter - Reperti da Athanor]]

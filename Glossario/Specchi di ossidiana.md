@@ -12,5 +12,7 @@ Nel caso specifico della **[[Crisalide|crisalide]]**, gli specchi funzionano anc
 
 Strumento principale di [[Gisèl]], detto "costruttore di varchi fra Monadi". Non tutti sanno usarli: richiedono la capacità di leggere lo specchio, non solo di toccarlo.
 
+In *[[Newsletter - Uno sguardo lontano]]*, una figura sul guscio esterno di un cristallo torna a uno specchio e vi entra, confermando l'uso degli specchi come soglie anche negli spazi di confine affacciati sul [[Mare di Stelle]].
+
 ## Vedi anche
-[[Monadi]] · [[Cristalli]] · [[Mare di Stelle]] · [[Frattura]] · [[Gisèl]] · [[Crisalide]]
+[[Monadi]] · [[Cristalli]] · [[Mare di Stelle]] · [[Frattura]] · [[Gisèl]] · [[Crisalide]] · [[Newsletter - Uno sguardo lontano]]

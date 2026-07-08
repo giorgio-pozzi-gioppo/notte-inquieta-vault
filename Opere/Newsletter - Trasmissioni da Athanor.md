@@ -2,7 +2,7 @@
 
 ## Forma
 
-Seconda **Newsletter** artistica della saga. Voce narrativa in soglia tra racconto e trasmissione: il testo non si limita a comunicare il progetto, ma apre un frammento canonico dentro [[Detha]].
+Seconda **Newsletter** artistica della saga. Voce narrativa in soglia tra racconto e trasmissione: il testo non si limita a comunicare il progetto, ma apre un frammento canonico dentro [[Detha]]. Fa parte dell'incipit esclusivo composto dalle note Substack.
 
 **Data:** 2026
 

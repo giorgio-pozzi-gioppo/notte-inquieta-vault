@@ -2,11 +2,11 @@
 
 ## Forma
 
-**Ciclo in pubblicazione**. Al 22 giugno 2026 risultano pubblicati **13 frammenti** (12 narrativi + 1 frammento di log). Versione 2026. Narrazione introspettiva-tecnologica.
+**Ciclo in pubblicazione**. Risultano pubblicati **14 frammenti** (13 narrativi + 1 frammento di log). Versione 2026. Narrazione introspettiva-tecnologica.
 
 ## Sinossi
 
-[[Aryes]], guerriero del [[Continuum]] ferito mortalmente da [[Sototh]], viene salvato da [[Imperius]]: la coscienza è **traslata** nell'architettura computazionale di [[Athanor]]. I primi sette capitoli narrativi raccontano risveglio, apprendimento del nuovo corpo, esplorazione della sfera e presentazione al [[Concilio dei Nove]]. Il **Frammento A** è un log di sistema corrotto: la voce è quella di Athanor durante l'operazione di recupero del corpo di Aryes. I frammenti successivi aprono la fase del corpo temporaneo: Aryes osserva l'assemblaggio di un drone ricavato da parti di backup del Guardiano, vi viene infuso, impara a camminare nel laboratorio e affronta la noia di una ricostruzione ancora lunga. La fase più recente introduce gli esperimenti sui materiali recuperati da [[Sototh]], in particolare l'[[Sototh|Ombra]].
+[[Aryes]], guerriero del [[Continuum]] ferito mortalmente da [[Sototh]], viene salvato da [[Imperius]]: la coscienza è **traslata** nell'architettura computazionale di [[Athanor]]. I primi sette capitoli narrativi raccontano risveglio, apprendimento del nuovo corpo, esplorazione della sfera e presentazione al [[Concilio dei Nove]]. Il **Frammento A** è un log di sistema corrotto: la voce è quella di Athanor durante l'operazione di recupero del corpo di Aryes. I frammenti successivi aprono la fase del corpo temporaneo: Aryes osserva l'assemblaggio di un drone ricavato da parti di backup del Guardiano, vi viene infuso, impara a camminare nel laboratorio e affronta la noia di una ricostruzione ancora lunga. La fase più recente porta quella noia a una soglia clinica: Numero 02 teme di nuovo per la mente di Aryes, convoca il Concilio dei Nove e subito dopo Athanor subisce un attacco esterno che blocca i sistemi e compromette il Concilio.
 
 ## Capitoli
 
@@ -23,6 +23,7 @@
 11. **Primi passi nel laboratorio** *(Aryes esplora le zone consentite e subisce un problema di connessione col corpo provvisorio)*
 12. **Niente di particolare** *(attesa, noia, dubbi su Imperius e preparazione all'accesso agli esperimenti)*
 13. **Il primo esperimento** *(osservazione protetta di un test sull'Ombra di Sototh)*
+14. **Blocco temporaneo** *(crisi psicologica di Aryes, allarme rosso e tentativi di hacking dall'esterno)*
 
 ## Nuovi elementi canonici
 
@@ -38,12 +39,17 @@
 - La nuova stanza di Aryes affaccia sul corridoio e sulla Sala controllo; include un giaciglio simbolico, utile più alla normalità psicologica che al corpo robotico.
 - Aryes comincia a sospettare che l'assenza di [[Imperius]] sia un nodo importante: manca il Guardiano, ma manca anche il creatore di Athanor.
 - L'Ombra di Sototh viene trattata come un organismo o materiale attivo: non è intelligente in senso pieno, ma risponde a logiche codificate e interagisce con il metallo, fondendosi con esso e aumentando di quantità.
+- Athanor trova un materiale che sembra respingere l'Ombra, ma lo studio resta interrotto dall'emergenza.
 - Numero 02 rifiuta l'idea di manipolare direttamente l'umore di Aryes tramite il cervello artificiale, considerandola eticamente pericolosa e solo come ultima possibilità.
 - Athanor dispone di sistemi difensivi avanzati ed è in grado di viaggiare rapidamente tra i [[Cristalli]].
+- La lunga degenza di Aryes diventa una minaccia psicologica esplicita: Numero 02 registra che la sua mente è di nuovo in pericolo.
+- Durante una procedura di manutenzione del corpo temporaneo, Aryes si risveglia in un laboratorio bloccato da un allarme rosso: operazioni sospese, esperimenti fermi, liquido viola agitato e sistemi centrali non responsivi.
+- Athanor subisce tentativi di hacking dall'esterno; Numero 02 riesce a raggiungere Aryes solo tramite un tunnel di comunicazione su sistemi secondari.
+- Il [[Concilio dei Nove]] viene compromesso e Athanor subisce danni ingenti.
 
 ## Temi
 
-Perdita del corpo, integrazione tecnologica, didattica della coscienza, solitudine e accompagnamento, incarnazione provvisoria, rischio sperimentale, etica della cura, noia dell'attesa, controllo e fiducia.
+Perdita del corpo, integrazione tecnologica, didattica della coscienza, solitudine e accompagnamento, incarnazione provvisoria, rischio sperimentale, etica della cura, noia dell'attesa, controllo e fiducia, assedio informatico, vulnerabilità dei sistemi.
 
 ## Fonte
 
