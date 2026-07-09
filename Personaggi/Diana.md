@@ -15,7 +15,7 @@ Boccoli biondi, lineamenti aguzzi, corpo snello. Vestita di stoffe chiare. Nei s
 
 ## Arco
 
-Diana è stata sedotta (o rapita — il confine è parte del tema) da [[Sototh]], che l'ha addormentata con la [[Pozione violacea]]. Dorme prigioniera nella fortezza di [[Detha]], sospesa fra le [[Monadi]]. La sua assenza è il catalizzatore narrativo centrale della saga: la missione di *[[Racconti intrecciati - Diradando l'oblio]]* è **diradare il torpore** che la avvolge.
+Diana è stata sedotta (o rapita — il confine è parte del tema) da [[Sototh]], che l'ha addormentata con la [[Pozione violacea]]. Dorme prigioniera nella fortezza mobile di [[Detha]], che in diversi momenti della saga si trova fuori dalla [[Crisalide]] nel [[Mare di Stelle]] o entra nel [[Mare delle Monadi]] dagli squarci. La sua assenza è il catalizzatore narrativo centrale della saga: la missione di *[[Racconti intrecciati - Diradando l'oblio]]* è **diradare il torpore** che la avvolge.
 
 Nel ciclo breve *[[Frammenti - Il Sogno di una Dea]]* (quattro variazioni scritte fra 2014 e 2016), Diana è vista dormire, sognare, abitare l'incubo — osservata da [[Chrono]], dagli spettri, da chi la ama e da chi la bracca.
 

@@ -26,7 +26,7 @@ Il caos dilaga tra le [[Monadi]]. Grande guerra con [[Sototh]]. Gli Ispar scopro
 
 ## 5. La Fortezza
 
-La guerra si conclude, torna l'ordine. Gli Ispar vivono in pace. Nasce [[Dondolan]].
+La guerra si conclude, torna l'ordine. Gli Ispar vivono in pace. Nasce [[Dondolan]], altro nome della città che sarà detta anche [[Ythia]].
 
 ## 6. L'Oblio
 

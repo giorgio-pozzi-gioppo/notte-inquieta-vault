@@ -10,7 +10,7 @@ Frequenta il piccolo cortile degli Ispar con naturalezza, tenendo i cuccioli in 
 
 ## Arco
 
-**Nell'era di *Schegge di Tenebra*** (come Demy): entra nella storia in un gattile. È qui che [[Uper]] vive con lei — inconsapevole di essere un [[Ispar]]. Con il risveglio di [[Diana]], Uper scoprirà la propria natura, e questo cambierà anche la vita di Demy.
+**Nell'era di *Schegge di Tenebra*** (come Demy): entra nella storia in un gattile. È qui che [[Uper]] vive con lei — inconsapevole di essere un [[Ispar]]. Uper resta con Demy anche in altri momenti della linea temporale, incluso il periodo detto [[07 - Cronologia delle Ere#5. La Fortezza|La Fortezza]]. Con il risveglio di [[Diana]], Uper scoprirà la propria natura, e questo cambierà anche la vita di Demy.
 
 **Nell'era del palazzo** (come Demetra): figura familiare nel Cortile degli Ispar. Amica di Diana e Sharon. Propone il nome Oz per il cucciolo dal manto verde, con l'accordo di [[Icore]]. Nella visione-ricordo di [[Gisèl]], corre ridendo tra le rose con [[Aryes]] e [[Leo]].
 

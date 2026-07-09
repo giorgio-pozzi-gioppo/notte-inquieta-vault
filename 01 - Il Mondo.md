@@ -20,12 +20,12 @@ Altre forze gravitano intorno: [[Chrono]] custode del tempo, [[Imperius]] artefi
 
 | Luogo | Natura |
 |---|---|
-| [[Detha]] | Fortezza volante tra le Monadi, due torri superstiti. Prigione onirica di Diana. |
+| [[Detha]] | Fortezza volante mobile: può trovarsi fuori dalla Crisalide nel Mare di Stelle o entrare nel Mare delle Monadi dagli squarci. Prigione onirica di Diana. |
 | [[Athanor]] | Sfera fluttuante con motori gravitazionali. Fucina biotech di Imperius. |
-| [[Ythia]] | Città del Continuum, centro civile, abitata dagli Sparkle. |
+| [[Ythia]] / [[Dondolan]] | Città del Continuum, centro civile appeso ad Athanor, abitata dagli Sparkle e da altre stirpi accolte. |
 | [[Nessundove]] | Labirinto di rocce sospese, ponti instabili, tempeste. Non-luogo. |
-| [[Clessidra del Mana]] | Tempio di Chrono, crocevia di linee temporali. |
-| [[Dondolan]] | "Centro del mondo", amica lontana, nuovo inizio. |
+| [[Clessidra del Mana]] | Luogo al centro del Grande Blu o strato blu; sulla sua cima sorge il tempio piramidale di Chrono. |
+| [[Dondolan]] | Altro nome di Ythia; registro simbolico della città come "centro del mondo", amica lontana, nuovo inizio. |
 | [[Krot]] | Deserto vulcanico a occidente, territorio demoniaco. |
 | [[Solco Azzurro]] | Frontiera fra regioni. |
 | [[Foresta degli Antenati]] | A oriente, selvaggia, arcaica. |
@@ -38,7 +38,7 @@ Altre forze gravitano intorno: [[Chrono]] custode del tempo, [[Imperius]] artefi
 - **Le identità sono fluide.** Nimorion ha molteplici maschere. Antarius scopre di non essere umano ma "costrutto di memoria incarnata". Aryes traslata dalla carne al computo di Athanor.
 - **Gli specchi di ossidiana sono portali** fra regioni e stati di essere.
 - **Magia runica e rune dorate** catalizzano il potere, presenti su archi, pugnali, strutture del Continuum.
-- **Le [[Monadi]]** sono i mondi che orbitano intorno ad Athanor dentro la [[Crisalide|crisalide]]. Detha sta fra le Monadi. La **crisalide** è il cristallo protagonista della saga: non indica tutti i [[Cristalli|cristalli]], ma quello specifico in cui si svolgono gli eventi principali.
+- **Le [[Monadi]]** sono i mondi che orbitano intorno ad Athanor dentro la [[Crisalide|crisalide]]. [[Detha]] può entrare nel Mare delle Monadi dagli squarci, ma in altri momenti resta subito fuori dalla Crisalide nel [[Mare di Stelle]]. La **crisalide** è il cristallo protagonista della saga: non indica tutti i [[Cristalli|cristalli]], ma quello specifico in cui si svolgono gli eventi principali.
 - **Athanor è centro gravitazionale e simbolico.** La home page descrive monadi silenziose che ruotano attorno ad [[Athanor]] e una città appesa a esso, incrocio di culture e razze diverse.
 
 ## Stirpi e creature

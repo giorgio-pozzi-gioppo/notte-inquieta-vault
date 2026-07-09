@@ -10,7 +10,7 @@ Dramma teatrale completo in tre atti. Ambientato interamente nella sommità dell
 
 - **[[Diana]]** — dea prigioniera, semisopita dalla [[Pozione violacea|pozione violacea]].
 - **[[Sototh]]** — divoratore di energia; si comporta da osservatore scientifico, non da carceriere emotivo.
-- **[[Coro degli Spettri]]** — luci spontanee nate nel mondo, sembrano fantasmi di [[Ispar]] ma non lo sono; sono voci lontane subito fuori dal [[Mare delle Monadi]], che girano attorno ad [[Athanor]].
+- **[[Coro degli Spettri]]** — luci spontanee nate nel mondo, sembrano fantasmi di [[Ispar]] ma non lo sono; sono voci lontane subito fuori dalla [[Crisalide]], nelle [[Profondità della Notte]], che ruotano attorno alla Crisalide.
 - **Un'Eco** — un accenno di [[Nimorion]], udibile solo da Sototh. Non parla nell'Atto I, ma interviene negli atti successivi come voce ironica e disturbante.
 
 ## Atto I — La veglia degli spettri
@@ -40,7 +40,7 @@ Nel buio finale resta un solo punto illuminato: Athanor che brilla appena.
 - Sototh non è un carceriere passionale: è **metodico, clinico**. Parla di "protocollo", "analisi", "stato stabile". La prigionia di Diana è per lui un esperimento da monitorare.
 - Diana mantiene connessione con la vita anche sedatissima: le piante crescono attorno a lei spontaneamente. *"Ha bisogno di far crescere le piante attorno a sé, ne ha bisogno come del respiro."*
 - L'**Eco di Nimorion** è udibile solo da Sototh — coerente con la sua origine dal contatto involontario tra lui e Diana.
-- Il Coro degli Spettri non è composto da Ispar: sono luci spontanee, voci esterne al Mare delle [[Monadi|Monadi]]. Vegliano Diana e minacciano di chiamare gli Ispar quando Sototh forza i limiti del patto.
+- Il Coro degli Spettri non è composto da Ispar: sono luci spontanee, voci nelle [[Profondità della Notte]], subito fuori dalla [[Crisalide]]. Vegliano Diana e minacciano di chiamare gli Ispar quando Sototh forza i limiti del patto.
 - [[Athanor]] è già percepito da Diana come promessa attiva: lontano, intatto, destinato a splendere. Nel finale resta come luce minima nel buio.
 - Il patto fra Diana e Sototh non è consenso libero: Diana lo descrive come un ricatto. Sototh ne rispetta i limiti solo per convenienza, ma non può ignorarli del tutto.
 - Sototh vorrebbe studiare Diana anche fisicamente, fino al prelievo di un campione, ma si ferma quando il Coro e Diana gli oppongono il patto.
@@ -60,4 +60,4 @@ Nel buio finale resta un solo punto illuminato: Athanor che brilla appena.
 
 ## Vedi anche
 
-[[Diana]] · [[Sototh]] · [[Detha]] · [[Coro degli Spettri]] · [[Nimorion]] · [[Pozione violacea]] · [[Mare delle Monadi]] · [[Athanor]]
+[[Diana]] · [[Sototh]] · [[Detha]] · [[Coro degli Spettri]] · [[Nimorion]] · [[Pozione violacea]] · [[Crisalide]] · [[Profondità della Notte]] · [[Mare di Stelle]] · [[Athanor]]

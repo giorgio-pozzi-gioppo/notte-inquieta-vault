@@ -10,9 +10,9 @@ I membri della genia Eredar hanno **corna** — tipicamente piccole, rilevabili 
 
 ## Ristar e la fine della linea
 
-[[Ristar]] è descritta da [[Zira]] come *"forse l'ultima Eredar"* — il che suggerisce che la genia si stia estinguendo, forse per effetto diretto della conquista di [[Agata]] da parte dei [[Drawosiani]] e dei [[Pirati della Piovra]]. Il fratello [[Theon]] è morto consumato dal rituale del Legame. Il padre è perduto. Ristar è l'unica rimasta.
+[[Ristar]] è descritta da [[Zira]] come *"forse l'ultima Eredar"* — il che suggerisce che la genia si stia estinguendo, forse per effetto diretto della conquista di [[Agata]] da parte dei [[Drawosiani]] e dei [[Pirati della Piovra]]. Il fratello [[Theon]] è morto consumato dal rituale del Legame. Il padre è perduto. Probabilmente Ristar è l'ultima Eredar, ma il canone non lo chiude in modo assoluto.
 
-Questo la trasforma da "maga in fuga" a **ultima custode di una linea magica antica** — con tutto il peso simbolico che ne consegue.
+Questo la trasforma da "maga in fuga" a **possibile ultima custode di una linea magica antica** — con tutto il peso simbolico che ne consegue.
 
 ## Note
 

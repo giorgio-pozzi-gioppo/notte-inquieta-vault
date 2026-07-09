@@ -10,7 +10,7 @@ Gatta dal **pelo nero lucido e ondulato**. Orecchie lunghe e appuntite. **Occhi 
 
 ## Arco
 
-Nyala agisce come tramite informale tra [[Icore]] e [[Gisèl]], che diserta le riunioni formali del [[Continuum]] per restare sul campo. La difende dalle critiche di Icore con una certa veemenza — e Icore non manca di notare quanto le stia a cuore il giudizio su di lui. Porta aggiornamenti militari, ascolta in Consiglio al posto di Gisèl, riferisce. È un punto di connessione tra la politica del Santuario e la guerra reale.
+Nyala agisce come tramite informale tra [[Icore]] e [[Gisèl]], che diserta le riunioni formali del [[Continuum]] per restare sul campo. La difende dalle critiche di Icore con una certa veemenza — e Icore non manca di notare quanto le stia a cuore il giudizio su di lui. Porta aggiornamenti militari, ascolta nel [[Consiglio del Continuum]] al posto di Gisèl, riferisce. È un punto di connessione tra la politica del Santuario e la guerra reale.
 
 ## Relazioni
 

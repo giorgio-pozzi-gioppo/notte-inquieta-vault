@@ -7,9 +7,11 @@
 
 È il rovescio pauroso della libertà ispariana: il prezzo quando si cede al richiamo di un padrone, di una fede, di un imperativo estraneo. Il termine suona come un singolare che può farsi categoria: esistono Iskaroth, si diventa Iskaroth — la caduta è un processo, non un evento istantaneo.
 
-## Nota
+## Figure note
 
-Nel materiale pubblicato non compare ancora un personaggio esplicitamente chiamato Iskaroth. È una zona narrativamente fertile: un antagonista in transizione da Ispar a Iskaroth, o una figura già caduta che ricorda cosa significava essere libero.
+[[Xabras]] è un Iskaroth: un Isparaleth della prima generazione che ha perso la libertà ed è incarnato in forma umana. La sua presenza rende concreta la categoria, non solo come definizione ontologica ma come caduta vissuta.
+
+Resta una zona narrativamente fertile: un Ispar può essere colto in transizione verso la condizione di Iskaroth, oppure già caduto e ancora capace di ricordare cosa significava essere libero.
 
 ## Vedi anche
-[[Lessico]] · [[Ispar]] · [[Ythiano]] · [[Sototh]]
+[[Lessico]] · [[Ispar]] · [[Ythiano]] · [[Sototh]] · [[Xabras]]

@@ -2,7 +2,7 @@
 
 ## Forma
 
-Terza **Newsletter** artistica della saga. Fa parte dei testi esclusivi riservati a chi segue la newsletter e contribuisce all'**incipit** narrativo composto dalle note Substack.
+Terza **Newsletter** artistica della saga. Fa parte dei testi esclusivi riservati a chi segue la newsletter e contribuisce all'**incipit** narrativo composto dalle note Substack. Nel tempo interno della saga è ambientata prima dell'episodio 19 di *[[Racconti intrecciati - Diradando l'oblio]]*.
 
 **Data:** 2026
 
@@ -20,7 +20,7 @@ La nota collega conservazione materiale e [[Oblio]]: umani e [[Ispar|Isparaleth]
 - Esistono frammenti dell'involucro esterno di Athanor recuperati e catalogati.
 - Esistono chiavi di pannello di Athanor; almeno una è descritta come candida, circolare e forse di primo livello.
 - Athanor è quasi impossibile da aprire dall'esterno senza distruggerlo.
-- [[Tecla]] passa nel corridoio durante l'incursione notturna: è un'abilissima scrutatrice mentale, ma non può vedere ciò che non ricorda di poter vedere.
+- [[Tecla]] passa nel corridoio durante l'incursione notturna, in un momento precedente all'episodio 19 di *[[Racconti intrecciati - Diradando l'oblio]]*: è un'abilissima scrutatrice mentale, ma non può vedere ciò che non ricorda di poter vedere.
 - L'oblio limita anche le capacità percettive e mnemoniche degli abitanti.
 
 ## Voce narrante

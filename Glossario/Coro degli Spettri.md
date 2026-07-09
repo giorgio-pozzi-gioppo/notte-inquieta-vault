@@ -2,7 +2,7 @@
 
 ## Natura
 
-Il **Coro degli Spettri** è un insieme di **luci spontanee nate nel mondo** — sembrano fantasmi di [[Ispar]] ma non lo sono. Sono voci lontane che si trovano subito fuori dal [[Mare delle Monadi]], e girano attorno ad [[Athanor]].
+Il **Coro degli Spettri** è un insieme di **luci spontanee nate nel mondo** — sembrano fantasmi di [[Ispar]] ma non lo sono. Sono voci lontane che si trovano subito fuori dalla [[Crisalide]], nelle [[Profondità della Notte]] che danno sul [[Mare di Stelle]], e ruotano attorno alla Crisalide.
 
 Non appartengono al [[Continuum]] né a nessuna fazione: sono presenza autonoma, nata senza progetto.
 
@@ -20,4 +20,4 @@ Negli atti finali di *[[Teatro - Prigioniera a Detha]]*, il Coro diventa anche f
 
 ## Vedi anche
 
-[[Diana]] · [[Sototh]] · [[Athanor]] · [[Mare delle Monadi]] · [[Ispar]] · [[Detha]]
+[[Diana]] · [[Sototh]] · [[Crisalide]] · [[Profondità della Notte]] · [[Mare di Stelle]] · [[Ispar]] · [[Detha]]

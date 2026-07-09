@@ -6,7 +6,7 @@
 
 ## Arco (in *Diradando l'[[Oblio|oblio]]*, ep. 2-4)
 
-Arriva alla Locanda Zita dopo il viaggio. Riceve un pacchetto/lettera dagli amici che lo attendevano e scopre la rete nascosta della locanda: passaggi interni, alleati sotto copertura e collegamento con [[Nibiru]]. Subito dopo viene braccato dai Pirati e salvato da [[Deuterium]], che lo spinge a usare il Gancio e tornare a Ythia.
+Arriva alla Locanda Zita dopo il viaggio. Riceve un pacchetto/lettera dagli amici che lo attendevano e scopre la rete nascosta della locanda: passaggi interni, alleati sotto copertura e collegamento con [[Nibiru]]. Subito dopo viene braccato dai Pirati e salvato da [[Deuterium]], che lo spinge a usare il [[Gancio]] e tornare a Ythia.
 
 Nella saga funge da **ponte narrativo**: connette personaggi distanti, trasporta messaggi, tiene aperto il filo fra le regioni.
 
@@ -18,4 +18,4 @@ Nella saga funge da **ponte narrativo**: connette personaggi distanti, trasporta
 - Richiamato nelle schede di [[Nessundove]] e [[Locanda Zita]]
 
 ## Vedi anche
-[[Continuum]] · [[Nessundove]] · [[Locanda Zita]]
+[[Continuum]] · [[Nessundove]] · [[Locanda Zita]] · [[Gancio]]

@@ -14,8 +14,8 @@ Le **Profondità della Notte** sono l'**esterno della [[Crisalide]]** — il [[M
 
 ## Accesso
 
-Il portale si trova all'interno di Ythia. [[I Neri]] (CMCE) presidiano l'esterno della Crisalide e si sono ritirati in questa zona dopo la loro separazione dal [[Continuum]].
+Il portale si trova all'interno di [[Ythia]]/[[Dondolan]]. [[I Neri]] (CMCE) presidiano l'esterno della Crisalide e si sono ritirati in questa zona dopo la loro separazione dalla capitale e dal [[Continuum]]. Quasi nessuno a Ythia li ha più visti.
 
 ## Vedi anche
 
-[[Crisalide]] · [[Mare di Stelle]] · [[Ythia]] · [[I Neri]] · [[Bruti Notturni]] · [[Continuum]]
+[[Crisalide]] · [[Mare di Stelle]] · [[Ythia]] · [[Dondolan]] · [[I Neri]] · [[Bruti Notturni]] · [[Continuum]]

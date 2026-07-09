@@ -2,9 +2,9 @@
 
 ## Natura
 
-La **Clessidra del Mana** è un luogo situato in una dimensione parallela — per ora indicata come **lo strato blu** — dove le **linee temporali convergono naturalmente**. La sua conformazione la rende ideale per il monitoraggio e lo studio dei [[Flussi temporali]].
+La **Clessidra del Mana** è un luogo situato in una dimensione parallela: il **Grande Blu**, detto anche **strato blu**. Si trova al centro di questo spazio, in un punto dove le **linee temporali convergono naturalmente**. La sua conformazione la rende ideale per il monitoraggio e lo studio dei [[Flussi temporali]].
 
-[[Chrono]] vi ha eretto un **tempio** che è il suo quartier generale: la base operativa degli [[Sparkle]] e il centro di osservazione del tempo.
+[[Chrono]] vi ha eretto un **tempio** sulla cima della Clessidra: una struttura piramidale enorme che funge da quartier generale, base operativa degli [[Sparkle]] della sua stirpe e centro di osservazione del tempo.
 
 ## Funzione
 
@@ -12,7 +12,7 @@ Da qui Chrono vegliava sul tempo, sui flussi, e su [[Diana]]. La convergenza nat
 
 ## Distruzione
 
-[[Sototh]] ha attaccato e distrutto la Clessidra del Mana **prima del risveglio di Diana**, come parte della strategia per mantenere la dea addormentata e tenere i [[Flussi temporali]] sotto il suo controllo. Nell'attacco, Chrono viene sconfitto e **frammentato**, [[Deuterium]] muore con lui nel crollo.
+[[Sototh]] ha attaccato e distrutto la Clessidra del Mana **prima del risveglio di Diana**, come parte della strategia per mantenere la dea addormentata e tenere i [[Flussi temporali]] sotto il suo controllo. Nell'attacco, Chrono viene sconfitto e **frammentato**. [[Deuterium]] sembra perdersi nel crollo, ma sopravvive.
 
 ## Dopo la caduta
 

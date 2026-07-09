@@ -2,7 +2,7 @@
 
 ## Natura
 
-**Alpha19** è un'antichissima **macchina da guerra** di forma piramidale, costruita nell'era de *[[La giostra]]*. Nel presente della saga viene **rimessa in funzione** da [[Gisèl]] e [[Yadon]], appena in tempo per rispondere all'escalation del conflitto.
+**Alpha19** è un'antichissima **macchina da guerra** di forma piramidale, costruita nell'era de *[[La Giostra]]*. Nel presente della saga viene **rimessa in funzione** da [[Gisèl]] e [[Yadon]], appena in tempo per rispondere all'escalation del conflitto.
 
 Non è un'invenzione recente: è un'arma dimenticata, recuperata dal passato proprio nel momento in cui serve.
 

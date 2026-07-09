@@ -10,7 +10,7 @@ Il ritorno di [[Ristar]] per compiere il suo destino e unirsi alle forze di [[Di
 
 - **Formato:** romanzo
 - **Stato:** in scrittura
-- **Ambientazione:** [[07 - Cronologia delle Ere#7. Il Risveglio|Il Risveglio]]
+- **Ambientazione:** [[07 - Cronologia delle Ere#7. Il Risveglio *(qui è ambientata la maggior parte dei racconti)*|Il Risveglio]]
 - **Luogo chiave:** [[Agata]]
 - **Protagonista:** [[Ristar]]
 

@@ -5,11 +5,11 @@
 
 ## Natura
 
-Fortezza volante sospesa fra le [[Monadi]], ai margini dello spazio. **Due torri superstiti**. Luogo di **prigionia di [[Diana]]**, addormentata con la [[Pozione violacea]].
+Fortezza volante e mobile, capace di trovarsi in momenti diversi della saga sia subito fuori dalla [[Crisalide]], nel [[Mare di Stelle]], sia dentro la Crisalide, quando entra dagli squarci nel [[Mare delle Monadi]]. **Due torri superstiti**. Luogo di **prigionia di [[Diana]]**, addormentata con la [[Pozione violacea]].
 
 ## Atmosfera
 
-Isola nel buio dove "tutto scorre più lentamente". [[Mare di Stelle|Mare di stelle]] intorno. Distanza incolmabile tra il tempo del mondo e quello della torre.
+Isola nel buio dove "tutto scorre più lentamente". Quando è fuori dalla Crisalide ha intorno il [[Mare di Stelle]]; quando attraversa gli squarci entra nel [[Mare delle Monadi]]. In ogni posizione resta una distanza incolmabile tra il tempo del mondo e quello della torre.
 
 ## Abitanti e presenze
 
@@ -24,4 +24,4 @@ Chiave narrativa. Il frammento di [[Chrono]] ritrovato da [[Yadon]] porta il mes
 > Detha è la chiave.
 
 ## Vedi anche
-[[Lessico]] · [[Diana]] · [[Sototh]] · [[Monadi]] · [[Pozione violacea]] · [[Iceb]] · [[Yadon]]
+[[Lessico]] · [[Diana]] · [[Sototh]] · [[Crisalide]] · [[Mare di Stelle]] · [[Mare delle Monadi]] · [[Monadi]] · [[Pozione violacea]] · [[Iceb]] · [[Yadon]]

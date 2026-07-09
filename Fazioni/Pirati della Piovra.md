@@ -10,7 +10,7 @@ Forza mista: umanoidi come base, [[Iskaroth]] come rinforzo. Non è un corpo omo
 
 ## Ruolo nella guerra
 
-Sono il braccio armato diretto di Sototh nella conquista delle [[Monadi]]. Quando una monade cade, spesso è opera loro. Tengono sotto assedio la [[Clessidra del Mana]], controllano territori conquistati, neutralizzano resistenze locali. In certi contesti infiltrano strutture politiche esistenti — come ad Agata con i [[Drawosiani]] — prima ancora di attaccare militarmente.
+Sono il braccio armato diretto di Sototh nella conquista delle [[Monadi]]. Quando una monade cade, spesso è opera loro. Hanno assediato e conquistato la [[Clessidra del Mana]], poi distrutta nell'attacco di Sototh; controllano territori conquistati, neutralizzano resistenze locali. In certi contesti infiltrano strutture politiche esistenti — come ad Agata con i [[Drawosiani]] — prima ancora di attaccare militarmente.
 
 ## Le Piovre Volanti
 

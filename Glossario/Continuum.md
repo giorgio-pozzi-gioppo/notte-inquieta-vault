@@ -13,9 +13,9 @@ Non è dunque solo un'alleanza politica, ma un'organizzazione viva con missioni 
 
 ## Struttura di governo
 
-Il Continuum governa da [[Ythia]], la sua capitale. Il potere è condiviso tra [[Ispar]] e umanoidi: gli Ispar presiedono il [[Senato dei Saggi]], mentre gli umani rispondono alla **Fortezza Bruna**, le due istituzioni che co-governano la città. [[Nibiru]], reggente di Ythia, è l'espressione più visibile di questa governance.
+Il Continuum governa da [[Ythia]]/[[Dondolan]], la sua capitale appesa ad [[Athanor]]. Il potere è condiviso tra [[Ispar]] e umanoidi, ma non attraverso un unico organo misto: gli Isparaleth prendono le decisioni importanti fra pari nel [[Senato dei Saggi]], mentre gli umani rispondono alla [[Fortezza Bruna]]. [[Nibiru]], reggente del Senato dei Saggi, è l'espressione più visibile di questa governance.
 
-Il **[[Concilio dei Nove]]** è il suo organo deliberativo più alto.
+Il [[Consiglio del Continuum]] è l'evento assembleare che si organizza presso il Senato dei Saggi quando il Continuum deve coordinarsi su questioni politiche, militari o operative.
 
 ## Economia
 
@@ -26,22 +26,22 @@ Nel Continuum circolano due monete molto diffuse:
 
 ## Fazioni interne
 
-- [[I Bianchi]] — corpo di polizia umano della Città Alta di Ythia
+- [[I Bianchi]] — corpo di guardia umano della Città Alta di Ythia/Dondolan
 - [[Ispar]] — la stirpe più visibile, felini del Continuum che ne incarnano la missione
 
 ## Membri noti
 
 - [[Icore]] — gran maestro del Santuario, custode di [[Athanor|Athanor]] e stratega
-- [[Nibiru]] — reggente di Ythia, chimera di due stirpi di Ispar
+- [[Nibiru]] — reggente del [[Senato dei Saggi]], chimera di due stirpi di Ispar
 - [[Nyala]] — guerriera della prima generazione, tramite tra Icore e Gisèl
 - [[Gisèl]] — costruttore di varchi fra Monadi, spesso fuori sede
 - [[Yari]] — viaggiatore
 - [[Aryes]] — Isparaleth leggendario, traslato in Athanor
 - [[Yadon]] — felino cibernetico
 - [[Oz]] — specialista in apertura di varchi, allievo di Gisèl
-- [[Diomede]] — difensore di Ythia, inviato in missione esterna per potenza di combattimento
+- [[Diomede]] — difensore di Ythia/Dondolan, inviato in missione esterna per potenza di combattimento
 - [[Yinnead]] — druido dei felini di Athanor
 - [[Serena]] — paladina umana, futura inviata diplomatica del suo popolo
 
 ## Vedi anche
-[[Ispar]] · [[Sparkle]] · [[Ythia]] · [[Mare delle Monadi]] · [[Frattura]] · [[Nibiru]] · [[Pirati della Piovra]] · [[Senato dei Saggi]] · [[I Bianchi]] · [[Sole Posticcio]] · [[Sole Inverso]] · [[01 - Il Mondo]] · [[Sito ufficiale - notteinquieta.it]]
+[[Ispar]] · [[Sparkle]] · [[Ythia]] · [[Dondolan]] · [[Mare delle Monadi]] · [[Frattura]] · [[Nibiru]] · [[Pirati della Piovra]] · [[Senato dei Saggi]] · [[Consiglio del Continuum]] · [[Fortezza Bruna]] · [[Gancio]] · [[I Bianchi]] · [[Sole Posticcio]] · [[Sole Inverso]] · [[01 - Il Mondo]] · [[Sito ufficiale - notteinquieta.it]]

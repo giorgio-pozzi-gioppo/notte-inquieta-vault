@@ -2,11 +2,11 @@
 
 ## Essenza
 
-**I Bianchi** sono il corpo di polizia umano della **Città Alta di [[Ythia]]**. Rispondono direttamente alla **Fortezza Bruna** — la sede del potere umano nella città — che a sua volta collabora con il [[Senato dei Saggi]] degli [[Ispar]] nel governo condiviso di Ythia. Sono un organo prettamente umano: non includono Ispar nei loro ranghi.
+**I Bianchi** sono il corpo di guardia umano della **Città Alta di [[Ythia]]/[[Dondolan]]**. Rispondono direttamente alla [[Fortezza Bruna]] — la fortezza umana della città alta. Sono un organo prettamente umano: non includono Ispar nei loro ranghi.
 
 ## Giurisdizione
 
-Sorvegliano la **Città Alta** — il livello superiore di Ythia, dove si trovano il Santuario degli Ispar, il Senato dei Saggi e la Fortezza Bruna. Raramente operano nella **[[Città Capovolta]]**, la parte inferiore e commerciale della città, dove la loro presenza è sporadica.
+Sorvegliano la **Città Alta** — il livello superiore di Ythia/Dondolan. Non sono il corpo di guardia del [[Santuario di Athanor|Santuario degli Ispar]]: presidiano la città alta come forza umana della Fortezza Bruna. Raramente operano nella **[[Città Capovolta]]**, la parte inferiore e commerciale della città, dove la loro presenza è sporadica.
 
 ## Cultura e comportamento
 
@@ -22,4 +22,4 @@ L'ospitalità dei Bianchi ha una reputazione che va oltre la sicurezza: il loro 
 
 ## Vedi anche
 
-[[Ythia]] · [[Continuum]] · [[Milahes]] · [[Ristar]] · [[Senato dei Saggi]] · [[Città Capovolta]]
+[[Ythia]] · [[Dondolan]] · [[Continuum]] · [[Milahes]] · [[Ristar]] · [[Fortezza Bruna]] · [[Città Capovolta]]

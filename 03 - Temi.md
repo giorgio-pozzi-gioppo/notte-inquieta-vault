@@ -34,7 +34,7 @@ Aryes solo in Athanor ma connesso ai [[Sottoprogrammi]]. [[Nymeria]] sola in bat
 
 ## Sacrificio
 
-Chrono si frammenta. Aryes muore e rinuncia al corpo. [[Deuterium]] cade con la [[Clessidra del Mana]]. Il dono è intriso di perdita.
+Chrono si frammenta. Aryes muore e rinuncia al corpo. [[Deuterium]] sembra perdersi con la [[Clessidra del Mana]], ma ritorna. Il dono è intriso di perdita.
 
 ## Vedi anche
 [[01 - Il Mondo]] · [[02 - Tono e Voce]] · [[04 - Strutture ricorrenti]]

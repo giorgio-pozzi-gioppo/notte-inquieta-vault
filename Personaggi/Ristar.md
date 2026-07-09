@@ -5,7 +5,7 @@
 
 ## Essenza
 
-**Ristar** è una maga del fuoco originaria di [[Agata]] e ultima discendente della genia [[Eredar]] — una stirpe antica dall'eccezionale attitudine alla magia, ormai quasi estinta. La sua funzione narrativa è catalitica: vede oltre le apparenze e rende inevitabili conflitti che altri personaggi potrebbero ancora evitare.
+**Ristar** è una maga del fuoco originaria di [[Agata]] e probabile ultima discendente della genia [[Eredar]] — una stirpe antica dall'eccezionale attitudine alla magia, ormai quasi estinta. Non è però certo che sia davvero l'ultima in assoluto. La sua funzione narrativa è catalitica: vede oltre le apparenze e rende inevitabili conflitti che altri personaggi potrebbero ancora evitare.
 
 ## Aspetto
 

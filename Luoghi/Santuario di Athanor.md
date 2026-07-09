@@ -2,7 +2,7 @@
 
 ## Natura
 
-Il **Santuario di Athanor** è il **centro spirituale degli [[Ispar]]** a [[Ythia]] — il palazzo più importante della Città Alta, da cui [[Icore]] contempla [[Athanor]] e custodisce i segreti dell'artefatto. Si distingue dal [[Senato dei Saggi]] (detto anche Parlamento), che è invece il **centro politico** — il luogo dove il [[Continuum]] si riunisce a deliberare.
+Il **Santuario di Athanor** è il **centro spirituale degli [[Ispar]]** a [[Ythia]] — il palazzo più importante della Città Alta, da cui [[Icore]] contempla [[Athanor]] e custodisce i segreti dell'artefatto. Si distingue dal [[Senato dei Saggi]], che è invece un'istituzione politica degli Isparaleth.
 
 ## Posizione e rapporto con Athanor
 
@@ -14,7 +14,7 @@ Il Santuario è nella Città Alta di Ythia, slanciata verso Athanor per vicinanz
 
 Non è solo un luogo di contemplazione: è il posto in cui la mente più acuta del Continuum elabora le strategie più profonde. I "Contemplatori" — Ispar incaricati di studiare Athanor — lavorano qui. È anche il luogo dove vengono ricevuti ospiti di rango in momenti non formali, lontano dalla politica del Senato.
 
-[[Icore]] non può uscire dal Santuario: è confinato lì per ragioni di sicurezza legate alla sua natura.
+[[Icore]] deve restare il più vicino possibile al Santuario per ragioni di sicurezza legate alla sua fragilità. Di solito non lascia la Città Alta, ma non è prigioniero.
 
 ## Magazzino dei reperti
 

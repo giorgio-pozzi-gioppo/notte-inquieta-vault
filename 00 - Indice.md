@@ -32,6 +32,8 @@
 - [[Monadi]] · [[Crisalide]] · [[Sparkle]] (= [[Ispar]]) · [[Continuum]]
 - [[Rune dorate]] · [[Specchi di ossidiana]] · [[Pozione violacea]]
 - [[Concilio dei Nove]] · [[Sottoprogrammi]]
+- [[Senato dei Saggi]] · [[Consiglio del Continuum]]
+- [[Gancio]] · [[Fortezza Bruna]]
 - [[Flussi temporali]]
 - Dal sito: [[Frattura]] · [[Cristalli]] · [[Risonanza]] · [[Sedazione]] · [[Memoria]] · [[Oblio]]
 
@@ -69,17 +71,17 @@ Comprimari (dal sito):
 
 - [[Detha]] — torri superstiti, prigione di [[Diana]]
 - [[Athanor]] — fucina-sfera biotech di [[Imperius]]
-- [[Ythia]] — città del [[Continuum]]
+- [[Ythia]] / [[Dondolan]] — città del [[Continuum]], appesa ad [[Athanor]]
 - [[Nessundove]] — labirinto di rocce sospese
 - [[Clessidra del Mana]] — tempio di [[Chrono]]
-- [[Dondolan]] — centro del mondo, nuovo inizio
+- [[Dondolan]] — altro nome di [[Ythia]], centro del mondo, nuovo inizio
 - [[Krot]] — deserto vulcanico, territorio demoniaco
 - [[Solco Azzurro]] — frontiera
 - [[Foresta degli Antenati]] — selvaggia, arcaica
 - [[Locanda Zita]] — tappa nel [[Nessundove]]
 
 Cosmo e nuovi luoghi (dal sito):
-- [[Mare delle Monadi]] — il [[Mare di Stelle|Mare di Stelle]], cosmo frammentato
+- [[Mare delle Monadi]] — spazio interno post-[[Frattura]] fra le [[Monadi]], distinto dal [[Mare di Stelle]]
 - [[Giardino del Mezzo]] — superficie fra ciò che vola e ciò che nuota
 - [[Agata]] — città di [[Ristar]]
 - [[Eternia]] — luogo raggiungibile tramite varco

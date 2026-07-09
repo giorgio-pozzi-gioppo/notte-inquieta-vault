@@ -9,7 +9,7 @@
 
 ## Mobilità
 
-Icore non lascia mai la Città Alta di [[Ythia]] e non scende nella [[Città Capovolta]]. Non è un obbligo formale: potrebbe andare dove vuole, ma la sua natura lo rende fisicamente fragile e allontanarsi dalla capitale gli è sconsigliato. È una limitazione pratica, non una prigione.
+Icore deve restare il più vicino possibile al [[Santuario di Athanor]] per ragioni di sicurezza legate alla sua fragilità. Di solito non lascia la Città Alta di [[Ythia]] e non scende nella [[Città Capovolta]], ma non è prigioniero: è una limitazione pratica, non un vincolo formale.
 
 ## Le incisioni di Athanor
 

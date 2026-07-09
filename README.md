@@ -15,7 +15,7 @@ Vault di riferimento della saga di **Giorgio Pozzi**. Contiene mondo, personaggi
 
 ### Cartelle
 
-- **Lessico/** — le 12 voci canoniche ontologiche (il cuore poetico della saga). Cfr. [[Lessico]].
+- **Lessico/** — le voci canoniche ontologiche raccolte come file autonomi; il Lessico completo comprende 12 voci, alcune delle quali rimandano alle schede principali in **Personaggi/** o **Luoghi/**. Cfr. [[Lessico]].
 - **Glossario/** — termini tecnici e narrativi ricorrenti che non sono nel Lessico (Monadi, [[Crisalide|Crisalide]], Sparkle, [[Continuum|Continuum]], rune dorate, pozione violacea, ecc.).
 - **Personaggi/** — divinità, personaggi, forze, creature.
 - **Luoghi/** — regioni, piani, architetture, non-luoghi.
@@ -23,7 +23,7 @@ Vault di riferimento della saga di **Giorgio Pozzi**. Contiene mondo, personaggi
 
 ## Come usare
 
-Aprire con Obsidian puntando il vault su questa cartella. Tutto è collegato con `[[wiki-link]]`. Le definizioni del Lessico sono citate in testa alle pagine a cui si riferiscono (Diana, Sototh, Nimorion, Athanor, Detha, ecc.).
+Aprire con Obsidian puntando il vault su questa cartella. Le note sono collegate fra loro con link interni Obsidian. Le definizioni del Lessico sono citate in testa alle pagine a cui si riferiscono (Diana, Sototh, Nimorion, Athanor, Detha, ecc.).
 
 Per chi arriva da fuori e cerca un orientamento pubblico, la risorsa più utile è la [[Mappa della Notte Inquieta]]: raccoglie sito, letture, archivi, mirror e percorsi disponibili.
 

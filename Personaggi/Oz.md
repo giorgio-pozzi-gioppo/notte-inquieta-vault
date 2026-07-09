@@ -10,7 +10,7 @@ Pelo **verde**. Altri tratti fisici non ancora definiti nel dettaglio.
 
 ## Arco
 
-Non ancora esplorato direttamente in scena. È amico di [[Nyala]], che lo cerca nel piazzale di [[Ythia]] prima del Consiglio del [[Continuum]]. La sua presenza nella città al momento della riunione lo colloca tra i felini attivi nel cerchio politico-militare gravitante attorno a [[Icore]] e [[Gisèl]].
+Non ancora esplorato direttamente in scena. È amico di [[Nyala]], che lo cerca nel piazzale di [[Ythia]] prima del [[Consiglio del Continuum]]. La sua presenza nella città al momento della riunione lo colloca tra i felini attivi nel cerchio politico-militare gravitante attorno a [[Icore]] e [[Gisèl]].
 
 ## Relazioni
 

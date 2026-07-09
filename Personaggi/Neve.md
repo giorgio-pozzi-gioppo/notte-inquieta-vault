@@ -2,7 +2,7 @@
 
 ## Essenza
 
-**Neve** è l'[[Ispar|Isparaleth]] incaricata dell'**accoglienza a [[Ythia]]** per tutti coloro che vengono tratti in salvo dal "gancio" del [[Continuum]] — le operazioni di recupero coordinate da [[Icore]] e [[Gisèl]]. È quasi sempre presente nella Città Alta: la sua costanza è parte del ruolo stesso. I nuovi arrivati la trovano lì, e questo continuità è una forma di rassicurazione in sé.
+**Neve** è l'[[Ispar|Isparaleth]] incaricata dell'**accoglienza a [[Ythia]]** per tutti coloro che vengono tratti in salvo dal [[Gancio]] del [[Continuum]] — lo strumento di recupero coordinato da [[Icore]] e [[Gisèl]] che riporta i viaggiatori a Ythia da tutta la [[Crisalide]]. È quasi sempre presente nella Città Alta, presso il Piazzale del Gancio al centro della Piazza centrale: la sua costanza è parte del ruolo stesso. I nuovi arrivati la trovano lì, e questa continuità è una forma di rassicurazione in sé.
 
 Ha spiegato a [[Ristar]] le consuetudini dei [[I Bianchi|Bianchi]] riguardo all'ospitalità — con tatto, senza giudizi verso nessuna delle due culture.
 
@@ -20,4 +20,4 @@ Non è una guerriera né una stratega: è un punto fermo. In un mondo dove tutto
 
 ## Vedi anche
 
-[[Ispar]] · [[Ythia]] · [[Continuum]] · [[Ristar]] · [[Icore]] · [[Gisèl]] · [[I Bianchi]]
+[[Ispar]] · [[Ythia]] · [[Continuum]] · [[Gancio]] · [[Ristar]] · [[Icore]] · [[Gisèl]] · [[I Bianchi]]

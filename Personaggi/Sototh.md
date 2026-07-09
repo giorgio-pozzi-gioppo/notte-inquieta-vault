@@ -17,7 +17,7 @@ Uniforme nera, occhi lampeggianti, spadone. Presenza imponente. Parla con voce d
 
 ## Arco
 
-Sototh ha sedotto [[Diana]] — sostiene di amarla, "fingono di odiarsi" — e l'ha addormentata con la [[Pozione violacea]]. Attacca la [[Clessidra del Mana]] per distorcere i [[Flussi temporali]] e prolungare il sonno della dea. Uccide [[Chrono]] nell'assalto; con lui cade [[Deuterium]].
+Sototh ha sedotto [[Diana]] — sostiene di amarla, "fingono di odiarsi" — e l'ha addormentata con la [[Pozione violacea]]. Attacca la [[Clessidra del Mana]] per distorcere i [[Flussi temporali]] e prolungare il sonno della dea. Uccide [[Chrono]] nell'assalto; [[Deuterium]] sembra cadere con lui, ma sopravvive.
 
 [[Nimorion]] è nato dal contatto involontario fra lui e [[Diana]] — Sototh non lo ha voluto, né progettato, ma ne riconosce l'esistenza pur negando di esserne il padrone. Si traveste personalmente da marito di Diana — sotto il nome di copertura [[Sam]] — somministrandole la [[Pozione violacea]] di propria mano per mantenerne il sonno. Non delega: l'inganno è una prossimità che sceglie di tenere per sé.
 
