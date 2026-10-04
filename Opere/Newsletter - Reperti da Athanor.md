@@ -33,6 +33,10 @@ Identità non dichiarata. La figura privilegia le informazioni rispetto agli ogg
 - Pubblicata su Substack
 - Sorgente locale: `~/Desktop/Laboratorio/GitHub/notte-inquieta/Newsletter/02) Reperti da Athanor.txt`
 
+## Raccordo con le note successive
+
+Le note *[[Newsletter - Ai confini della crisalide]]* e *[[Newsletter - La guerra nascosta]]* nominano esplicitamente [[Nimorion]] e mostrano la sua ricerca di informazioni, l’uso della mimetizzazione e la conoscenza dell’interno di Athanor. La continuità con questa figura anonima è suggerita, ma non si trasforma retroattivamente in una menzione esplicita del nome nel presente testo.
+
 ## Vedi anche
 
 [[Athanor]] · [[Santuario di Athanor]] · [[Tecla]] · [[Icore]] · [[Ispar]] · [[Oblio]] · [[Newsletter - Le incisioni di Athanor]]

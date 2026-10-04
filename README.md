@@ -29,6 +29,6 @@ Per chi arriva da fuori e cerca un orientamento pubblico, la risorsa più utile 
 
 ## Fonti
 
-Tutto il contenuto è tratto (e sintetizzato fedelmente) dal materiale in `~/Desktop/Claude/Riferimento/Notte Inquieta/` e dalle sorgenti locali del progetto: Lessico, Teatro (*Dialogo col derelitto*, *All'Ombra di Detha*), Frammenti (*Nel Cuore di Athanor*, *Il Sogno di una Dea*), Racconti intrecciati (*Diradando l'oblio*), Newsletter e Blog.
+Il riferimento corrente per i testi è `~/Desktop/Laboratorio/GitHub/notte-inquieta/`. Il vault conserva anche informazioni da precedenti materiali di riferimento e dal sito, con attribuzione nelle singole schede. Le fonti comprendono: Lessico, Teatro (*Dialogo col derelitto*, *All'Ombra di Detha*), Frammenti (*Nel Cuore di Athanor*, *Il Sogno di una Dea*), Racconti intrecciati (*Diradando l'oblio*), Flussi (*Mirlo di Tre Sassi*), Newsletter e Blog.
 
 Non sono state inventate entità, luoghi o regole non presenti nelle fonti. Dove il materiale è lacunoso è segnalato esplicitamente.

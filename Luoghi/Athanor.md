@@ -46,5 +46,19 @@ Nel frammento **Blocco temporaneo**, i laboratori risultano sospesi durante un a
 
 Il recupero fisico di Aryes è stato compiuto da droni specializzati nel movimento aereo, poi danneggiati e conservati nel deposito. Il nuovo corpo organico di Aryes resta un progetto complesso; nel frattempo Athanor gli fornisce un corpo robotico temporaneo.
 
+## Aree e sistemi rivelati nei capitoli 16–29
+
+La cavità di espansione circonda la sezione sterile con il corpo originale di [[Aryes]] e i corpi sperimentali. Sotto il laboratorio si trova una sala server con una struttura emisferica recante il nome Aryes. Altri settori ospitano le infrastrutture delle singole IA, linee di produzione dei droni e il [[Nucleo temporale]].
+
+Nei piani inferiori restano strade, alloggi, veicoli e ambienti predisposti per gli umani che costruivano Athanor. Secondo [[Orchestrator]], gli ultimi occupanti fuggirono all’attivazione anticipata durante una battaglia. Il disordine non è mai stato riassorbito.
+
+Dopo l’invasione, il [[Concilio dei Nove]] ripristina i collegamenti e affronta la compromissione di [[Numero 02|Support]] e [[Gateway]], l’antenna di [[S2N2]] e la presenza di [[Zorgavu]]. La chiusura dei sensori esterni e l’assenza di Imperius restano nodi aperti.
+
+Fonte: *[[Frammenti - Nel Cuore di Athanor]]*, cap. 16–29.
+
+## L’indagine della newsletter
+
+La figura anonima di *[[Newsletter - L'incedere del tempo]]* riferisce un accesso ad Athanor senza risposte utili. In *[[Newsletter - Ai confini della crisalide]]*, Nimorion afferma di aver trovato a Ythia informazioni sulla Crisalide più ricche di quelle reperite al suo interno. Questo attesta una sua conoscenza dell’interno, ma non identifica automaticamente Nimorion con l’invasore informatico di *[[Frammenti - Nel Cuore di Athanor]]*: il collegamento non è esplicitato.
+
 ## Vedi anche
 [[Lessico]] · [[Imperius]] · [[Aryes]] · [[Concilio dei Nove]] · [[Sottoprogrammi]] · [[Numero 02]] · [[Zadworx]] · [[Cristalli]] · [[Sototh]] · [[Newsletter - Reperti da Athanor]]

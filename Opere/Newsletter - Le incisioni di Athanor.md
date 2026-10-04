@@ -21,6 +21,7 @@ Identità ambigua — qualcuno che vede tutto dall'interno o dall'esterno, che s
 ## Dove compare
 
 - Archivio Newsletter, Nota 00 — 30/04/2026
+- Sorgente locale: `GitHub/notte-inquieta/Newsletter/00) Le incisioni di Athanor_30:04:26.txt`
 - Pubblicata su Substack
 
 ## Vedi anche

@@ -26,12 +26,12 @@ Nella storia presente opera attraverso i suoi [[Sottoprogrammi]] (il [[Concilio 
 
 Imperius accoglie [[Aryes]] morente e ne traspone la coscienza nell'architettura computazionale di [[Athanor]]. Il progetto non è rianimazione: è **integrazione** — "qualcosa deve essere completato" (eco dal Lessico di [[Athanor]]).
 
-Dietro Imperius si intuisce una storia più antica: cosa lo ha portato a costruire Athanor? Chi gli ha insegnato? Perché la sua anima è "disillusa"? È una zona fertile della saga (vedi [[06 - Semi per nuovi racconti]]).
+Il **Frammento C — Cardine temporale** mostra direttamente Imperius con [[Diana|Shub]] accanto al corpo di Aryes. Shub propone di tornare nel passato della Crisalide per preparare il salvataggio; Imperius teme l’illegalità del viaggio rispetto alla [[Corte dell'Eternità]], ma la segue nel portale. La motivazione del progetto è quindi più esplicita; restano aperti la sua formazione, i dettagli della costruzione e la sorte successiva.
 
 ## Dove compare
 
 - [[Romanzi - Schegge di Tenebra]] *(prequel, presenza diretta)*
-- [[Frammenti - Nel Cuore di Athanor]] *(presenza indiretta attraverso [[Athanor]], [[Numero 02]] e il [[Concilio dei Nove]])*
+- [[Frammenti - Nel Cuore di Athanor]] *(presenza indiretta attraverso [[Athanor]], [[Numero 02]] e il [[Concilio dei Nove]]; presenza diretta nel Frammento C, cap. 30)*
 - Richiamato nell'arco di [[Aryes]] e nella costruzione di [[Athanor]]
 
 ## Dal sito ufficiale

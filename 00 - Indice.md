@@ -114,7 +114,18 @@ In scrittura (dal sito):
 - [[Newsletter - Reperti da Athanor]] — nota 02, reperti del Tempio di [[Athanor]] e memoria contro [[Oblio]]
 - [[Newsletter - Uno sguardo lontano]] — nota 03, primo sguardo sul [[Mare di Stelle]]
 - [[Newsletter - L'incedere del tempo]] — nota 04, ritorno alle rovine della [[Clessidra del Mana]]
+- [[Newsletter - Ai confini della crisalide]] — nota 05, i Neri e la memoria conservata
+- [[Newsletter - La guerra nascosta]] — nota 06, Ado/Zotac e l’arsenale dell’Anello
+- [[Newsletter - Pulsione]] — nota 07, Nimorion cerca Ristar
 
 ## Blog e apparati
 
 - [[Blog - Scelte e strumenti della saga]] — riflessioni pubbliche su piattaforme, archivi, licenza, vault e resilienza del progetto
+
+## Nuovi percorsi dalle sorgenti 2026
+
+- [[Flussi - Mirlo di Tre Sassi]] — cinque testi (0–4); [[Mirlo]], [[Taznym]], [[Exio]], [[Zotac]], [[Zanio]], [[Tiss]].
+- [[Resistenza]] · [[Anello]] · [[Tela del Mare delle Monadi]] · [[Vettori]] · [[Pinne dorsali]] · [[C4]].
+- [[Concilio dei Nove]] — nomi e ruoli delle IA; [[Numero 02|Support]], [[Operations]], [[Orchestrator]], [[Forge]], [[Specialist]], [[Architect]], [[Flux]], [[Gateway]].
+- [[Zorgavu]] · [[S2N2]] · [[Nucleo temporale]] · [[Corte dell'Eternità]].
+- [[Teatro - Prigioniera a Detha]] — scheda già presente nel vault.

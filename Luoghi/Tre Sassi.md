@@ -2,11 +2,11 @@
 
 ## Natura
 
-**Tre Sassi** è una città sotterranea costruita nelle **gallerie** di un cristallo del [[Mare di Stelle]]. In superficie appare come un ammasso anonimo di tre grandi rocce coperte d'erba e arbusti: nascosta in bella vista. I suoi abitanti — prevalentemente umani, con pochi gatti — vivono scanditi da rotazioni regolari, con acqua e cibo centellinati ma sufficienti. C'è un chiacchiericcio costante; è una comunità chiusa e compatta.
+**Tre Sassi** è una città sotterranea costruita in **gallerie sotterranee**, nella regione del [[Mare delle Monadi]] da cui proviene [[Mirlo]]. In superficie appare come un ammasso anonimo di tre grandi rocce coperte d'erba e arbusti: nascosta in bella vista. I suoi abitanti — prevalentemente umani, con pochi gatti — vivono scanditi da rotazioni regolari, con acqua e cibo centellinati ma sufficienti. C'è un chiacchiericcio costante; è una comunità chiusa e compatta.
 
 ## Isolamento
 
-Il popolo di Tre Sassi è cresciuto con il **terrore degli spazi aperti** e del mondo esterno, descritto come pieno di predatori e pazzi. Non tutti sapevano nemmeno che si potesse uscire dalla città. Le uniche storie sull'esterno venivano da voci come quella di [[Peter]], che parlava di pirati, mostri e navi.
+Il popolo di Tre Sassi è cresciuto con il **terrore degli spazi aperti** e del mondo esterno, descritto come pieno di predatori e pazzi. Mirlo dice nel capitolo 0 di non essere mai uscito dalle gallerie, ma nel capitolo 1 ricorda uscite controllate in superficie col proprio umano: la discrepanza fra le due testimonianze resta aperta. Le uniche storie sull'esterno venivano da voci come quella di [[Peter]], che parlava di pirati, mostri e navi.
 
 ## Evento
 

@@ -15,6 +15,10 @@ La Frattura avviene *dentro* il cristallo principale, non nel [[Mare di Stelle]]
 
 La condizione naturale è il Mare di Stelle, con i suoi cristalli interi e autonomi.
 
+## Testimonianza dello scontro
+
+Nel **Frammento B — Lo scontro** di *[[Frammenti - Nel Cuore di Athanor]]* (cap. 19), Sototh colpisce [[Aryes]] con la Lama dei boccioli; il cristallo collassa, trascina il corpo al proprio interno e si riempie di bolle grigie attorno a una sfera metallica prima di richiudersi. Nel capitolo 27 [[Orchestrator]] ricorda il collasso e la disattivazione dei sensori esterni. Il nesso narrativo con la Frattura è forte; il meccanismo completo non è ancora spiegato.
+
 ## Vedi anche
 
 [[07 - Cronologia delle Ere]] · [[Mare delle Monadi]] · [[Mare di Stelle]] · [[Monadi]] · [[Ispar]] · [[Cristalli]]

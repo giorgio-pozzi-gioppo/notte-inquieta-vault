@@ -12,7 +12,13 @@ I Neri sono un livello di difesa che la maggior parte degli abitanti del mondo d
 
 ## La storia non raccontata
 
-Perché i Neri hanno lasciato Ythia/Dondolan? Cosa li ha spinti verso le [[Profondità della Notte]]? Questo è un territorio narrativo aperto — potenzialmente uno dei segreti più antichi del mondo, risalente a un'era precedente alla [[Frattura]] o addirittura a [[07 - Cronologia delle Ere#1. L'Innesto|L'Innesto]].
+Perché i Neri hanno lasciato Ythia/Dondolan? Cosa li ha spinti verso le [[Profondità della Notte]]? Questo è un territorio narrativo aperto — la cui collocazione cronologica non è stabilita. La nota 05 conferma le disposizioni di Diana e la memoria conservata, ma non data il loro ritiro.
+
+## Memoria e disposizioni di Diana
+
+*[[Newsletter - Ai confini della crisalide]]* mostra una città tecnologica abitata dai Neri presso una fenditura della Crisalide. Una guardia con armatura pesante e fucile a impulsi vede [[Nimorion]] mimetizzato, lo riconosce e gli vieta l’accesso, citando disposizioni di [[Diana]]. Il Comando non ne vuole la testa, ma lo vuole lontano dalla città e dalla fenditura.
+
+I Neri **non sono stati toccati dall’oblio**: continuano a ricordare e a presidiare le soglie. Il meccanismo che li ha preservati non viene spiegato. Questa rivelazione non chiarisce ancora perché abbiano lasciato Ythia.
 
 ## Vedi anche
 

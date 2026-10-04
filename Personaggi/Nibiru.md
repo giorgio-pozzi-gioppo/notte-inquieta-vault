@@ -25,6 +25,10 @@ Reggente del [[Senato dei Saggi]]. Formalmente convoca il [[Consiglio del Contin
 - *[[Racconti intrecciati - Diradando l'oblio]]* ep. 12 *Gli indizi dal passato* (citata da Icore e da Zira)
 - *[[Racconti intrecciati - Diradando l'oblio]]* ep. 13 *Incroci a Ythia* (citata da Zira)
 
+## Informazioni sui confini
+
+In *[[Newsletter - Ai confini della crisalide]]*, Nimorion attribuisce alle informazioni recuperate a Ythia e alla conoscenza di Nibiru il successo della ricerca dei Neri e di una fenditura. Il testo non mostra come abbia ottenuto quelle informazioni né prova una collaborazione consapevole di Nibiru con lui.
+
 ## Vedi anche
 
 [[Ispar]] · [[Chrono]] · [[Continuum]] · [[Senato dei Saggi]] · [[Consiglio del Continuum]] · [[Ythia]] · [[Icore]] · [[Zira]]

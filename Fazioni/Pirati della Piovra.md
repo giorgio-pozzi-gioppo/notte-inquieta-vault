@@ -24,7 +24,7 @@ Creature da guerra colossali di Sototh, schierate solo nelle offensive più deci
 
 - *[[Racconti intrecciati - Diradando l'oblio]]* — presenza ricorrente come forza antagonista
 - *[[Teatro - All'Ombra di Detha]]* — citati come forza al servizio di [[Sototh]]
-- Cap. 3 *Le stanze di Chrono*: "Piovre Volanti di Sototh" hanno conquistato la Clessidra del Mana
+- Ep. 5 *Le stanze di Chrono*: "Piovre Volanti di Sototh" hanno conquistato la Clessidra del Mana
 
 ## Vedi anche
 

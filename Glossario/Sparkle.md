@@ -6,6 +6,12 @@
 
 Per la voce completa — natura, varianti, individui noti — vedi **[[Ispar]]**.
 
+## Testimonianze di Mirlo
+
+Nei capitoli 2–4 di *[[Flussi - Mirlo di Tre Sassi]]*, [[Exio]] mostra lettura del pensiero e comunicazione mentale; [[Zotac]] spiega che gli Sparkle germogliano dalla realtà senza genealogia. La tutela del mondo è presentata da Zotac come missione della stirpe. Mirlo resta incerto di fronte a questa aspettativa.
+
+Gli ospiti dell’[[Anello]] trattano la fame di Mirlo come dipendenza acquisita dalla vita con gli umani; la sua esperienza resta quella di un bisogno concreto. Queste affermazioni dei personaggi non sostituiscono la voce ontologica del [[Lessico]].
+
 ## Vedi anche
 
 [[Ispar]] · [[Iskaroth]] · [[Ythiano]] · [[Continuum]] · [[Chrono]]

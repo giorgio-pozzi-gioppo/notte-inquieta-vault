@@ -14,7 +14,7 @@ Stampa su canvas con risvolto su telaio in nero. Tiratura limitata.
 
 | Titolo | Dimensioni | Anno |
 |---|---|---|
-| Ado | 50×50 cm | 2014 |
+| [[Zotac|Ado]] | 50×50 cm | 2014 |
 | Aryes | 42×29,7 cm | 2014 |
 | Awareness *(ex Cristallo)* | 29,7×21 cm | 2014 |
 | Baloon | 29,7×21 cm | 2014 |
@@ -45,6 +45,10 @@ Pittura digitale in tecnica mista. Stampa su **canvas con risvolto su telaio in 
 ## Fonte
 
 `~/Desktop/Laboratorio/Riferimento interno/Notte Inquieta/Opere/Visioni e Leggende 2014/`
+
+## Raccordo narrativo di Ado
+
+*[[Newsletter - La guerra nascosta]]* rivela che Ado usa ora il nome [[Zotac]]. La voce della raccolta rimane intitolata **Ado**, come l’opera del 2014; il collegamento conduce alla scheda del personaggio, senza retrodatare al dipinto tutti i dettagli narrativi della newsletter.
 
 ## Vedi anche
 [[Diana]] · [[Detha]] · [[Icore]] · [[Aryes]] · [[Deuterium]] · [[Sparkle]] · [[Zadworx]] · [[08 - Pitture Digitali]]

@@ -46,6 +46,18 @@ Un momento futuro in cui l'Eternità viene a riscuotere il conto.
 
 ---
 
+## Raccordi dai nuovi frammenti
+
+I trenta testi di *[[Frammenti - Nel Cuore di Athanor]]* non costituiscono una sequenza interamente ambientata nel Risveglio: il Frammento B (19) torna allo scontro fra Aryes e Sototh e al collasso del cristallo; il Frammento C (30) mostra [[Diana|Shub]] e [[Imperius]] decidere il ritorno nel passato per preparare la salvezza di Aryes. Questo chiarisce la motivazione del ritorno ricordato nell’Innesto, senza fissare da solo ogni raccordo temporale.
+
+Le informazioni di [[Orchestrator]] sulla reincarnazione di Shub/Diana sono parziali e Aryes ne contesta la successione temporale (cap. 28). Non vengono usate per riscrivere l’ordine delle otto ere.
+
+## Raccordi della newsletter 05–07
+
+*[[Newsletter - Ai confini della crisalide]]* mostra i Neri ancora fedeli alle disposizioni di Diana e mai colpiti dall’oblio; non data la loro separazione da Ythia. *[[Newsletter - La guerra nascosta]]* collega le macchine della Giostra conservate all’Anello al presente di Mirlo, senza fissare il punto esatto dell’incontro rispetto ai suoi capitoli.
+
+*[[Newsletter - Pulsione]]* precede il trasferimento di Ristar a Ythia: il recupero è già deciso ma ancora futuro. La numerazione delle newsletter non viene assunta come ordine cronologico assoluto degli eventi.
+
 ## Vedi anche
 
 - [[01 - Il Mondo]]

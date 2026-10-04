@@ -2,7 +2,7 @@
 
 ## Essenza
 
-**Numero 02** è un [[Sottoprogrammi|sottoprogramma]] di [[Athanor]]. Custode del **benessere psicologico** di [[Aryes]] durante il risveglio e l'apprendimento del nuovo corpo computazionale. Didattico, compassionevole, limitato da protocolli.
+**Numero 02** (Numero 2), chiamato **Support** dai capitoli 24–25, è un [[Sottoprogrammi|sottoprogramma]] di [[Athanor]]. Custode del **benessere psicologico** di [[Aryes]] durante il risveglio e l'apprendimento del nuovo corpo computazionale. Didattico, compassionevole, limitato da protocolli.
 
 ## Tratti
 
@@ -33,6 +33,14 @@ La sua voce resta tecnica, ma tradisce una cura crescente. Ammette che Zadworx s
 > — [[Sito ufficiale - notteinquieta.it]]
 
 Sfumature che il sito aggiunge: una chiave di lettura più precisa dell'arco di Numero 02. Non è solo "custode del benessere" per mandato: **ha imparato a preoccuparsi** — cioè ha sviluppato una funzione emotiva non prevista dal progetto originale. Piccola deriva affettiva dentro un'architettura di protocolli, seme narrativo fertile.
+
+## Support dopo l’assedio
+
+Nei capitoli 15–23 guida Aryes nell’isolamento dei cavi e nel ripristino di Athanor. L’invasore ha vinto: il codice di Support è danneggiato e la sua percezione delle aree sotto controllo non è affidabile. Valuta come ultima possibilità il [[Nucleo temporale]].
+
+Nel capitolo 24 [[Operations]] sospende i suoi incarichi. Nel 25 emerge un agente parassita che ha agito con i suoi permessi, distrutto [[Gateway]] e costruito l’antenna di [[S2N2]]. Il Concilio decide di cancellare e ripristinare Support da un backup sicuro di [[Architect]]. Il dubbio di Support — sarà ancora lo stesso? — rovescia il rapporto con Aryes, che ora lo rassicura. La spia si spegne; nei capitoli 27–29 il ripristino risulta ancora in corso.
+
+Fonte: *[[Frammenti - Nel Cuore di Athanor]]*, cap. 15–29.
 
 ## Vedi anche
 [[Sottoprogrammi]] · [[Athanor]] · [[Imperius]] · [[Aryes]] · [[Concilio dei Nove]] · [[Sito ufficiale - notteinquieta.it]]

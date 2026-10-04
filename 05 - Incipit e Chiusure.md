@@ -11,13 +11,13 @@ Esempi **verbatim** dal canone letto.
 > Calore, cenere, silenzio. Tutto è secondo le istruzioni. Ora il nome.
 
 ***In cima alla torre di Detha*** ([[Diana]] in [[Detha]])
-> Nel mare di stelle, splendeva una luce solitaria. Il suo bagliore illuminava lo spazio circostante, creando una distanza incolmabile tra il tempo del mondo e quello della torre, un'isola nel buio dove tutto scorreva più lentamente.
+> Nel mare di stelle, splendeva una luce solitaria. Il suo bagliore illuminava lo spazio circostante, creando una distanza incolmabile tra il tempo del mondo e quello della torre, un’isola nel buio dove tutto scorreva più lentamente.
 
 ***Brusco risveglio*** ([[Aryes]] in [[Athanor]])
 > Una luce pulsava lenta, accompagnata da un debole ronzio. Aryes aprì a fatica gli occhi, la testa china su un soffice cuscino vellutato, un lieve senso di capogiro.
 
 ***La locanda Zita del Nessundove*** ([[Yari]])
-> Il vento fischiava insistente, facendo oscillare il grande masso sospeso. Corde e ponti lo tenevano legato alle altre rocce.
+> Il vento fischiava insistente, facendo oscillare il grande masso sospeso. Corde e ponti lo tenevano legato alle altre rocce e consentivano ai viaggiatori di spostarsi in quel labirinto.
 
 ## Chiusure
 
@@ -26,17 +26,19 @@ Esempi **verbatim** dal canone letto.
 > *(scritta sul muro, dopo la scomparsa di [[Antarius]]/[[Nimorion]])*
 
 ***All'Ombra di Detha*, Atto III**
-> LE MASCHERE (insieme): Tutto è teatro. E il sipario è fatto di ombre.
+> LE MASCHERE (insieme)
+> Tutto è teatro.
+> E il sipario… è fatto di ombre.
 > *(Si spegne ogni luce. Restano solo gli occhi dorati delle maschere, sospesi nel vuoto.)*
 
-**Capitolo 4 di *Diradando l'[[Oblio|oblio]]*** ([[Gisèl]] – [[Nymeria]])
+**Episodio 7, *Amaro destino*, di *Diradando l'[[Oblio|oblio]]*** ([[Gisèl]] – [[Nymeria]])
 > Scese una notte senza fine.
 
 ***Il sogno di Diana*, v0 2015**
-> Ultimamente faccio dei sogni senza senso… devo essere ancora malata.
+> «Ultimamente faccio dei sogni senza senso...» si toccò la fronte «...devo essere ancora malata.»
 
 ***L'incubo di Diana*, v0 2016**
-> Diana piangeva sul letto… Fuori pioveva. Fuori pioveva sempre. E adesso che cosa sarebbe successo?
+> Diana piangeva sul letto, le mani sul viso sudato tremavano ancora per la paura di quel brutto incubo. Temeva che i suoi sogni potessero essere qualcosa di più di semplici sogni, temeva che potesse essere successo davvero qualcosa di brutto là fuori. Fuori pioveva. Fuori pioveva sempre. E adesso che cosa sarebbe successo?
 
 ## Vedi anche
 [[02 - Tono e Voce]] · [[04 - Strutture ricorrenti]]

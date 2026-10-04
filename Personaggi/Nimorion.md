@@ -32,7 +32,7 @@ Ama entrambi i suoi "genitori involontari" e li batte in astuzia.
 
 - Voce dolcemente ironica, che maschera verità profonde.
 - Cambia maschera a seconda del momento: l'identità non è fissa, è performativa.
-- Non prende partito: prende tempo.
+- Evita uno schieramento aperto; può però favorire operazioni altrui per propri fini, come il recupero di Ristar nella nota 07.
 - È, nella saga, la **voce della possibilità**.
 
 ## Dove compare
@@ -41,6 +41,9 @@ Ama entrambi i suoi "genitori involontari" e li batte in astuzia.
 - *[[Teatro - All'Ombra di Detha]]* (coro e attore)
 - *[[Teatro - Prigioniera a Detha]]* (Eco udibile solo da Sototh)
 - *[[Newsletter - Trasmissioni da Athanor]]* (ritorno a Detha)
+- *[[Newsletter - Ai confini della crisalide]]* (incontro con i Neri presso una fenditura)
+- *[[Newsletter - La guerra nascosta]]* (visita all’Anello e incontro con Ado/Zotac)
+- *[[Newsletter - Pulsione]]* (ricerca di Ristar attraverso le piccole maschere)
 
 ## Dal sito ufficiale
 
@@ -48,6 +51,16 @@ Ama entrambi i suoi "genitori involontari" e li batte in astuzia.
 > — [[Sito ufficiale - notteinquieta.it]]
 
 **Provenienza sconosciuta** è la formulazione giusta: il sito non specifica l'origine, e la vaghezza è canonica. Il distacco di Nimorion — ridere di ciò che gli altri temono — non è indifferenza ma sopravvivenza cosmica: chi non appartiene a nessuno non può essere colpito dove gli altri vengono colpiti.
+
+## L’indagine nelle note 05–07
+
+In *[[Newsletter - Ai confini della crisalide]]* viene identificato da una guardia dei [[I Neri|Neri]] nonostante la mimetizzazione. Scopre che conservano la memoria e obbediscono ancora alle disposizioni di Diana sulle fenditure. Le informazioni di Nibiru lo hanno condotto alla loro città.
+
+In *[[Newsletter - La guerra nascosta]]* esplora l’[[Anello]] e riconosce [[Zotac]] come Ado, un vecchio amico. Cerca una strada e una persona in vista di un futuro incerto; Zotac riconosce la loro amicizia ma gli impone regole di accesso. La mimetizzazione di Nimorion ha limiti tecnologici: guardie dei Neri e sensori di Zotac riescono a superarla.
+
+In *[[Newsletter - Pulsione]]*, le sue piccole maschere trovano [[Ristar]] grazie alle voci degli Spettri delle Profondità della Notte. Nimorion intende sfruttare il recupero già deciso dal Continuum per aiutarla senza esporsi e tornare a Ythia. Il motivo del suo interesse resta aperto.
+
+La continuità investigativa rende plausibile riconoscerlo nelle figure anonime delle note 02–04, ma non costituisce un’identificazione esplicita in ciascuno di quei testi.
 
 ## Vedi anche
 [[Lessico]] · [[Diana]] · [[Sototh]] · [[Antarius]] · [[Detha]] · [[Rune dorate]] · [[03 - Temi]] · [[Sito ufficiale - notteinquieta.it]]

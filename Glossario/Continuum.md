@@ -43,5 +43,9 @@ Nel Continuum circolano due monete molto diffuse:
 - [[Yinnead]] — druido dei felini di Athanor
 - [[Serena]] — paladina umana, futura inviata diplomatica del suo popolo
 
+## Il recupero di Ristar nella newsletter
+
+In *[[Newsletter - Pulsione]]*, le piccole maschere riferiscono a [[Nimorion]] che il Continuum ha deciso di recuperare [[Ristar]] da una monade esterna che [[Sototh]] cerca di assimilare. Il trasferimento a [[Ythia]] è ancora futuro. Nimorion vuole approfittare dell’operazione per aiutarla senza esporsi: la nota non gli attribuisce la decisione del Continuum né mostra un suo intervento già compiuto.
+
 ## Vedi anche
 [[Ispar]] · [[Sparkle]] · [[Ythia]] · [[Dondolan]] · [[Mare delle Monadi]] · [[Frattura]] · [[Nibiru]] · [[Pirati della Piovra]] · [[Senato dei Saggi]] · [[Consiglio del Continuum]] · [[Fortezza Bruna]] · [[Gancio]] · [[I Bianchi]] · [[Sole Posticcio]] · [[Sole Inverso]] · [[01 - Il Mondo]] · [[Sito ufficiale - notteinquieta.it]]

@@ -21,7 +21,11 @@ Il [[Gancio]] riporta a Ythia viaggiatori e recuperati da tutta la [[Crisalide]]
 
 ## Vulnerabilità
 
-Nonostante sia attrezzata per evitarlo, Ythia/Dondolan sarà invasa dai demoni — vedi ep. 7 di *[[Racconti intrecciati - Diradando l'oblio]]*. Il [[Continuum]] è minacciato dal crollo, probabilmente dall'avanzata da [[Krot]].
+Nell’ep. 7 di *[[Racconti intrecciati - Diradando l'oblio]]* viene invasa la monade di origine di [[Nymeria]], non Ythia. Nymeria raggiunge Ythia dopo il salvataggio. Negli ep. 19–20 il conflitto arriva invece direttamente al Senato e la città viene messa in assetto da guerra.
+
+## La macchina delle catene
+
+Nella nota *[[Newsletter - La guerra nascosta]]*, [[Nimorion]] riconosce nel magazzino dell’Anello la macchina delle catene con cui fu costruita Ythia. La macchina esiste ancora e si trova fra le attrezzature custodite da Zotac; il testo non ne descrive il funzionamento e non attribuisce a Zotac da solo la costruzione della città.
 
 ## Vedi anche
 [[Dondolan]] · [[Lessico]] · [[Ythiano]] · [[Continuum]] · [[Sparkle]] · [[Athanor]] · [[Gancio]] · [[Fortezza Bruna]] · [[Senato dei Saggi]] · [[Santuario di Athanor]] · [[Città Capovolta]] · [[Sole Posticcio]] · [[Sole Inverso]] · [[Krot]]

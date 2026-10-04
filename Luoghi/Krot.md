@@ -6,7 +6,7 @@
 
 ## Ruolo
 
-Origine probabile dell'**invasione demoniaca** su [[Ythia]] (ep. 7 di *[[Racconti intrecciati - Diradando l'oblio]]*).
+Legato all’**invasione demoniaca della monade di origine di [[Nymeria]]** (ep. 7–8 di *[[Racconti intrecciati - Diradando l'oblio]]*). Non è un’invasione di Ythia: Nymeria raggiunge la città dopo essere stata salvata.
 
 ## Vedi anche
 [[Solco Azzurro]] · [[Ythia]] · [[Nymeria]]

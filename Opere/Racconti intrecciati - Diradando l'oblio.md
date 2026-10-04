@@ -2,7 +2,7 @@
 
 ## Forma
 
-**Architettura narrativa multipla**, 20 episodi pubblici. La numerazione interna usa capitoli principali e appendici (2b, 2c, 3b, 4b, 5b, 5c, 6b, 6c, 6d, 6e), ma in pubblicazione procede come una serie lineare da 1 a 20. Più linee, più personaggi, più tempi — intrecciati.
+**Architettura narrativa multipla**, 20 episodi pubblici. Le sorgenti correnti sono numerate da 1 a 20, come gli episodi pubblici. I precedenti codici con appendici (2b, 2c, 3b, 4b, 5b, 5c, 6b, 6c, 6d, 6e) restano riferimenti storici, indicati anche nelle intestazioni dei testi. Più linee, più personaggi, più tempi — intrecciati.
 
 Il titolo contiene la missione: **diradare l'oblio** in cui [[Diana]] è caduta per mano della [[Pozione violacea]] di [[Sototh]].
 
@@ -12,7 +12,7 @@ La raccolta segue più linee narrative che convergono verso la liberazione di [[
 
 ## Episodi pubblici
 
-| Ep. | Codice interno | Titolo |
+| Ep. | Codice precedente | Titolo |
 |---:|---|---|
 | 1 | 1 | **In cima alla torre di Detha** |
 | 2 | 2 | **La locanda Zita del Nessundove** |
@@ -54,7 +54,7 @@ La raccolta segue più linee narrative che convergono verso la liberazione di [[
 
 ## Fonte
 
-`~/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/Archivio Notte Inquieta/RACCONTI INTRECCIATI/DIRADANDO L'OBLIO (ex Pillole) */`
+`GitHub/notte-inquieta/Racconti Intrecciati/Diradando l'oblio/` — 20 TXT, verificati il 3 ottobre 2026.
 
 ## Vedi anche
 [[Diana]] · [[Chrono]] · [[Nymeria]] · [[Gisèl]] · [[Yari]] · [[Yadon]] · [[Detha]] · [[Flussi temporali]] · [[Pozione violacea]] · [[Icore]] · [[Zira]] · [[Ristar]] · [[Yinnead]] · [[Alpha19]]

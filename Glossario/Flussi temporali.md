@@ -6,5 +6,11 @@ Correnti di tempo plurali che attraversano il mondo. Non c'è un'unica linea cro
 
 La saga costruisce narrazioni **simultanee**: scene diverse accadono in flussi diversi, e convergono solo a tratti.
 
+## Dispositivi e interventi attestati
+
+Il [[Nucleo temporale]] di Athanor dovrebbe riavvolgere il tempo fino alla prima attivazione senza conservare la consapevolezza. È distinto dai due ciondoli con cui [[Diana|Shub]] apre un portale nel passato della Crisalide insieme a [[Imperius]]. Quest’ultimo richiama le restrizioni della [[Corte dell'Eternità]].
+
+Fonte: *[[Frammenti - Nel Cuore di Athanor]]*, cap. 23 e 30.
+
 ## Vedi anche
 [[Chrono]] · [[Clessidra del Mana]] · [[Sototh]] · [[01 - Il Mondo]]

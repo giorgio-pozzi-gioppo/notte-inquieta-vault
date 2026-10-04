@@ -32,6 +32,10 @@ Identità non dichiarata. La figura è mascherata, vestita di scuro, abituata a 
 - Pubblicata su Substack
 - Sorgente locale: `~/Desktop/Laboratorio/GitHub/notte-inquieta/Newsletter/03) uno sguardo lontano.txt`
 
+## Raccordo con le note successive
+
+Le note *[[Newsletter - Ai confini della crisalide]]* e *[[Newsletter - La guerra nascosta]]* nominano esplicitamente [[Nimorion]] e mostrano la sua ricerca di informazioni, l’uso della mimetizzazione e la conoscenza dell’interno di Athanor. La continuità con questa figura anonima è suggerita, ma non si trasforma retroattivamente in una menzione esplicita del nome nel presente testo.
+
 ## Vedi anche
 
 [[Mare di Stelle]] · [[Cristalli]] · [[Specchi di ossidiana]] · [[Giardino del Mezzo]] · [[Profondità della Notte]]

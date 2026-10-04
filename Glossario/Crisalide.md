@@ -16,5 +16,9 @@ crisalide = cristallo protagonista = cristallo principale = cristallo della stor
 
 Al di là della Crisalide si trovano le [[Profondità della Notte]] — il [[Mare di Stelle]] privo di protezioni, buio, freddo, esposto alle correnti e alle creature stellari. È raggiungibile da [[Ythia]] tramite un portale. Nelle zone più buie e nascoste dell'interno vivono i [[Bruti Notturni]].
 
+## Soglie sorvegliate
+
+In *[[Newsletter - Ai confini della crisalide]]*, Nimorion raggiunge una fenditura aperta sulle Profondità della Notte e una città tecnologica dei Neri. Il percorso attraversa anche un quartiere di villette rimasto sottoterra in seguito alla Frattura. I Neri continuano a difendere le fenditure secondo le disposizioni di Diana, conservando la memoria che altri hanno perduto.
+
 ## Vedi anche
 [[Mare delle Monadi]] · [[Monadi]] · [[Athanor]] · [[Frattura]] · [[Mare di Stelle]] · [[Profondità della Notte]] · [[Bruti Notturni]]

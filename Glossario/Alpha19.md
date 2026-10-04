@@ -2,9 +2,9 @@
 
 ## Natura
 
-**Alpha19** è un'antichissima **macchina da guerra** di forma piramidale, costruita nell'era de *[[La Giostra]]*. Nel presente della saga viene **rimessa in funzione** da [[Gisèl]] e [[Yadon]], appena in tempo per rispondere all'escalation del conflitto.
+**Alpha19** è un **vascello da guerra piramidale** di Ythia, impiegato da [[Gisèl]] e [[Yadon]] nell’episodio 20. Gisèl afferma che stanno ricominciando a costruire questi vascelli in segreto. Il testo attesta la ripresa di una tecnologia, non che questa nave specifica sia un relitto riattivato della [[La Giostra|Giostra]].
 
-Non è un'invenzione recente: è un'arma dimenticata, recuperata dal passato proprio nel momento in cui serve.
+Durante la sortita distrugge navi e installazioni dei Pirati, interrompendo i rituali che alimentano il Krot. Il contrattacco la distrugge, ma nessun Ispar è a bordo: i Cantori la guidano da remoto, occultati nei pressi della battaglia.
 
 ## Funzionamento
 
@@ -12,17 +12,21 @@ La nave è guidata dai **[[I Cantori|Cantori]]** — tre [[Ispar]] che la pilota
 
 ## Ruolo narrativo
 
-Alpha19 rappresenta il momento in cui il passato dimenticato torna a essere una risorsa. La sua riattivazione è uno degli snodi tecnico-militari della saga: il [[Continuum]] dispone di una capacità bellica che nessuno sapeva ancora di avere.
+Alpha19 rappresenta il momento in cui il passato dimenticato torna a essere una risorsa. La ripresa della costruzione dei vascelli è uno degli snodi tecnico-militari della saga: il [[Continuum]] dispone di una capacità bellica che nessuno sapeva ancora di avere.
 
 ## Relazioni
 
-- [[Gisèl]]: uno dei due che la riattiva.
-- [[Yadon]]: l'altro. Insieme trovano e rimettono in funzione la nave.
+- [[Gisèl]]: dirige la sortita.
+- [[Yadon]]: contribuisce alla ripresa della costruzione e coordina l’arrivo della nave e il rientro dei Cantori.
 - [[I Cantori]]: i tre Ispar che la guidano operativamente.
 
 ## Dove compare
 
-- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 17 *I sotterranei proibiti* (prima menzione/apparizione)
+- *[[Racconti intrecciati - Diradando l'oblio]]* ep. 20 *Cambio di passo* (sortita e distruzione del vascello)
+
+## Confronto con l’arsenale dell’Anello
+
+Nella nota *[[Newsletter - La guerra nascosta]]* sono attestate macchine piramidali da battaglia dell’epoca della Giostra conservate da [[Zotac]]. Il testo non le identifica con Alpha19. Le due informazioni restano distinte: conservazione di macchine antiche all’Anello e ripresa della costruzione dei vascelli dichiarata da Gisèl nell’episodio 20.
 
 ## Vedi anche
 

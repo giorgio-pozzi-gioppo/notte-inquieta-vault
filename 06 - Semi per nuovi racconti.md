@@ -3,7 +3,7 @@
 Direzioni fertili — zone del mondo, dei personaggi o dei temi che il canone letto lascia aperte e che possono nutrire spunti nuovi.
 
 ## 1. La Voce di [[Imperius]]
-Chi è veramente Imperius? Che cosa lo ha spinto a costruire [[Athanor]] e a salvare [[Aryes]]? Un racconto che entri nella mente dietro il [[Concilio dei Nove]], i suoi dissidi, la sua *"illusione disillusa"*.
+Il Frammento C di *[[Frammenti - Nel Cuore di Athanor]]* chiarisce la decisione di tornare nel passato con Shub per salvare Aryes. Restano da esplorare chi sia veramente Imperius e come abbia realizzato [[Athanor]]. Un racconto che entri nella mente dietro il [[Concilio dei Nove]], i suoi dissidi, la sua *"illusione disillusa"*.
 
 ## 2. Lo Spettro di [[Detha]]
 Le "creature senza tempo" che assediano la torre di [[Diana]] — cosa cercano? Chi le manda? Uno spettro riacquista coscienza e [[Memoria|memoria]], scopre di essere stato qualcosa prima di diventare ombra.
@@ -15,7 +15,7 @@ Le "creature senza tempo" che assediano la torre di [[Diana]] — cosa cercano? 
 Il **dormiente-esperimento**. Cosa accade quando il "Guardiano" riprende funzione in [[Athanor]]? Come reagisce ad [[Aryes]]? Conflitto fra programma primario e volontà emergente.
 
 ## 5. La Notte di [[Ythia]]
-L'**invasione demoniaca** raccontata dalla prospettiva della città stessa, delle strade, dei rifugi. La caduta del [[Continuum]] dall'interno.
+La crisi al Senato e la messa in assetto da guerra degli ep. 19–20 di *[[Racconti intrecciati - Diradando l'oblio]]*, viste dalle strade e dai rifugi. Un’eventuale invasione futura resta uno spunto, non un fatto attestato dall’ep. 7, che riguarda la monade di Nymeria.
 
 ## 6. Frammenti di [[Chrono]]
 I pezzi scintillanti di Chrono ucciso restano sparsi. La parte ritrovata da [[Yadon]] (cucciolo metallico) è solo una. Come si ricompongono le altre? Può ricomporsi del tutto? **Metamorfosi e rinascita parziale**.

@@ -46,5 +46,17 @@ In *[[Teatro - Prigioniera a Detha]]* il sonno non la rende passiva: parla, resi
 
 Sfumature che il sito aggiunge al ritratto canonico: **molteplicità che respira** (non un io singolo) e il fatto che il suo risveglio *cambia la forma del mondo* — coerente con il passaggio dalla sesta alla settima era (vedi [[07 - Cronologia delle Ere]]).
 
+## Shub e il cardine temporale
+
+**Shub** è il nome con cui Aryes conosceva Diana prima del proprio scontro con Sototh. Nel capitolo 27 [[Orchestrator]] identifica esplicitamente Shub con Diana; nel 28 parla di una reincarnazione, ma Aryes rileva un’incongruenza nei tempi e le informazioni disponibili all’IA sono incomplete e in parte secretate.
+
+Nel **Frammento C — Cardine temporale**, Shub trova Aryes ucciso dalla propria spada, usata da Sototh. Recupera due ciondoli temporali dalla sua bardatura e apre un portale nel passato della [[Crisalide]], coinvolgendo [[Imperius]] per preparare il salvataggio. Rifiuta di aspettare l’autorizzazione della [[Corte dell'Eternità]]. Il testo chiarisce la decisione, non ogni passaggio della sua attuazione.
+
+Fonte: *[[Frammenti - Nel Cuore di Athanor]]*, cap. 27–28 e 30.
+
+## Disposizioni ricordate dai Neri
+
+In *[[Newsletter - Ai confini della crisalide]]*, una guardia richiama disposizioni di Diana per escludere Nimorion dalla città e dalla fenditura. I Neri non hanno dimenticato e continuano a proteggere la Crisalide. Non viene detto che Diana abbia provocato o controllato personalmente la loro immunità all’oblio.
+
 ## Vedi anche
 [[Lessico]] · [[Sototh]] · [[Nimorion]] · [[Chrono]] · [[Detha]] · [[Pozione violacea]] · [[03 - Temi]] · [[Sito ufficiale - notteinquieta.it]]

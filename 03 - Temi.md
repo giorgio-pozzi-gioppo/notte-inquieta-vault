@@ -24,7 +24,8 @@ Non un'unica linea: [[Flussi temporali]] plurali. [[Chrono]] custodisce, [[Sotot
 
 ## Teatro e Spettacolo
 
-> Tutto è teatro. E il sipario è fatto di ombre.
+> Tutto è teatro.
+> E il sipario… è fatto di ombre.
 
 Realtà come performance. Nimorion attore e pubblico. Le Maschere di *[[Teatro - All'Ombra di Detha]]* come coro consenziente.
 

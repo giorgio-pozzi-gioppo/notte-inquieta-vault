@@ -16,13 +16,17 @@ Non è una guerra tra due schieramenti definiti: è il caos di un'era in cui i c
 
 ## Eredità
 
-Da quest'era proviene [[Alpha19]] — una macchina da guerra piramidale rimasta dormiente per secoli e riattivata nel presente da [[Gisèl]] e [[Yadon]]. La sopravvivenza di Alpha19 è una delle tracce materiali che quest'era ha lasciato nella cronologia della saga.
+Il precedente raccordo con [[Alpha19]] va distinto da quanto attestato nei racconti: nell’ep. 20 di *[[Racconti intrecciati - Diradando l'oblio]]*, [[Gisèl]] parla della ripresa della costruzione dei vascelli con l’aiuto di [[Yadon]]. Il testo non data Alpha19 alla Giostra e non la presenta come relitto rimasto dormiente per secoli.
 
 ## Collocazione temporale
 
 ```
 Schegge di Tenebra  →  ...  →  La Giostra  →  ...  →  Era VII (opere principali)
 ```
+
+## Macchine conservate all’Anello
+
+*[[Newsletter - La guerra nascosta]]* fornisce ora una testimonianza esplicita della conservazione di macchine dell’epoca della Giostra. [[Nimorion]] le riconosce nel magazzino di [[Zotac|Ado / Zotac]] all’[[Anello]], dove vede almeno sei piramidi da battaglia, dischi di amplificazione e la macchina delle catene usata per costruire Ythia. Zotac conferma che non erano perdute. Nessuna delle piramidi viene chiamata Alpha19: il collegamento fra la singola nave e quelle macchine rimane indeterminato.
 
 ## Vedi anche
 

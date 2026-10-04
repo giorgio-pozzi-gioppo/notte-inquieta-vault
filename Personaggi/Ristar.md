@@ -37,6 +37,11 @@ Maga del fuoco. Il suo incantesimo più potente è la **"fiera dagli occhi di fu
 - *[[Racconti intrecciati - Diradando l'oblio]]* ep. 10 *Il ritorno del fuoco* (protagonista)
 - *[[Racconti intrecciati - Diradando l'oblio]]* ep. 13 *Incroci a Ythia* (a Ythia con Nymeria)
 - *[[Romanzi - Il Sole di Agata]]* *(in scrittura — protagonista)*
+- *[[Newsletter - Pulsione]]* (oggetto della ricerca delle maschere; non compare direttamente in scena)
+
+## La ricerca di Nimorion
+
+In *[[Newsletter - Pulsione]]* Ristar è cercata dalle piccole maschere di [[Nimorion]], che la localizzano seguendo le voci degli Spettri delle Profondità della Notte. Il Continuum ha già deciso di recuperarla; Nimorion intende aiutarla senza esporsi e raggiungerla a Ythia. Il testo non svela perché la cerchi e non mostra ancora un intervento effettivo di Nimorion nel salvataggio.
 
 ## Vedi anche
 

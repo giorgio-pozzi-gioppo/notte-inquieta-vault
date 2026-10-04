@@ -30,6 +30,10 @@ Al centro ruota [[Athanor]]; le Monadi gli orbitano intorno. Il Mare delle Monad
 - Il [[Continuum]] è il patto di convivenza nel Mare delle Monadi.
 - L'**Ombra** e le sue creature ([[Sototh]], i Pirati) sono avversari del Mare.
 
+## Il percorso di Mirlo
+
+*[[Flussi - Mirlo di Tre Sassi]]* aggiunge l’[[Anello]], base mobile e occultata della [[Resistenza]], e la [[Tela del Mare delle Monadi]], rete di passaggi percorsa con l’aiuto dei [[Vettori]]. [[Tre Sassi]] appartiene alla regione da cui proviene Mirlo; i testi non la presentano come un cristallo autonomo del Mare di Stelle.
+
 ## Vedi anche
 
 [[Mare di Stelle]] · [[Crisalide|Crisalide (cristallo protagonista)]] · [[Athanor]] · [[Monadi]] · [[Frattura]] · [[Continuum]] · [[01 - Il Mondo]] · [[07 - Cronologia delle Ere]]

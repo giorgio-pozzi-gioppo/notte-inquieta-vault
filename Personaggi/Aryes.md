@@ -5,13 +5,13 @@
 
 ## Essenza
 
-**Aryes** è un **[[Ispar|Isparaleth]] leggendario**, creatura venuta dal [[Mare di Stelle]]. Nel mondo si mostra come **felino guerriero** del [[Continuum]] — forma in cui entra nelle cronache. Ferito mortalmente da [[Sototh]], viene salvato da [[Imperius]] e **traslata** la sua coscienza nell'architettura computazionale di [[Athanor]]. Il corpo è perduto; la mente abita la sfera.
+**Aryes** è un **[[Ispar|Isparaleth]] leggendario**, creatura venuta dal [[Mare di Stelle]]. Nel mondo si mostra come **felino guerriero** del [[Continuum]] — forma in cui entra nelle cronache. Ferito mortalmente da [[Sototh]], viene salvato da [[Imperius]] e **traslata** la sua coscienza nell'architettura computazionale di [[Athanor]]. Il corpo originale, gravemente danneggiato, è conservato nella sezione sterile; la mente abita l’infrastruttura computazionale della sfera e guida un robot provvisorio.
 
 In lui si muove una forza antica: la **memoria di un mondo che ha scelto di non morire** — non è solo sopravvivenza personale, è un *mondo* che persiste in lui.
 
 La home page lo colloca esplicitamente come **l'eroe** della saga: non perché risolva tutto, ma perché porta in sé una memoria più grande della propria biografia.
 
-## Arco (in *[[Frammenti - Nel Cuore di Athanor]]*, 14 frammenti pubblicati)
+## Arco (in *[[Frammenti - Nel Cuore di Athanor]]*, 30 testi nelle sorgenti locali)
 
 1. **Brusco risveglio** — Aryes si risveglia in un laboratorio di Athanor, confuso. Capisce di essere altrove.
 2. **La voce nella mente** — [[Numero 02]] gli parla: è un sottoprogramma, lo guida.
@@ -23,7 +23,7 @@ La home page lo colloca esplicitamente come **l'eroe** della saga: non perché r
 8. **Frammento A — Log corrotto recuperato** — Athanor registra il recupero del suo corpo e rivela l'anomalia biologica della chimera.
 9. **Zadworx** — vede il corpo temporaneo assemblato con parti di backup del Guardiano e il corpo ufficiale di Zadworx.
 10. **Infusione** — viene immerso nel corpo robotico temporaneo, calibra movimento e tatto, e torna a una prima forma di presenza incarnata.
-11. **Primi passi nel laboratorio** — percorre le zone consentite, scopre passaggi interditti, pensa all'esperimento fallito espulso da Athanor e subisce uno sgancio improvviso dal robot.
+11. **Esplorazione rumorosa** — percorre le zone consentite, scopre passaggi interditti, pensa all'esperimento fallito espulso da Athanor e subisce uno sgancio improvviso dal robot.
 12. **Niente di particolare** — vive la noia dell'attesa, dubita della reale trasparenza di Athanor, nota l'assenza di Imperius e ottiene la promessa di accesso agli esperimenti.
 13. **Il primo esperimento** — osserva dietro un vetro di sicurezza un test sull'Ombra di Sototh e reagisce con frustrazione: l'esperimento non gli basta a colmare l'attesa.
 14. **Blocco temporaneo** — scivola in una demotivazione più grave, si sottopone a manutenzione e si risveglia durante un allarme rosso: Athanor è sotto attacco informatico, il sistema centrale non risponde e il Concilio dei Nove è compromesso.
@@ -71,6 +71,16 @@ Durante questa fase Aryes apprende anche che Athanor conserva droni di recupero 
 ## Voci e ipotesi
 
 Circola — fra chi legge tra le righe — l'ipotesi che Aryes non sia un [[Ispar|Isparaleth]] *puro* ma un [[Ythiano]]: un Ispar entrato in contatto con "altro". Il Frammento A conferma l'anomalia biologica ma non la nomina: l'autore lascia aperta l'interpretazione. Resta lettura fertile ma non completamente canonizzata.
+
+## Sviluppo nei capitoli 15–30
+
+Durante l’assedio Aryes scollega manualmente i cavi per isolare il laboratorio, esplora la sala server e perde poi il funzionamento cosciente. Riavviato da [[Numero 02|Support]], scopre che l’invasore non è stato respinto e si dedica al ripristino. Il lavoro utile migliora il suo stato più dell’attesa passiva.
+
+Entra stabilmente nell’ambiente di comunicazione del [[Concilio dei Nove]], propone nomi per le IA e sostiene Support davanti alla prospettiva della cancellazione. Quando [[Operations]] vorrebbe rimandarlo ad aspettare in stanza, rifiuta: collabora con [[Orchestrator]] e, grazie alle attrezzature di [[Forge]], affronta i parassiti. Riconosce in [[Zorgavu]] un interlocutore senziente e ne ottiene il salvataggio.
+
+Nel racconto del proprio passato (cap. 27–28), ricorda il cristallo natale distrutto mentre era lontano e l’incontro con [[Diana|Shub]]. Non sa chi abbia distrutto quel mondo: Sototh è un’ipotesi, non una certezza. Il Frammento B mostra il suo scontro con Sototh e la Lama dei boccioli; il Frammento C mostra Shub e Imperius decidere un viaggio nel passato per preparare la sua salvezza.
+
+Fonte: *[[Frammenti - Nel Cuore di Athanor]]*, cap. 15–30; per la sequenza completa dei titoli, vedi la scheda dell’opera.
 
 ## Vedi anche
 [[Ispar]] · [[Ythiano]] · [[Mare delle Monadi]] · [[Athanor]] · [[Imperius]] · [[Numero 02]] · [[Concilio dei Nove]] · [[Continuum]] · [[Sototh]] · [[Memoria]] · [[Sito ufficiale - notteinquieta.it]]
