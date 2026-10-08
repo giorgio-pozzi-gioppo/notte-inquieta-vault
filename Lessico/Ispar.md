@@ -35,6 +35,10 @@ Individui noti nel cristallo principale: [[Chrono]] (custode dei tempi), [[Iceb]
 - **[[Iskaroth]]** (anche: **Isparaleth caduto**): sono la stessa cosa. Un Ispar che ha perso la libertà e vive per gli ideali di un altro. Antitesi canonica della natura ispariana.
 - **Ombre**: costrutti di materia assorbita, non Ispar in senso proprio ma loro contraltare buio (vedi riferimenti al progetto di [[Sototh]]). Intelligenti assassini vuoti.
 
+## Rimando alla poetica autoriale
+
+Per la lettura personale e simbolica degli Isparaleth come psicopompi, vedi [[L'origine di Notte Inquieta — Ariete, Aryes e gli Isparaleth psicopompi|L’origine di Notte Inquieta]] (testimonianza autoriale, 8 ottobre 2026). Questo rimando riguarda la poetica dell’opera e non aggiunge proprietà soprannaturali alla stirpe né modifica le definizioni del Lessico.
+
 ## Vedi anche
 
 [[Lessico]] · [[Iskaroth]] · [[Ythiano]] · [[Continuum]] · [[Mare di Stelle]] · [[Mare delle Monadi]] · [[Clessidra del Mana]] · [[Chrono]] · [[Aryes]] · [[Icore]] · [[Ristar]] · [[Sito ufficiale - notteinquieta.it]]

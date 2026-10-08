@@ -58,5 +58,9 @@ Fonte: *[[Frammenti - Nel Cuore di Athanor]]*, cap. 27–28 e 30.
 
 In *[[Newsletter - Ai confini della crisalide]]*, una guardia richiama disposizioni di Diana per escludere Nimorion dalla città e dalla fenditura. I Neri non hanno dimenticato e continuano a proteggere la Crisalide. Non viene detto che Diana abbia provocato o controllato personalmente la loro immunità all’oblio.
 
+## Rimando alla poetica autoriale
+
+In [[L'origine di Notte Inquieta — Ariete, Aryes e gli Isparaleth psicopompi|L’origine di Notte Inquieta]] (8 ottobre 2026), l’autore riconosce nel gesto di Diana che cerca di salvare Aryes il proprio gesto creativo per conservare Ariete. La corrispondenza Diana/Giorgio è poetica e autoriale, non un’identità letterale nella continuità narrativa.
+
 ## Vedi anche
 [[Lessico]] · [[Sototh]] · [[Nimorion]] · [[Chrono]] · [[Detha]] · [[Pozione violacea]] · [[03 - Temi]] · [[Sito ufficiale - notteinquieta.it]]

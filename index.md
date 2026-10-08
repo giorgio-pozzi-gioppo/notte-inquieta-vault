@@ -33,6 +33,7 @@ Non cercare una lettura lineare.
 Puoi iniziare da:
 
 - [[00 - Indice]]
+- [[L'origine di Notte Inquieta — Ariete, Aryes e gli Isparaleth psicopompi|L’origine di Notte Inquieta]] — origine autobiografica e poetica del progetto
 - [[Mappa della Notte Inquieta]] — accesso pubblico alle risorse, utile per lettori e futuri curiosi
 - [[01 - Il Mondo]]
 - [[03 - Temi]]

@@ -60,5 +60,9 @@ Fonte: *[[Frammenti - Nel Cuore di Athanor]]*, cap. 16–29.
 
 La figura anonima di *[[Newsletter - L'incedere del tempo]]* riferisce un accesso ad Athanor senza risposte utili. In *[[Newsletter - Ai confini della crisalide]]*, Nimorion afferma di aver trovato a Ythia informazioni sulla Crisalide più ricche di quelle reperite al suo interno. Questo attesta una sua conoscenza dell’interno, ma non identifica automaticamente Nimorion con l’invasore informatico di *[[Frammenti - Nel Cuore di Athanor]]*: il collegamento non è esplicitato.
 
+## Rimando alla poetica autoriale
+
+[[L'origine di Notte Inquieta — Ariete, Aryes e gli Isparaleth psicopompi|L’origine di Notte Inquieta]] (8 ottobre 2026) illumina il significato autobiografico di Aryes custodito dentro Athanor: la conservazione e la trasformazione dell’esistenza del personaggio si legano al ricordo di Ariete. È un rimando di poetica, senza modifiche alla funzione narrativa della sfera.
+
 ## Vedi anche
 [[Lessico]] · [[Imperius]] · [[Aryes]] · [[Concilio dei Nove]] · [[Sottoprogrammi]] · [[Numero 02]] · [[Zadworx]] · [[Cristalli]] · [[Sototh]] · [[Newsletter - Reperti da Athanor]]

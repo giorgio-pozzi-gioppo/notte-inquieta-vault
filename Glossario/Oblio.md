@@ -15,6 +15,10 @@ Diradare l'Oblio è l'impresa centrale dei racconti ambientati nel [[07 - Cronol
 
 In *[[Newsletter - La guerra nascosta]]*, Zotac ricorda Nimorion, la propria identità di Ado e le macchine della Giostra. Questa memoria è attestata, ma non basta a concludere che tutti i membri della Resistenza siano immuni all’oblio o che lo siano nello stesso modo dei Neri.
 
+## Rimando alla poetica autoriale
+
+Il gesto creativo di conservare qualcuno attraverso l’immaginazione è documentato in [[L'origine di Notte Inquieta — Ariete, Aryes e gli Isparaleth psicopompi|L’origine di Notte Inquieta]] (8 ottobre 2026). Il rimando riguarda l’origine autobiografica e la poetica dell’opera; non identifica il lutto con la forza narrativa dell’Oblio.
+
 ## Vedi anche
 
 [[07 - Cronologia delle Ere]] · [[Memoria]] · [[Sedazione]] · [[Diana]] · [[Racconti intrecciati - Diradando l'oblio]] · [[Sito ufficiale - notteinquieta.it]]

@@ -3,6 +3,7 @@
 ## Panoramica
 
 - [[00 - Manifesto]] — ragione d'essere di questa struttura
+- [[L'origine di Notte Inquieta — Ariete, Aryes e gli Isparaleth psicopompi|L’origine di Notte Inquieta]] — documento fondativo: Ariete, Aryes e la lettura simbolica degli Isparaleth; testimonianza autoriale dell’8 ottobre 2026
 - [[00 - Collaboratori AI]] — istruzioni operative per modelli AI
 - [[00 - Collaboratori Umani]] — come contribuire al progetto
 - [[01 - Il Mondo]] — cosmologia, piani, regole

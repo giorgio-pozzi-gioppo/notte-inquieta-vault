@@ -58,6 +58,10 @@ Le informazioni di [[Orchestrator]] sulla reincarnazione di Shub/Diana sono parz
 
 *[[Newsletter - Pulsione]]* precede il trasferimento di Ristar a Ythia: il recupero è già deciso ma ancora futuro. La numerazione delle newsletter non viene assunta come ordine cronologico assoluto degli eventi.
 
+## Origine dell’opera — fuori dalla cronologia narrativa
+
+Per l’origine autobiografica dell’opera, vedi [[L'origine di Notte Inquieta — Ariete, Aryes e gli Isparaleth psicopompi|L’origine di Notte Inquieta]]. L’8 ottobre 2026 è la data della testimonianza e della scoperta interpretativa dell’autore, non la data di nascita della saga né un evento da collocare nelle otto ere.
+
 ## Vedi anche
 
 - [[01 - Il Mondo]]

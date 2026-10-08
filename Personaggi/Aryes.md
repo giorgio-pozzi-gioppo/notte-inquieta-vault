@@ -82,5 +82,9 @@ Nel racconto del proprio passato (cap. 27–28), ricorda il cristallo natale dis
 
 Fonte: *[[Frammenti - Nel Cuore di Athanor]]*, cap. 15–30; per la sequenza completa dei titoli, vedi la scheda dell’opera.
 
+## Rimando alla poetica autoriale
+
+La testimonianza autoriale dell’8 ottobre 2026, [[L'origine di Notte Inquieta — Ariete, Aryes e gli Isparaleth psicopompi|L’origine di Notte Inquieta]], custodisce il legame fra Ariete, il primo gatto dell’autore, e Aryes, che ne porta il volto nel mondo narrativo. È una chiave autobiografica; lascia aperte la natura del personaggio e le questioni narrative ancora irrisolte.
+
 ## Vedi anche
 [[Ispar]] · [[Ythiano]] · [[Mare delle Monadi]] · [[Athanor]] · [[Imperius]] · [[Numero 02]] · [[Concilio dei Nove]] · [[Continuum]] · [[Sototh]] · [[Memoria]] · [[Sito ufficiale - notteinquieta.it]]

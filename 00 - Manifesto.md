@@ -52,3 +52,9 @@ https://giorgio-pozzi-gioppo.github.io/notteinquieta-mappa/
 https://gioppo.codeberg.page/notteinquieta-mappa/
 
 Giorgio Pozzi (Gioppo)
+
+⸻
+
+## Origine e poetica
+
+[[L'origine di Notte Inquieta — Ariete, Aryes e gli Isparaleth psicopompi|L’origine di Notte Inquieta]] — testimonianza autoriale dell’8 ottobre 2026 sul tributo ad Ariete da cui nasce la saga. Documento fondativo da leggere accanto a questo manifesto.

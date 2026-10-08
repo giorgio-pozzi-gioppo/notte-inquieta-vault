@@ -20,5 +20,9 @@ Al di là della Crisalide si trovano le [[Profondità della Notte]] — il [[Mar
 
 In *[[Newsletter - Ai confini della crisalide]]*, Nimorion raggiunge una fenditura aperta sulle Profondità della Notte e una città tecnologica dei Neri. Il percorso attraversa anche un quartiere di villette rimasto sottoterra in seguito alla Frattura. I Neri continuano a difendere le fenditure secondo le disposizioni di Diana, conservando la memoria che altri hanno perduto.
 
+## Rimando alla poetica autoriale
+
+In [[L'origine di Notte Inquieta — Ariete, Aryes e gli Isparaleth psicopompi|L’origine di Notte Inquieta]] (8 ottobre 2026), la trasformazione della Crisalide per salvare Aryes rispecchia il gesto dell’autore che crea per conservare Ariete. Il collegamento documenta una lettura autoriale, distinta dalla definizione cosmologica.
+
 ## Vedi anche
 [[Mare delle Monadi]] · [[Monadi]] · [[Athanor]] · [[Frattura]] · [[Mare di Stelle]] · [[Profondità della Notte]] · [[Bruti Notturni]]

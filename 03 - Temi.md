@@ -37,5 +37,9 @@ Aryes solo in Athanor ma connesso ai [[Sottoprogrammi]]. [[Nymeria]] sola in bat
 
 Chrono si frammenta. Aryes muore e rinuncia al corpo. [[Deuterium]] sembra perdersi con la [[Clessidra del Mana]], ma ritorna. Il dono è intriso di perdita.
 
+## Lutto e origine dell’opera
+
+[[L'origine di Notte Inquieta — Ariete, Aryes e gli Isparaleth psicopompi|L’origine di Notte Inquieta]] (testimonianza dell’8 ottobre 2026) collega la perdita di Ariete alla nascita della saga, al volto di Aryes e al gesto creativo di Diana. La lettura degli Isparaleth come psicopompi è personale e simbolica: accompagna i temi di memoria, identità e creazione senza ridurre l’intreccio a un’allegoria univoca.
+
 ## Vedi anche
 [[01 - Il Mondo]] · [[02 - Tono e Voce]] · [[04 - Strutture ricorrenti]]
