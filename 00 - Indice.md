@@ -101,6 +101,10 @@ In scrittura (dal sito):
 - [[Racconti intrecciati - Cronache di Dondolan]]
 - [[Romanzi - Il Sole di Agata]]
 
+## Semi — archivio sorgente
+
+- [[Semi - L'ultimo giorno]] — titolo e provenienza; pubblicazione editoriale non verificata.
+
 ## Pitture digitali
 
 → panoramica: [[08 - Pitture Digitali]]
